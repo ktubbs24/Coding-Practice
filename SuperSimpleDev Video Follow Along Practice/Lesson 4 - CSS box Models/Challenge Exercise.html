@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Challenge Button Exercises</title>
+        <style>
+                                /* Pagination button challenge */
+
+                    a { 
+                        padding: 3px;
+                        color: purple;
+                    }
+
+
+                    #pagination1, #pagination2 { 
+                        margin: 5px; 
+                        padding: 7px;
+                    }   
+
+
+                    /* Stretch button challenge */
+
+                    .stretch { 
+                        margin-top: 20px;
+                        margin-bottom: 20px;
+                        color: white; 
+                        background-color: green; 
+                        border: none;
+                        padding-top: 6px;
+                        padding-bottom: 6px;  
+                        padding-right: 14px; 
+                        padding-left: 14px;   
+                        cursor: pointer;
+                        transition: padding 0.7s ease-out;
+                    }
+
+                    .stretch:hover { 
+                        padding-top: 14px;
+                        padding-bottom: 14px;  
+                        padding-right: 35px; 
+                        padding-left: 35px;   
+                    }
+
+                    /* 3D Click button challenge */
+
+                    .three-d { 
+                        color: white; 
+                        background-color: green; 
+                        cursor: pointer; 
+                        border: none; 
+                        padding-top: 8px;
+                        padding-bottom: 8px;  
+                        padding-right: 16px; 
+                        padding-left: 16px;
+                        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); 
+                    }
+
+
+                    /* This makes the button look like it's animated clicking by adding the margin-top, left values. */
+                    .three-d:active { 
+                        box-shadow: none;
+                        margin-top: 3px; 
+                        margin-left: 3px;
+                    }
+
+                    .margin { 
+                        margin: 25px; 
+                    }
+
+
+                    /*Margin and padding button challenge */
+
+                    .one, .two, .three { 
+                        color: white; 
+                        background-color: green; 
+                        border: none; 
+                        cursor: pointer; 
+                        
+                        margin-left: 5px; 
+                        padding-top: 8px;
+                        padding-bottom: 8px;  
+                        padding-right: 10px; 
+                        padding-left: 10px;  
+                        
+                        transition: padding 0.15s;
+                            margin: 0.15s;
+                    }
+
+                    .one:hover, .two:hover, .three:hover { 
+                        padding-right: 25px; 
+                        padding-left: 25px; 
+                        margin-left: 0px; 
+                        margin-right: 0px;
+                    }
+        </style>
+    </head>
+    <body>
+                        <!-- 4h. Pagination -->
+        <button id="pagination1">Back</button>
+                <a href="https://www.1.com">1</a>
+                <a href="https://www.2.com">2</a>
+                <a href="https://www.3.com">3</a>
+                <a href="https://www.4.com">4</a>
+                <a href="https://www.5.com">5</a>
+        <button id="pagination2">Next</button>
+
+        <br>
+
+        <!-- 4i Stretch -->
+        <button class="stretch">Stretch</button>
+
+        <br>
+
+        <!-- 4j 3D Click -->
+
+        <button class="three-d">Shadow</button>
+
+        <br> 
+
+        <!-- 4k. Margin and padding together --> 
+
+        <div class="margin">
+            <button class="one">One</button> 
+            <button class="two">Two</button> 
+            <button class="three">Three</button>
+        </div>  
+    </body>
+
+</html>
