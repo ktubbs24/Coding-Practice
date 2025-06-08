@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025_05_14"
             }
+          },
+          {
+            "id": "62b83b373f86e6a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f76bf8419844330f",
+  "active": "62b83b373f86e6a1",
   "lastOpenFiles": [
     "journals/2025_05_15.md",
     "journals/2025_05_14.md",
