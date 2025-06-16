@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline Display Challenge Exercises</title>
+    <style>
+        /* --- Sign Up Form --- */
+
+        .textinput { 
+            font-size: 18px;
+            width: 130px;
+            padding: 8px; 
+            border-radius: 8px; 
+            border: 1px solid lightgray;
+            margin-bottom: 10px;
+        }
+
+        .emailinput { 
+            font-size: 18px;
+            display: block; 
+            width: 283px;
+            padding: 8px; 
+            border-radius: 8px; 
+            border: 1px solid lightgray;
+        }
+
+        .signup_button { 
+            color: white; 
+            background-color: rgb(40, 125, 255);
+            display: block;
+            margin-top: 10px;
+            border: none; 
+            padding: 10px 120px 10px 120px; 
+            border-radius: 5px; 
+            font-size: 18px; 
+        }
+
+        /* --- Uber Request Form --- */
+
+        .uber { 
+            font-family: Arial, serif;
+        }
+
+        .uber_textbox {  
+            display: block; 
+            padding: 10px;
+            width: 380px;
+            margin: 7px; 
+            background-color: #D0D0D0;
+            border: none;
+            color: darkgray; 
+            border-radius: 5px;
+            font-size: 17px; 
+        }
+
+        .black_button { 
+            color: white; 
+            background-color: black; 
+            margin: 25px 10px;
+            padding: 10px 20px;
+            font-size: 17px; 
+        }
+
+        .gray_button { 
+            background-color: #D0D0D0;
+            border: none; 
+            padding: 12px 20px; 
+            font-size: 17px; 
+        }
+    </style>
+</head>
+<body>
+    <h1 style="font-family: Arial, serif; color: red; text-decoration: underline;">Challenge Exercises</h1>
+
+    <!-- 8d. -->
+    <div>
+        <h2 style="font-family: Arial;">8d. Sign Up Form</h2>
+        <form>
+            <!-- This is weird to have 2 first names but this is how the picture was...? --> 
+            <input class="textinput" type="text" placeholder="First name">
+            <input class="textinput" type="text" placeholder="First name">
+            <input class="emailinput" type="email" placeholder="Email">
+            <button class="signup_button">Sign Up</button>
+        </form>
+    </div>
+
+    <!-- 8e. -->
+    <br>
+    <br>
+    <div class="uber">
+        <h2>8e. Uber Request-a-ride-form</h2>
+        <h2>Request a ride now</h2>
+        <form>
+            <input class="uber_textbox" type="text" placeholder="Enter pickup location">
+            <input class="uber_textbox" type="text" placeholder="Enter destination">
+            <button class="black_button">Request now</button>
+            <button class="gray_button">Schedule for later</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Textbox and Inline Display Practice</title>
+        <style>
+            input {
+                font-family: Arial, general-font;
+            }
+
+            .textbox {
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            .paragraphtext {
+                display: inline-block;
+                vertical-align: middle;
+                padding-right: 20px;
+            }
+
+            img {
+                width: 300px;
+                margin-top: 20px;
+                margin-bottom: 15px;
+                display: block;
+            }
+
+            .google_search {
+                width: 400px;
+                padding: 7px;
+                border: none;
+                border-radius: 20px;
+                box-shadow: 1px 1px 8px 1px lightgray;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="text-decoration: underline;">Lesson 8 Exercises - Display Block and Inline-Block</h1>
+
+        <!-- 8a. Exercise -->
+        <div>
+            <h2>8a.</h2>
+            <input class="textbox" type="text" placeholder="Name" name="name">
+            <input type="text" placeholder="Email" name="email">
+        </div>
+
+        <!-- 8b. Exercise -->
+        <div>
+            <br>
+            <br>
+            <h2>8b.</h2>
+            <p class="paragraphtext">
+                Thanks for chatting with our<br>
+                customer support. Would you<br>
+                like to take our quick survey?
+            </p>
+            <button>Yes</button>
+            <button>No</button>
+        </div>
+
+        <!-- 8c. Exercise -->
+        <div>
+            <br>
+            <br>
+            <h2>8c.</h2>
+            <img src="https://tse2.mm.bing.net/th/id/OIP.Iq_AG0Nci05ecwQDcL8csAHaCg?r=0&rs=1&pid=ImgDetMain&cb=idpwebp1&o=7&rm=3" alt="Google logo">
+            <input class="google_search" type="text" placeholder="Search Google or type a URL">
+        </div>
+    </body>
+</html>
