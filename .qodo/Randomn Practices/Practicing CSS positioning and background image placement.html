@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html></html>
+<head>
+    <title>Practicing CSS position and background image</title>
+    <style>
+        /* fixed position */
+        #item1 { 
+            /* This button stays on the page when scrolling */
+            position: fixed; 
+            left: 10px; 
+            top: 35px; 
+        }
+
+        #p3 { 
+            position: fixed; 
+            left: 150px; 
+            top: 150px;
+        }
+
+        /* This button is positioned based on the x(left) and y(top) coordinates from the left corner side of the page */
+        #item2 { 
+            position: absolute; 
+            left: 50px; 
+            top: 60px; 
+        }
+
+        #item3 { 
+            position: absolute; 
+            left: 80px; 
+            top: 120px; 
+        }
+
+        /* Use relative position to reposition an element without taking it out of the static flow (the default element order). 
+        Relative positioned items take the static position as a reference. So the top-left corner of the static position becomes the new reference. */
+        .special { 
+            background-color: #FFD700; 
+            position: relative; 
+            left: 20px; 
+        }
+
+        /* Position: relative 
+        To precisely position child elements in relation to the position of the parent, set the parent to position: relative. 
+        This makes the top-left corner of the parent box the new reference point. */
+        #parent { 
+            position: relative;
+            border: 1px solid; 
+            width: 150px; 
+            height: 100px; 
+            left: 40px; 
+            top: 450px; 
+        } 
+
+        #child { 
+            position: absolute; 
+            left: 43px; 
+            top: 20px;
+            /* right and bottom edges of the child will be aligned with the right and bottom edges of the #parent */
+            right: 0px; 
+            bottom: 0px;
+        }
+
+        body { 
+            background-image: url('https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630');
+            /* background-repeat: repeat-y; image repeats from top to bottom (y-axis) */
+            /* background-repeat: repeat-x; image repeats from left to right (x-axis) */
+            /* background-repeat: repeat; image repeats from both axes simultaneously */  
+            background-repeat: no-repeat; /* Only in the left corner when the area around it is larger than the image if there is no background-position selected. */
+            background-position: 300px 50px; 
+            /* background-position: top center; Can also use words: The background-position property can take pixels, percentages and words like top, left, right, bottom, center. */
+            background-size: 1000px 500px; 
+            /* background-size: cover; other values */
+            /* background-size: contain; other values */
+        }
+    </style>
+</head>
+<body>
+    <button id="item1">Element 1</button>
+    <button id="item2">Element 2</button>
+    <button id="item3">Element 3</button>
+    <p id="p3">This is a fixed paragraph</p>
+    <div>
+        <div class="special">Second</div>
+    </div>
+    
+    <!-- Code below makes the parent become a reference point for the child in CSS -->
+    <div id="parent">
+        <button id="child">Accept</button>
+    </div>
+</body>
+</html>
