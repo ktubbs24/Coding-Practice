@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Truth Seeker Blog</title>
+  <link rel="stylesheet" href="Code Snippets/Website Sidebar/website_sidebar.css">
+  <script>
+    const sidebar = document.querySelector('.sidebar');
+    const toggleBtn = document.createElement('button');
+    toggleBtn.className = 'toggle-btn';
+    toggleBtn.innerHTML = '☰';
+    document.body.prepend(toggleBtn);
+
+    toggleBtn.addEventListener('click', () => {
+      sidebar.classList.toggle('active');
+      document.querySelector('.content').style.marginLeft = sidebar.classList.contains('active') ? '250px' : '0';
+    });
+
+    // Hide toggle button on desktop
+    if (window.innerWidth > 768) {
+      toggleBtn.style.display = 'none';
+    }
+    window.addEventListener('resize', () => {
+      toggleBtn.style.display = window.innerWidth > 768 ? 'none' : 'block';
+    });
+  </script>
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <a href="/" class="logo">Truth Seeker Blog</a>
+    </div>
+    <nav class="sidebar-nav">
+      <ul class="nav-list">
+        <li class="nav-item"><a href="/blog" class="nav-link">Home</a></li>
+        <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+        <li class="nav-item"><a href="/documents" class="nav-link">Documents</a></li>
+        <!-- Add more links as needed -->
+      </ul>
+    </nav>
+  </aside>
+  <main class="content">
+    <!-- Flowershow renders Obsidian notes here -->
+  </main>
+  <script src="/assets/script.js"></script>
+</body>
+</html>
