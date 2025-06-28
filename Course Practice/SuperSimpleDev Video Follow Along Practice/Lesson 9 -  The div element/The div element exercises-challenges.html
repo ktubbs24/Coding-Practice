@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Div element practice</title>
+        <style>
+            .redsquare {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                background-color: red;
+            }
+
+            .greencircle {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                background-color: green;
+                border-radius: 100px;
+            }
+
+            .textinborder {
+                display: inline-block;
+                border: 1px solid lightgray;
+                border-collapse: collapse;
+                background-color: white;
+                padding: 10px 200px 15px 20px;
+            }
+
+            .YouTubeborder {
+                font-family: Arial, serif;
+                color: white;
+                display: inline-block;
+                border: 1px solid lightgray;
+                border-collapse: collapse;
+                background-color: hsl(0, 0%, 20%);
+                padding: 10px 80px 15px 20px;
+            }
+
+            .tweet {
+                box-shadow: 2px 5px 20px 10px lightgray;
+                display: inline-block;
+                margin: 100px;
+                padding: 1px 1px 1px 1px;
+                border-radius: 10px;
+            }
+
+            .cat {
+                width: 60px;
+                height: 60px;
+                border-radius: 100px;
+                vertical-align: middle;
+                margin: 20px;
+            }
+
+            .tweetinputbox {
+                padding: -50px -30px -50px -30px;
+                vertical-align: middle;
+                border: none;
+                margin: 25px;
+                border: none;
+                border-radius: 40px;
+                width: 300px;
+                font-size: 18px;
+            }
+
+            .buttontweet {
+                border: none;
+                color: white;
+                background-color: rgba(0, 120, 255, 1.5);
+                border-radius: 20px;
+                margin-right: 30px;
+                font-size: 15px;
+                padding: 8px 15px 8px 15px;
+            }
+
+            .bluebutton {
+                color: white;
+                background-color: rgba(0, 120, 255, 1.5);
+                border-radius: 5px;
+                font-size: 15px;
+                border: none;
+                padding: 10px 15px;
+                margin: 0 0 10px 10px;
+            }
+
+            .catOnBlack {
+                width: 200px;
+                height: 200px;
+                border-radius: 5px;
+            }
+
+            .catProfile {
+                margin-left: 40px;
+                box-shadow: 8px 20px 20px lightgray;
+                display: inline-block;
+                border-radius: 15px;
+            }
+
+            .googleLogo {
+                width: 250px;
+                height: 110px;
+                margin-left: 300px;
+            }
+
+            .googleInput {
+                border: none;
+                border-radius: 20px;
+                box-shadow: 1px 2px 5px 3px lightgray;
+                font-size: 15px;
+                padding: 10px 200px 10px 30px;
+                margin-top: 15px;
+                margin-left: 165px;
+                width: 300px;
+            }
+
+            .graybutton {
+                margin-top: 30px;
+                margin-left: 250px;
+                margin-right: -30px;
+                margin-bottom: 50px;
+                display: inline-block;
+                border: none;
+                background-color: #f0f0f0;
+                padding: 10px 30px;
+                border-radius: 5px;
+                font-family: Arial, serif, sans-serif;
+            }
+
+            .graybutton2 {
+                margin-top: 30px;
+                margin-left: 80px;
+                display: inline-block;
+                border: none;
+                background-color: #f0f0f0;
+                padding: 10px 30px;
+                border-radius: 5px;
+                font-family: Arial, serif, sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+        <body>
+            <!--9a. -->
+            <div class="redsquare"></div>
+            <!--9b. -->
+            <div class="greencircle"></div>
+            <br /><br />
+            <!--9c. -->
+            <div class="textinborder">
+                <p>Satisfied with our service?</p>
+                <button>Yes</button>
+                <button>No</button>
+            </div>
+            <!--9d. -->
+            <div class="YouTubeborder">
+                <p style="font-size: 23px; font-weight: bold;">Install YouTube Music</p>
+                <p>
+                    Add YouTube Music to your desktop for quick and<br />early access
+                </p>
+            </div>
+
+            <!--9e -->
+            <div class="tweet">
+                <img
+                    class="cat"
+                    src="https://external-preview.redd.it/w4OHuxBN_rhoieORy0LabFzJ4rB837GmYlqp1P2Q5h8.jpg?auto=webp&s=e48b59100278a43bb318b6d35c0d3298e355cee0"
+                    alt="profile picture"
+                />
+                <input
+                    class="tweetinputbox"
+                    type="text"
+                    placeholder="What's happening?"
+                />
+                <button class="buttontweet">Tweet</button>
+            </div>
+        </body>
+
+        <!-- 9f -->
+
+        <br />
+        <br />
+        <h2
+            style="
+                color: red;
+                text-decoration: underline;
+                font-size: 30px;
+                font-family: Arial, serif;
+            "
+        >
+            Challenge Exercises
+        </h2>
+        <div class="catProfile">
+            <img
+                class="catOnBlack"
+                src="https://tse3.mm.bing.net/th/id/OIP.DAu_f81RSiXwO6SOsdKEDwHaHa?r=0&rs=1&pid=ImgDetMain&cb=idpwebpc2"
+                alt="profile picture of cat looking at me"
+            />
+            <p
+                style="
+                    margin: 0 0 10px 10px;
+                    font-weight: bold;
+                    font-family: Arial, serif;
+                "
+            >
+                Oliver
+            </p>
+            <p style="margin: 0 0 10px 10px; color: gray;">2 mutual friends</p>
+            <button class="bluebutton">Add Friend</button>
+        </div>
+
+        <!-- 9g -->
+
+        <br />
+        <br />
+        <div class="catProfile">
+            <img
+                class="catOnBlack"
+                src="https://tse3.mm.bing.net/th/id/OIP.DAu_f81RSiXwO6SOsdKEDwHaHa?r=0&rs=1&pid=ImgDetMain&cb=idpwebpc2"
+                alt="profile picture of cat looking at me"
+            />
+            <p
+                style="
+                    margin: 0 0 10px 10px;
+                    font-weight: bold;
+                    font-family: Arial, serif;
+                "
+            >
+                Oliver
+            </p>
+            <p style="margin: 0 0 10px 10px; color: gray;">2 mutual friends</p>
+            <button class="bluebutton">Add Friend</button>
+        </div>
+
+        <div class="catProfile">
+            <img
+                class="catOnBlack"
+                src="https://tse1.mm.bing.net/th/id/OIP.QiAVOugtCZQWf07I7IiErwHaEJ?r=0&w=1200&h=673&rs=1&pid=ImgDetMain&cb=idpwebpc2"
+                alt="profile picture of cat looking at me"
+            />
+            <p
+                style="
+                    margin: 0 0 10px 10px;
+                    font-weight: bold;
+                    font-family: Arial, serif;
+                "
+            >
+                Mimi
+            </p>
+            <p style="margin: 0 0 10px 10px; color: gray;">3 mutual friends</p>
+            <button class="bluebutton">Add Friend</button>
+        </div>
+
+        <div class="catProfile">
+            <img
+                class="catOnBlack"
+                src="https://tse2.mm.bing.net/th/id/OIP.JeNpPPpUorli-2A2EQ87oQHaHa?r=0&rs=1&pid=ImgDetMain&cb=idpwebpc2"
+                alt="profile picture of cat looking at me"
+            />
+            <p
+                style="
+                    margin: 0 0 10px 10px;
+                    font-weight: bold;
+                    font-family: Arial, serif;
+                "
+            >
+                Rex
+            </p>
+            <p style="margin: 0 0 10px 10px; color: gray;">4 mutual friends</p>
+            <button class="bluebutton">Add Friend</button>
+        </div>
+
+        <!-- 9h -->
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div>
+            <div>
+                <img
+                    class="googleLogo"
+                    src="https://www.pngall.com/wp-content/uploads/5/Google-Logo-PNG-Free-Download.png"
+                    alt="picture of the google logo"
+                />
+            </div>
+            <div>
+                <input
+                    class="googleInput"
+                    type="text"
+                    placeholder="Search Google or type a URL"
+                />
+            </div>
+            <div>
+                <button class="graybutton">Google Search</button>
+                <button class="graybutton2">I'm Feeling Lucky</button>
+            </div>
+        </div>
+    </body>
+</html>
