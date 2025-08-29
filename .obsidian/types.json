@@ -1,0 +1,20 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "level": "multitext",
+    "focus": "multitext",
+    "status": "multitext",
+    "language": "multitext",
+    "last_practiced": "datetime",
+    "platform": "multitext",
+    "last-practiced": "datetime",
+    "related": "text",
+    "type": "multitext",
+    "topic": "multitext",
+    "cards-made": "checkbox",
+    "original-entry": "datetime",
+    "date": "datetime"
+  }
+}

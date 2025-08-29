@@ -1,1 +1,7 @@
-{}
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "0-META/Attachments"
+}

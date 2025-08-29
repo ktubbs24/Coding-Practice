@@ -1,0 +1,34 @@
+{
+  "devices": {
+    "Kwenelas-iMac.local": {
+      "dayCounts": {
+        "2025-08-29": 114
+      },
+      "todaysWordCount": {
+        "Home.md": {
+          "initial": 73,
+          "current": 72
+        },
+        "0-META/Templates/Base Template.md": {
+          "initial": 321,
+          "current": 278
+        },
+        "0-META/Templates/Practice Note Template.md": {
+          "initial": 13,
+          "current": 14
+        },
+        "4-Resources/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md": {
+          "initial": 6,
+          "current": 119
+        }
+      }
+    }
+  },
+  "userId": "a3ff752a-3d9e-4ecf-b1b8-e970e6df3c46",
+  "publicPaths": [],
+  "timezone": "America/Los_Angeles",
+  "privateMode": false,
+  "statusBarStats": true,
+  "linkedNotesEnabled": true,
+  "linkedNotesMaxDepth": 1
+}

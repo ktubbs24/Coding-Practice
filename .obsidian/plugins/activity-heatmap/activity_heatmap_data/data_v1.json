@@ -1,0 +1,70 @@
+{
+  "checkpoints": {
+    "Obsidian Vault Structure (Practice-First PARA).md": {
+      "mtime": 1756467414288,
+      "wordCount": 678,
+      "fileSize": 5699
+    },
+    "0-META/Templates/Base Template.md": {
+      "mtime": 1756470101912,
+      "wordCount": 313,
+      "fileSize": 2222
+    },
+    "0-META/Templates/Practice Note Template.md": {
+      "mtime": 1756469416278,
+      "wordCount": 21,
+      "fileSize": 149
+    },
+    "Home.md": {
+      "mtime": 1756467858491,
+      "wordCount": 82,
+      "fileSize": 568
+    },
+    "4-Resources/Daily training with coding courses and interactive learning.md": {
+      "mtime": 1756464101832,
+      "wordCount": 609,
+      "fileSize": 3992
+    },
+    "4-Resources/The benefits of me using different coding platforms.md": {
+      "mtime": 1756462604551,
+      "wordCount": 450,
+      "fileSize": 3265
+    },
+    "4-Resources/Obsidian Vault For Coding/Best plugins for coders in Obsidian.md": {
+      "mtime": 1756462604534,
+      "wordCount": 857,
+      "fileSize": 7827
+    },
+    "3-Areas/JavaScript/JS arithmetic operators.md": {
+      "mtime": 1756469816917,
+      "wordCount": 38,
+      "fileSize": 222
+    },
+    "3-Areas/Common Functions/Arithmetic Operators.md": {
+      "mtime": 1756469816906,
+      "wordCount": 5,
+      "fileSize": 53
+    },
+    "README.md": {
+      "mtime": 1756459282245,
+      "wordCount": 19,
+      "fileSize": 108
+    },
+    "4-Resources/Obsidian Vault For Coding/Untitled.md": {
+      "mtime": 1756470004881,
+      "wordCount": 3,
+      "fileSize": 11
+    },
+    "4-Resources/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md": {
+      "mtime": 1756470040471,
+      "wordCount": 119,
+      "fileSize": 936
+    }
+  },
+  "activityOverTime": {
+    "2025-08-29": {
+      "wordCount": 786,
+      "fileSize": 5961
+    }
+  }
+}
