@@ -2,44 +2,64 @@
   "devices": {
     "Kwenelas-iMac.local": {
       "dayCounts": {
-        "2025-08-29": 849
+        "2025-08-29": 852,
+        "2025-08-30": 13
       },
       "todaysWordCount": {
-        "Home.md": {
-          "initial": 73,
-          "current": 89
+        "Devlog/2025-08-29.md": {
+          "initial": 249,
+          "current": 261
         },
-        "0-META/Templates/Base Template.md": {
-          "initial": 321,
-          "current": 306
-        },
-        "0-META/Templates/Practice Note Template.md": {
-          "initial": 13,
-          "current": 73
-        },
-        "4-Resources/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md": {
-          "initial": 6,
-          "current": 119
+        "Devlog/2025-08-30.md": {
+          "initial": 171,
+          "current": 83
         },
         "0-META/Templates/Devlog Template.md": {
-          "initial": 182,
-          "current": 163
+          "initial": 177,
+          "current": 118
         },
         "0-META/Templates/Course Practice Note Template.md": {
-          "initial": 14,
-          "current": 113
+          "initial": 123,
+          "current": 112
         },
-        "Devlog/2025-08-29.md": {
-          "initial": 165,
-          "current": 213
-        },
-        "Devlog/Coddy-Python_Basic IO.md": {
-          "initial": 4,
-          "current": 460
-        },
+        "0-META/Templates/Base Template.md": {
+          "initial": 300,
+          "current": 301
+        }
+      }
+    },
+    "Kwenelas-MacBook-Pro.local": {
+      "dayCounts": {
+        "2025-08-30": 51
+      },
+      "todaysWordCount": {
         "Devlog/Coddy-Python_Basic Input_Output.md": {
-          "initial": 459,
-          "current": 516
+          "initial": 504,
+          "current": 510
+        },
+        "0-META/Templates/Devlog Template.md": {
+          "initial": 164,
+          "current": 184
+        },
+        "0-META/Templates/Course Practice Note Template.md": {
+          "initial": 121,
+          "current": 126
+        },
+        "0-META/Templates/Base Template.md": {
+          "initial": 307,
+          "current": 311
+        },
+        "Devlog/Home.md": {
+          "initial": 104,
+          "current": 117
+        },
+        "Devlog/Home <>.md": {
+          "initial": 114,
+          "current": 117
+        },
+        "Devlog/Learning and practicing code/2025-08-29.md": {
+          "initial": 249,
+          "current": 249
         }
       }
     }

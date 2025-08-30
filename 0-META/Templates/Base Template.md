@@ -41,10 +41,12 @@ level:
   - intermediate
   - advanced
 cards-made: false
-tags:
-aliases:
+tags: 
+aliases: 
 date: 2025-08-29T05:18:00
 last-practiced: 2025-08-29T05:19:00
+banner: "![[source code image.jpg]]"
+banner_icon: 💻
 ---
 ```
 // Meaning of Yaml for each note in this vault
@@ -66,7 +68,7 @@ tags:
 # {{title}}
 ---
 date: {{date}}
-tags: #concept/ , #platform/ #tools/ (optional like VSCODE or git notes), #cards/ (notes tagged with different spaced repetition cards), #chatgpt/ (for any notes made from chatgpt or grok and saved as a reference)
+tags: #topic/ , #platform/ #tools/ (optional like VSCODE or git notes), #cards/ (notes tagged with different spaced repetition cards), #chatgpt/ (for any notes made from chatgpt or grok and saved as a reference)
 time: {[time]}
 reference for filling out this note: [[Base Template]]
 
@@ -115,7 +117,7 @@ What this note is about (e.g., purpose of the language, exercise goal, project d
 ---
 ## 🔗 Links
 
-- Spaced Repetition Cards For this Topic: [link to the page where all practice questions go for this code]
+- Spaced Repetition Cards For this Topic: [[SR-]]
 - Related skill: [[3-Skills/Languages/Python.md]]
 - Practice:
 	- [[1-Practice/Course Practice/Coddy/Python/Loops.md]]

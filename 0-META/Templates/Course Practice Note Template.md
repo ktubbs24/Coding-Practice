@@ -14,11 +14,15 @@ aliases:
 date:
 last_practiced:
   "{ date }":
+banner: "![[source code image.jpg]]"
+banner_icon: 💻
 ---
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
+
+![[source code image.jpg]]
 # Course Practice Note Template
 ---
-tags: #concept/  #platform/ 
+tags: #topic/ #platform/ 
 date: {{{{date}}}}
 time: {{time}}
 
@@ -58,9 +62,6 @@ reference for filling out this note: [[Base Template]]
 ````
 
 
-
-
-
 ---
 ## ✅ To-Do
 #todo
@@ -79,7 +80,7 @@ reference for filling out this note: [[Base Template]]
 ---
 ## 🔗 Links
 
-- Spaced Repetition Cards For this Topic: [link to the page where all practice questions go for this code]
+- Spaced Repetition Cards For this Topic: [[SR-]]
 - Related skill: [[3-Skills/Languages/Python.md]]
 - Practice:
 	- [[1-Practice/Course Practice/Coddy/Python/Loops.md]]

@@ -1,3 +1,8 @@
+---
+date: 2025-08-30T03:31:00
+status:
+  - archived
+---
 # GitHub Contribution iframe embed for Obsidian
 
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>

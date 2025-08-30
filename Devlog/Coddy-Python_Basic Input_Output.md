@@ -11,19 +11,22 @@ platform:
   - Coddy
 level:
   - beginner
-cards-made:
+cards-made: 
 tags:
-  - concept/io/python
-  - platform/coddy/io
-aliases:
-  - input output
+  - cards/python
+  - cards/io
+aliases: 
 date: 2025-08-29T20:57:00
 last_practiced: 2025-08-29T21:26:00
+banner: "![[source code image.jpg]]"
+banner_y: 0.5
+banner_icon: 💻
 ---
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
+
 # Coddy-Python_Basic Input_Output
 ---
-tags: #concept/io/python  #platform/coddy/io 
+tags: #platform/coddy/io  #topic/io 
 date: [[2025-08-29]]
 time: 20:57
 
@@ -72,6 +75,7 @@ age_difference = 120 - age
 print(f"{age_difference} years till 120") = #returns error
 
 # so this is the correct answer to the problem by converting/casting the input to integer (int)
+
 age = int(input())
 age_difference = 120 - age 
 print(f"{age_difference} years till 120")
@@ -114,6 +118,7 @@ print(f"{120 - int(age)} years till 120")
 
 
 
+
 ---
 ## ✅ To-Do
 #todo
@@ -138,7 +143,7 @@ print(f"{120 - int(age)} years till 120")
 ---
 ## 🔗 Links
 
-- Spaced Repetition Cards For this Topic: [link to the page where all practice questions go for this code]
+- Spaced Repetition Cards For this Topic: [[SR-Python_IO]]
 - Related skill: [[3-Skills/Languages/Python.md]]
 - Practice:
 	- [[1-Practice/Course Practice/Coddy/Python/Loops.md]]

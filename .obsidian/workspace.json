@@ -6,7 +6,6 @@
       {
         "id": "ac362f18bc81f9eb",
         "type": "tabs",
-        "dimension": 86.77248677248677,
         "children": [
           {
             "id": "c4f2890cf3c97caa",
@@ -21,95 +20,8 @@
               "icon": "lucide-file",
               "title": "Coddy-Python_Basic Input_Output"
             }
-          },
-          {
-            "id": "e53ab59b89dd1793",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "pinned": true,
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
         ]
-      },
-      {
-        "id": "d5751c56953713d9",
-        "type": "tabs",
-        "dimension": 13.227513227513226,
-        "children": [
-          {
-            "id": "a529fb9dfccacf94",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Library/Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Obsidian Vault Structure (Practice-First PARA)"
-            }
-          },
-          {
-            "id": "3184163c4337001e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-META/Templates/Devlog Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Devlog Template"
-            }
-          },
-          {
-            "id": "17f2ba122e4003a2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-META/Templates/Base Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Base Template"
-            }
-          },
-          {
-            "id": "92aa0988253f4f5f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-META/Templates/Course Practice Note Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Course Practice Note Template"
-            }
-          }
-        ],
-        "currentTab": 2,
-        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -166,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept",
+                "query": "t",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -320,38 +233,51 @@
   },
   "active": "c4f2890cf3c97caa",
   "lastOpenFiles": [
-    "Devlog/2025-08-29.md",
-    "Devlog/Coddy-Python_Basic Input_Output.md",
-    "Devlog/Python-Caste.md",
-    "0-META/Templates/Base Template.md",
+    "Devlog/2025-08-30.md",
     "0-META/Templates/Course Practice Note Template.md",
+    "0-META/Templates/Base Template.md",
+    "0-META/Code Database.base",
     "0-META/Templates/Devlog Template.md",
+    "0-META/Attachments/woman working at the desk coding.avif",
+    "0-META/Attachments/blue binary code image.jpg",
+    "0-META/Attachments/stream-binary-code-design_53876-100689.avif",
+    "0-META/Attachments/Programmer overhead desk image.png",
+    "Devlog/Devlog and Notes.base",
+    "4-Resources/Cheatsheets/An_Introduction_to_JavaScript.pdf",
+    "Devlog/2025-08-29.md",
+    "0-META/Templates/Skills Template.md",
+    "4-Resources/Snippets/HTML - CSS/Website Sidebar/website_sidebar.html",
+    "4-Resources/Snippets/HTML - CSS/Website Sidebar/website_sidebar.css",
+    "4-Resources/Snippets/HTML - CSS/Website Sidebar",
+    "4-Resources/Snippets/HTML/dancing_robot.html",
+    "4-Resources/Snippets/HTML/card with shadow.html",
+    "4-Resources/Snippets/HTML/Wedding Card Invitation.html",
+    "4-Resources/Certifications/Web Development/Web Development Certificate - Sololearn.jpg",
+    "4-Resources/Certifications/Tech/Tech For Everyone Certificate - Sololearn.png",
+    "4-Resources/Certifications/SQL/SQL for Beginners Certicate - Coddy.pdf",
+    "4-Resources/Certifications/HTML/Intro to HTML Certificate Sololearner.png",
+    "4-Resources/Certifications/CSS/Intro to CSS Certification - Sololearner.png",
+    "4-Resources/Certifications/AI/Write with AI Certification - Sololearner.png",
+    "4-Resources/Certifications/AI/Visual Your Data Certificate - Sololearner.png",
+    "Devlog/Python-Syntax.md",
+    "Devlog/Python-Input_Output.md",
+    "Devlog/Python-Variables.md",
+    "Devlog/Python-Caste.md",
+    "Devlog/GitHub Contribution iframe embed for Obsidian.md",
+    "Devlog/The benefits of me using different coding platforms.md",
+    "Devlog/Variables.md",
+    "Devlog/Home.md",
+    "Devlog/README.md",
+    "Devlog/Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
+    "Devlog/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
+    "Devlog/Obsidian Vault For Coding/Daily training with coding courses and interactive learning.md",
+    "Devlog/Obsidian Vault For Coding/Best plugins for coders in Obsidian.md",
+    "Devlog/Coddy-Python_Basic Input_Output.md",
+    "Devlog/c.md",
     "4-Library/Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
     "GitHub Contribution iframe embed for Obsidian.md",
     "Home.md",
-    "Devlog",
-    "3-Skills/Languages/Untitled",
-    "3-Skills/Languages/SQL",
-    "3-Skills/Languages/Java",
-    "3-Skills/Languages/CSS",
-    "3-Skills/Languages/HTML",
     "Untitled.md",
-    "5-Archives/Chat GPT notes",
-    "5-Archives/Old PDF's",
-    "4-Library/Cheatsheets",
-    "3-Skills/Tools & Workflows/Debugging",
-    "4-Library/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
-    "4-Library/Obsidian Vault For Coding/Daily training with coding courses and interactive learning.md",
-    "4-Library/Obsidian Vault For Coding/Best plugins for coders in Obsidian.md",
-    "3-Skills/Common Functions/Arithmetic Operators.md",
-    "4-Library/The benefits of me using different coding platforms.md",
-    "3-Skills/Languages/JavaScript/JS arithmetic operators.md",
-    "README.md",
-    "4-Library/Certifications/HTML/Intro to HTML Certificate Sololearner.png",
-    "4-Library/Certifications/CSS/Intro to CSS Certification - Sololearner.png",
-    "4-Library/Certifications/AI/Ethical AI Foundations Certificate - Sololearner.jpg",
-    "4-Library/Certifications/AI/Introduction to LLMs Certificate - Sololearner.jpg",
-    "test.md",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]
 }

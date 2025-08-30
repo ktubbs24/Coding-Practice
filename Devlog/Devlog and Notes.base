@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.folder == "Devlog"
+    - file.name != "Devlog and Notes.base"
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Table
+    order:
+      - cards-made
+      - date
+      - status
+      - file.name
+      - type
+      - platform
+      - topic
+      - level
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.cards-made: 41
+      note.date: 198
+      file.name: 287
+      note.type: 162
+    rowHeight: medium
+  - type: cards
+    name: Cards
+    order:
+      - date
+      - cards-made
+      - file.name
+      - status
+      - type
+      - platform
+      - topic
+      - level
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.date: 115
+      note.cards-made: 41
+      note.type: 162
+    rowHeight: medium
+    image: note.banner
+    cardSize: 190

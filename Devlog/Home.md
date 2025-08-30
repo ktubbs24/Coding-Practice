@@ -1,8 +1,16 @@
-# Home
+---
+banner_icon: ⌨️
+banner: "![[blue binary code image.jpg]]"
+banner_y: 0.936
+date: 2025-08-30T03:31:00
+status:
+  - archived
+---
+# Home 
 ---
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
 
-## Devlog 
+## </> Devlog 
 ```dataview
 TABLE date, platforms, languages
 FROM "1-Practice/Daily Devlogs"
@@ -15,7 +23,7 @@ SORT date DESC
 
 
 
-## By Status 
+## </> By Status 
 ```dataview
 LIST
 FROM ""
@@ -24,7 +32,7 @@ SORT level ASC
 ```
 
 
-## Progress Tracker 
+## </> Progress Tracker 
 ```dataview 
 TABLE language, topic, last-practiced
 FROM "1-Practice"
@@ -33,7 +41,7 @@ SORT last-practiced DESC
 ```
 
 
-## Last Practice Based On Topic 
+## </> Last Practice Based On Topic 
 *below example is filtering out for now loops*
 
 ```dataview
@@ -41,7 +49,7 @@ TABLE related
 WHERE topic = "loops"
 ```
 
-## Last Practiced Based On Language
+## </> Last Practiced Based On Language
 ```dataview 
 TABLE type, topic, status, last-practiced
 FROM ""
@@ -50,6 +58,6 @@ SORT last-practiced DESC
 ```
 
 
-## Overview 
+## </> Devlog Overview 
 
-![[Code Database.base]]
+![[Devlog and Notes.base]]

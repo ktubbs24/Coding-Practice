@@ -1,7 +1,8 @@
 {
   "cssTheme": "Notation 2",
   "theme": "obsidian",
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "accentColor": "#ff3a30"
 }
