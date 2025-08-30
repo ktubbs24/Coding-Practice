@@ -1,3 +1,5 @@
 {
-  "folder": "Devlog"
+  "folder": "Devlog",
+  "template": "0-META/Templates/Devlog Template",
+  "autorun": true
 }

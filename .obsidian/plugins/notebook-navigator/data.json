@@ -1,12 +1,12 @@
 {
-  "dualPane": true,
+  "dualPane": false,
   "autoRevealActiveFile": true,
   "showTooltips": true,
   "fileVisibility": "supported",
   "excludedFolders": [],
   "excludedFiles": [],
   "autoSelectFirstFileOnFocusChange": true,
-  "autoExpandFoldersTags": false,
+  "autoExpandFoldersTags": true,
   "showNoteCount": true,
   "showIcons": true,
   "collapseButtonBehavior": "all",
@@ -54,7 +54,12 @@
   ],
   "confirmBeforeDelete": true,
   "customVaultName": "",
-  "pinnedNotes": {},
+  "pinnedNotes": {
+    "0-META/Templates/Base Template.md": {
+      "folder": true,
+      "tag": false
+    }
+  },
   "folderIcons": {},
   "folderColors": {},
   "folderSortOverrides": {},

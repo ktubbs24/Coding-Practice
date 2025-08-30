@@ -10,6 +10,8 @@ type:
   - practice-exercise
   - snippet
   - project
+  - devlog
+  - course-practice
 language:
   - Python
   - JavaScript
@@ -58,10 +60,14 @@ tags:
   - #tag2
 ---
 ```
+
+<iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
+
 # {{title}}
 ---
-date: {{date}}
+date: {{date}}:{{time}}
 tags: #concept/ , #platform/ #tools/ (optional like VSCODE or git notes), #cards/ (notes tagged with different spaced repetition cards), #chatgpt/ (for any notes made from chatgpt or grok and saved as a reference)
+reference for filling out this note: [[Base Template]]
 
 ## 📝 Overview
 What this note is about (e.g., purpose of the language, exercise goal, project description).

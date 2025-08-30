@@ -2,6 +2,7 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "showLineNumber": true,
-  "attachmentFolderPath": "0-META/Attachments"
+  "showLineNumber": false,
+  "attachmentFolderPath": "0-META/Attachments",
+  "newFileLocation": "current"
 }

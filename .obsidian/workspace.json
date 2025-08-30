@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b7eab948b8e1dd6f",
+        "id": "ac362f18bc81f9eb",
         "type": "tabs",
-        "dimension": 18.636127017178552,
+        "dimension": 80.35363457760315,
         "children": [
           {
-            "id": "1843539d3b8aeb5c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "f38a280477734c4a",
+            "id": "c4f2890cf3c97caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,36 +22,12 @@
               "title": "2025-08-29"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d5c4497d503e90ac",
-        "type": "tabs",
-        "dimension": 13.846954711087974,
-        "children": [
-          {
-            "id": "6a68d63ceef00c04",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          }
         ]
       },
       {
         "id": "d5751c56953713d9",
         "type": "tabs",
-        "dimension": 67.51691827173347,
+        "dimension": 19.646365422396855,
         "children": [
           {
             "id": "a529fb9dfccacf94",
@@ -77,6 +43,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Obsidian Vault Structure (Practice-First PARA)"
+            }
+          },
+          {
+            "id": "3184163c4337001e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-META/Templates/Devlog Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Devlog Template"
             }
           },
           {
@@ -102,13 +84,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-META/Templates/Practice Note Template.md",
+                "file": "0-META/Templates/Course Practice Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Practice Note Template"
+              "title": "Course Practice Note Template"
             }
           }
         ],
@@ -191,12 +173,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 711.5,
+    "width": 422.5,
     "collapsed": true
   },
   "right": {
@@ -206,7 +187,7 @@
       {
         "id": "abe17c14e2d4c43b",
         "type": "tabs",
-        "dimension": 31.944444444444443,
+        "dimension": 31.359851988899166,
         "children": [
           {
             "id": "d0375fbf30a85f6c",
@@ -267,7 +248,7 @@
       {
         "id": "54fd8c577e74205b",
         "type": "tabs",
-        "dimension": 68.05555555555556,
+        "dimension": 18.501387604070306,
         "children": [
           {
             "id": "193caabafefa4f42",
@@ -282,6 +263,23 @@
               },
               "icon": "lucide-list",
               "title": "Outline of 2025-08-29"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f65bae6d3f6cf533",
+        "type": "tabs",
+        "dimension": 50.138760407030524,
+        "children": [
+          {
+            "id": "1843539d3b8aeb5c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ]
@@ -308,14 +306,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f38a280477734c4a",
+  "active": "c4f2890cf3c97caa",
   "lastOpenFiles": [
-    "0-META/Templates/Base Template.md",
+    "0-META/Templates/Devlog Template.md",
     "Devlog/2025-08-29.md",
-    "Devlog",
-    "0-META/Templates/Practice Note Template.md",
     "4-Library/Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
+    "0-META/Templates/Base Template.md",
+    "0-META/Templates/Course Practice Note Template.md",
+    "GitHub Contribution iframe embed for Obsidian.md",
     "Home.md",
+    "Devlog",
     "3-Skills/Languages/Untitled",
     "3-Skills/Languages/SQL",
     "3-Skills/Languages/Java",

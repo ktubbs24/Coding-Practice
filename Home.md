@@ -1,6 +1,14 @@
 # Home
 ---
+<iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
 
+## Devlog 
+```dataview
+TABLE date, platforms, languages
+FROM "1-Practice/Daily Devlogs"
+WHERE type = "devlog"
+SORT date DESC
+```
 
 
 

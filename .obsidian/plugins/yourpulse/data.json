@@ -2,24 +2,36 @@
   "devices": {
     "Kwenelas-iMac.local": {
       "dayCounts": {
-        "2025-08-29": 114
+        "2025-08-29": 284
       },
       "todaysWordCount": {
         "Home.md": {
           "initial": 73,
-          "current": 72
+          "current": 89
         },
         "0-META/Templates/Base Template.md": {
           "initial": 321,
-          "current": 279
+          "current": 305
         },
         "0-META/Templates/Practice Note Template.md": {
           "initial": 13,
-          "current": 14
+          "current": 73
         },
         "4-Resources/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md": {
           "initial": 6,
           "current": 119
+        },
+        "0-META/Templates/Devlog Template.md": {
+          "initial": 182,
+          "current": 163
+        },
+        "0-META/Templates/Course Practice Note Template.md": {
+          "initial": 14,
+          "current": 109
+        },
+        "Devlog/2025-08-29.md": {
+          "initial": 165,
+          "current": 134
         }
       }
     }
