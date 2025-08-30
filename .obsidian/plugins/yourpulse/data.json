@@ -2,7 +2,7 @@
   "devices": {
     "Kwenelas-iMac.local": {
       "dayCounts": {
-        "2025-08-29": 284
+        "2025-08-29": 849
       },
       "todaysWordCount": {
         "Home.md": {
@@ -11,7 +11,7 @@
         },
         "0-META/Templates/Base Template.md": {
           "initial": 321,
-          "current": 305
+          "current": 306
         },
         "0-META/Templates/Practice Note Template.md": {
           "initial": 13,
@@ -27,11 +27,19 @@
         },
         "0-META/Templates/Course Practice Note Template.md": {
           "initial": 14,
-          "current": 109
+          "current": 113
         },
         "Devlog/2025-08-29.md": {
           "initial": 165,
-          "current": 134
+          "current": 213
+        },
+        "Devlog/Coddy-Python_Basic IO.md": {
+          "initial": 4,
+          "current": 460
+        },
+        "Devlog/Coddy-Python_Basic Input_Output.md": {
+          "initial": 459,
+          "current": 516
         }
       }
     }

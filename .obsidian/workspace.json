@@ -6,7 +6,7 @@
       {
         "id": "ac362f18bc81f9eb",
         "type": "tabs",
-        "dimension": 80.35363457760315,
+        "dimension": 86.77248677248677,
         "children": [
           {
             "id": "c4f2890cf3c97caa",
@@ -14,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devlog/2025-08-29.md",
+                "file": "Devlog/Coddy-Python_Basic Input_Output.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-29"
+              "title": "Coddy-Python_Basic Input_Output"
+            }
+          },
+          {
+            "id": "e53ab59b89dd1793",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "pinned": true,
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ]
@@ -27,7 +41,7 @@
       {
         "id": "d5751c56953713d9",
         "type": "tabs",
-        "dimension": 19.646365422396855,
+        "dimension": 13.227513227513226,
         "children": [
           {
             "id": "a529fb9dfccacf94",
@@ -94,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -177,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 407.5
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -256,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devlog/2025-08-29.md",
+                "file": "Devlog/Coddy-Python_Basic Input_Output.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-29"
+              "title": "Outline of Coddy-Python_Basic Input_Output"
             }
           }
         ]
@@ -301,18 +314,19 @@
       "obsidian42-brat:BRAT": false,
       "notebook-navigator:Notebook Navigator": false,
       "ace-code-editor:Open CSS snippet manager": false,
-      "activity-heatmap:Open activity heatmap": false,
       "yourpulse:Open YourPulse Profile": false,
       "homepage:Open homepage": false
     }
   },
   "active": "c4f2890cf3c97caa",
   "lastOpenFiles": [
-    "0-META/Templates/Devlog Template.md",
     "Devlog/2025-08-29.md",
-    "4-Library/Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
+    "Devlog/Coddy-Python_Basic Input_Output.md",
+    "Devlog/Python-Caste.md",
     "0-META/Templates/Base Template.md",
     "0-META/Templates/Course Practice Note Template.md",
+    "0-META/Templates/Devlog Template.md",
+    "4-Library/Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
     "GitHub Contribution iframe embed for Obsidian.md",
     "Home.md",
     "Devlog",

@@ -16,10 +16,11 @@ last_practiced:
   "{ date }":
 ---
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
-# {{title}}
+# Course Practice Note Template
 ---
-date: {{date}}:{{ti}}
 tags: #concept/  #platform/ 
+date: {{{{date}}}}
+time: {{time}}
 
 reference for filling out this note: [[Base Template]]
 ## 📝 Overview

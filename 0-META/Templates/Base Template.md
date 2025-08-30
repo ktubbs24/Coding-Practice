@@ -65,8 +65,9 @@ tags:
 
 # {{title}}
 ---
-date: {{date}}:{{time}}
+date: {{date}}
 tags: #concept/ , #platform/ #tools/ (optional like VSCODE or git notes), #cards/ (notes tagged with different spaced repetition cards), #chatgpt/ (for any notes made from chatgpt or grok and saved as a reference)
+time: {[time]}
 reference for filling out this note: [[Base Template]]
 
 ## 📝 Overview

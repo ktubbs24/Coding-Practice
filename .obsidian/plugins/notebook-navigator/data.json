@@ -58,6 +58,10 @@
     "0-META/Templates/Base Template.md": {
       "folder": true,
       "tag": false
+    },
+    "Devlog/2025-08-29.md": {
+      "folder": true,
+      "tag": false
     }
   },
   "folderIcons": {},
