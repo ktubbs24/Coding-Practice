@@ -40,7 +40,6 @@ WHERE status != "archived"
 SORT last-practiced DESC
 ```
 
-
 ## </> Last Practice Based On Topic 
 *below example is filtering out for now loops*
 

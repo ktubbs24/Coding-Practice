@@ -15,7 +15,7 @@ aliases:
 
 # {{title}}
 ---
-date: {{{{date}}}}
+date: [[{{date}}]]
 time: {{time}}
 tags: #topic/
 

@@ -3,30 +3,10 @@
     "Kwenelas-iMac.local": {
       "dayCounts": {
         "2025-08-29": 852,
-        "2025-08-30": 13
+        "2025-08-30": 409,
+        "2025-08-31": 0
       },
-      "todaysWordCount": {
-        "Devlog/2025-08-29.md": {
-          "initial": 249,
-          "current": 261
-        },
-        "Devlog/2025-08-30.md": {
-          "initial": 171,
-          "current": 83
-        },
-        "0-META/Templates/Devlog Template.md": {
-          "initial": 177,
-          "current": 118
-        },
-        "0-META/Templates/Course Practice Note Template.md": {
-          "initial": 123,
-          "current": 112
-        },
-        "0-META/Templates/Base Template.md": {
-          "initial": 300,
-          "current": 301
-        }
-      }
+      "todaysWordCount": {}
     },
     "Kwenelas-MacBook-Pro.local": {
       "dayCounts": {

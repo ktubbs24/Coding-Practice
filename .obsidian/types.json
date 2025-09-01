@@ -17,6 +17,7 @@
     "original-entry": "datetime",
     "date": "datetime",
     "platforms": "multitext",
-    "dg-publish": "checkbox"
+    "dg-publish": "checkbox",
+    "devlogReviewed": "checkbox"
   }
 }

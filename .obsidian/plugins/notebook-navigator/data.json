@@ -59,7 +59,11 @@
       "folder": true,
       "tag": false
     },
-    "Devlog/2025-08-29.md": {
+    "Devlog/2025-08-30.md": {
+      "folder": true,
+      "tag": false
+    },
+    "Devlog/2025-08-31.md": {
       "folder": true,
       "tag": false
     }
@@ -74,6 +78,7 @@
   "tagAppearances": {},
   "recentIcons": {},
   "recentColors": [],
-  "lastShownVersion": "1.4.1",
-  "settingsVersion": 1
+  "lastShownVersion": "1.4.3",
+  "settingsVersion": 1,
+  "useEmbeddedImageFallback": true
 }

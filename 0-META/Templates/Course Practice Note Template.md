@@ -81,9 +81,9 @@ reference for filling out this note: [[Base Template]]
 ## 🔗 Links
 
 - Spaced Repetition Cards For this Topic: [[SR-]]
-- Related skill: [[3-Skills/Languages/Python.md]]
+- Related skill: 
 - Practice:
-	- [[1-Practice/Course Practice/Coddy/Python/Loops.md]]
-- Snippet: ![[4-Library/Snippets/Python/for_loops.md]]
+	- 
+- Snippet: 
 - External: [Link to docs or repo]
 

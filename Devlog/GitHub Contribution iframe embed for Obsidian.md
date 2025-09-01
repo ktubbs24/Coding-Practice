@@ -6,7 +6,7 @@ status:
 # GitHub Contribution iframe embed for Obsidian
 
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
-
+Related: [[SNIP-My Github Repo iframe embed#Recent Contributions]]
 Yes, you can embed your GitHub contribution graph in an Obsidian note (including daily ones) using raw HTML for an iframe pointed to a third-party renderer that displays it dynamically.
 
 Here’s how:
