@@ -44,7 +44,8 @@ tags: #topic/variables
 
 Variables are the main part of the codebase that store values that are inputted by the user in the programmer for every application or program. 
 
-
+**Variables** are the reference name given to a value in your code.
+Basically, you give a name to a value using variables.
 
 
 ---

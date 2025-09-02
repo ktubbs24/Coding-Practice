@@ -11,12 +11,14 @@
             "id": "67321794e37456f1",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Devlog/Untitled database.md"
+                "file": "Devlog/Future Project Ideas/Fitness Tracker App Game with building blocks as points.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "database-folder-icon",
-              "title": "Untitled database"
+              "icon": "lucide-file",
+              "title": "Fitness Tracker App Game with building blocks as points"
             }
           }
         ]
@@ -47,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#platform",
+            "query": "tag:project/idea/fitness-tracker-app",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -130,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Devlog/Untitled database.md",
+            "file": "5-Archives/Chat GPT prompts/PROMPT - For generating spaced repetition cards in Neuracache.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -227,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "share-to-notionnext:Share to NotionNext": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -243,8 +246,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "f8e29f85bc0b44e5",
+  "active": "c43ffa7b425d6c3d",
   "lastOpenFiles": [
+    "Devlog/Future Project Ideas/A space repetition app linking from Obsidian with a contribution graph.md",
+    "0-META/Templates/Project idea template.md",
+    "Devlog/Future Project Ideas/Fitness Tracker App Game with building blocks as points.md",
+    "Devlog/2025-09-01.md",
+    "5-Archives/Chat GPT prompts/PROMPT - For generating spaced repetition cards in Neuracache.md",
+    "4-Resources/Cards (Spaced Repetition)/Python/SR-Python Basic Input Output.md",
+    "5-Archives/Chat GPT prompts",
+    "Devlog/SR-Python Basic Input Output.md",
+    "Devlog/GitHub Contribution iframe embed for Obsidian.md",
     "Devlog/2025-08-31.md",
     "Devlog/Untitled database.md",
     "Devlog/2025-08-30.md",
@@ -274,21 +286,14 @@
     "4-Resources/Snippets/HTML - CSS/Website Sidebar/website_sidebar.html",
     "4-Resources/Snippets/HTML/dancing_robot.html",
     "4-Resources/Snippets/HTML/Wedding Card Invitation.html",
-    "4-Resources/Snippets/HTML/card with shadow.html",
     "Devlog/2025-08-29.md",
     "Devlog/Variables.md",
     "Devlog/Python-Variables.md",
     "Devlog/Python-Syntax.md",
     "Devlog/Python-Caste.md",
     "Devlog/Python-Input_Output.md",
-    "Devlog/GitHub Contribution iframe embed for Obsidian.md",
     "Devlog/Obsidian Vault For Coding/Best plugins for coders in Obsidian.md",
     "Devlog/Obsidian Vault For Coding/Daily training with coding courses and interactive learning.md",
-    "Devlog/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
-    "Devlog/Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
-    "Devlog/The benefits of me using different coding platforms.md",
-    "Devlog/c.md",
-    "0-META/Templates/Devlog Template.md",
-    "2-Areas /Common Functions/Arithmetic Operators.md"
+    "Devlog/Obsidian Vault For Coding/Example Dataview Queries For this Vault.md"
   ]
 }

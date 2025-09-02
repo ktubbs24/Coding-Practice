@@ -40,20 +40,9 @@ Designing a basic bill calculator using Python.
 ---
 ## 🔑 Key Concepts
 
-- 
-
-
-
-
+-  Working on a few arithmetic operations pertaining to tip percentage to pay and split a bill
 ---
-## ⚛️ Code
-
-```language
-```
-
-
----
-## 💻  Practice Examples 
+## 💻  Project Code Instructions
 
 ## Getting Input
 
@@ -160,33 +149,19 @@ tip_percentage = float(input())
 num_people = int(input())
 tip_amount = (tip_percentage / 100) * bill_amount
 total = tip_amount + bill_amount
-amount_per_person = total / num_people
+amount_per_person = float(total / num_people)
 print(f"Total (including tip): ${total}")
 print(f"Each person pays: ${amount_per_person}")
 
 ```
 
-## ✅ To-Do
-#todo
-- [ ] 
-
-
-
-
----
-## 📓 Notes
-
-
-
-
-
 ---
 ## 🔗 Links
 
-- Spaced Repetition Cards For this Topic: [[SR-]]
-- Related skill: 
+- Spaced Repetition Cards For this Topic: [[SR-Python Basic Input Output]]
+- Related skill: [[Python-Basic Input Output]] 
 - Practice:
-	- 
+	- [[1. Coddy-Python Basic Input Output]]
 - Snippet: 
 - External: [Link to docs or repo]
 
