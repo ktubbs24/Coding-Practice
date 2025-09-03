@@ -19,14 +19,13 @@ banner_icon: 💻
 ---
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
 
-![[source code image.jpg]]
-# Course Practice Note Template
+
+# Course Project Practice Note Template
 ---
 tags: #topic/ #platform/ 
-date: {{{{date}}}}
+date: [[{{date}}]]
 time: {{time}}
 
-reference for filling out this note: [[Base Template]]
 ## 📝 Overview
 
 
@@ -61,6 +60,186 @@ reference for filling out this note: [[Base Template]]
 
 ````
 
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Instruction
+
+```language
+
+````
+
+## Final Code
+
+```language
+
+````
+
 
 ---
 ## ✅ To-Do
@@ -81,9 +260,6 @@ reference for filling out this note: [[Base Template]]
 ## 🔗 Links
 
 - Spaced Repetition Cards For this Topic: [[SR-]]
-- Related skill: 
-- Practice:
-	- 
 - Snippet: 
 - External: [Link to docs or repo]
 

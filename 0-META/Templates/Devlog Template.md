@@ -17,22 +17,57 @@ banner_x: 0.5
 banner_icon: 🖥️
 devlogReviewed:
 ---
-The # 🗓️ Daily Devlog - {{date}}
----
+
 
 ![[SNIP-My Github Repo iframe embed#Recent Contributions]]
-![[woman working at the desk coding.avif]]
 
 ## 📝 Overview
 
 
 
-
 ---
 ## 🧪 Practice Activities
-- Platform: 
-- Exercises completed: 
-- Notes: 
+
+- Platform: Coddy, Sololearn
+- Skills: [[3-Skills/Languages/Python.md]]
+- - Snippets: ![[4-Library/Snippets/Python/for_loops.md]]
+## Instruction 
+
+```language
+
+```
+
+## Instruction 
+
+```language
+
+```
+
+## Instruction 
+
+```language
+
+```
+
+## Instruction 
+
+```language
+
+```
+
+## Instruction 
+
+```language
+
+```
+
+## Instruction 
+
+```language
+
+
+```
+
 
 ---
 ## 🧠 Learnings
@@ -51,11 +86,7 @@ The # 🗓️ Daily Devlog - {{date}}
 - Projects worked on: [[2-Projects/Portfolio/PersonalWebsite.md]]
 - Updates: What I accomplished or plan to do next.
 
----
-## 🔗 Links to Notes
-- Practice: [[1-Practice/Programming Practice/Python Practice/Functions.md]]
-- Skills: [[3-Skills/Languages/Python.md]]
-- Snippets: ![[4-Library/Snippets/Python/for_loops.md]]
+
 ---
 ## ✅ To-Do for Tomorrow
 #todo
