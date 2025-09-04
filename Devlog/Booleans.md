@@ -71,12 +71,6 @@ There are only two Boolean values i.e. `True`, `False`.
 ### Link to Spaced Repetition Questions/Practice For Booleans:
 - [[SR-]]
 
-### Links to Course Notes Related to Booleans:
-- Coddy: [[Coddy-]]
-- freeCodeCamp: [[freeCodeCamp-]]
-- W3Schools: [[W3Schools-]]
-- CodeAcademy: [[CodeAcademy-]]
-- Sololearn: [[Sololearn-]]
 
 ### Links to Extra Practice and Problems For Booleans:
 - 

@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac362f18bc81f9eb",
+        "id": "94ae604a6b2129e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f2890cf3c97caa",
+            "id": "e9b2c0c6a1b277df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devlog/Learning and practicing code/2025/2025-09-03.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-03"
-            }
-          },
-          {
-            "id": "fcdc8664dfc09565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Skills/Languages/Common Code Statements/Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variables"
-            }
-          },
-          {
-            "id": "14658d9871fae7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devlog/Booleans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Booleans"
-            }
-          },
-          {
-            "id": "113bb0a915f33c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devlog/Python Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python Values"
+              "title": "Home"
             }
           }
         ]
@@ -120,10 +78,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t",
+                "query": "tag:#tools",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -146,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 495.5
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -224,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devlog/Learning and practicing code/2025/2025-09-03.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-03"
+              "title": "Outline of Home"
             }
           }
         ]
@@ -273,53 +231,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c4f2890cf3c97caa",
+  "active": "e9b2c0c6a1b277df",
   "lastOpenFiles": [
-    "Devlog/Learning and practicing code/Devlog and Notes.base",
-    "Devlog/Learning and practicing code/2025/2025-08-30.md",
-    "Devlog/Learning and practicing code/2025/2025-09-01.md",
     "Devlog/Learning and practicing code/2025/2025-09-03.md",
-    "Devlog/Future Project Ideas/Quiz web game.md",
-    "Devlog/Future Project Ideas/Contacts app for remembering who to pray for and minister to.md",
-    "0-META/Attachments/Pasted image 20250903010218.png",
-    "Devlog/Learning and practicing code/2025/2025-09-02.md",
-    "Devlog/Python Arrays.md",
-    "1-Practice/CSS",
-    "1-Practice/Video Tuts",
-    "1-Practice/SQL",
-    "1-Practice/Python",
-    "1-Practice/JS/currencyConverter.js",
-    "1-Practice/JS",
-    "1-Practice/HTML/CSS/Practicing CSS positioning and background image placement.html",
-    "1-Practice/HTML/CSS/I love CSS Challenge.html",
-    "1-Practice/HTML/CSS/First time trying animation css selector.html",
-    "2-Projects/Courses/Coddy/Python/1. Coddy-Python Basic Input Output.md",
-    "Devlog/Python Values.md",
-    "Devlog/Booleans.md",
-    "3-Skills/Languages/Common Code Statements/Variables.md",
-    "4-Library/Snippets/Python/for_loops.md",
-    "Devlog/Future Project Ideas/Fitness Tracker App Game with building blocks as points.md",
-    "0-META/Templates/Project idea template.md",
-    "5-Archives/Chat GPT prompts/PROMPT - For generating spaced repetition cards in Neuracache.md",
-    "4-Resources/Cards (Spaced Repetition)/Python/SR-Python Basic Input Output.md",
-    "Devlog/Coddy-Python-Project Bill Split Calculator.md",
-    "Devlog/Untitled database.md",
-    "Devlog/Learning and practicing code/2025/2025-08-31.md",
-    "Devlog/SR-Python Basic Input Output.md",
+    "3-Skills/Languages/Python/Variables/Python Variables.md",
+    "4-Archives/SNIP-My Github Repo iframe embed.md",
+    "2-Skills/Languages/Python/_Cards - Python/SR-Python Basic Input Output.md",
+    "2-Skills/Languages/Python/_Cards - Python/SR-Python Variables.md",
+    "2-Skills/Languages/Python/_Cards - Python",
+    "3-Resources/Cards (Spaced Repetition)/_Cards - Python/SR-Python Variables.md",
+    "3-Resources/Cards (Spaced Repetition)/_Cards - Python/SR-Python Basic Input Output.md",
+    "3-Resources/Cards (Spaced Repetition)/_Cards - Python",
+    "2-Skills/Languages/JavaScript/_Cards - JavaScript",
+    "2-Skills/Languages/JavaScript/_Cards - HTML copy",
+    "2-Skills/Languages/HTML/_Cards - HTML copy",
+    "2-Skills/Languages/HTML/_Cards - HTML",
+    "2-Skills/Languages/HTML/_Cards - CSS copy",
+    "2-Skills/Languages/CSS/_Cards - CSS copy",
+    "2-Skills/Languages/CSS/_Cards - CSS",
+    "2-Skills/Languages/CSS/CSS",
+    "Home.md",
+    "Devlog/Every language has 3 main notes for each topic.md",
+    "README.md",
+    "4-Archives/Chat GPT prompts/PROMPT - For generating spaced repetition cards in Neuracache.md",
+    "3-Resources/Certifications/HTML/Intro to HTML Certificate Sololearner.png",
+    "3-Resources/Certifications/Web Development/Web Development Certificate - Sololearn.jpg",
+    "3-Resources/Certifications/Tech/Tech For Everyone Certificate - Sololearn.png",
+    "3-Resources/Certifications/CSS/Intro to CSS Certification - Sololearner.png",
+    "3-Resources/Certifications/AI/Write with AI Certification - Sololearner.png",
+    "3-Resources/Certifications/AI/Visual Your Data Certificate - Sololearner.png",
+    "3-Resources/Certifications/AI/Vibe Coding Certificate - Sololearner.jpg",
+    "3-Resources/Certifications/AI/Think Creatively With AI Certificate - Sololearner.jpg",
+    "3-Resources/Certifications/AI/Social Media Marketing with AI Certificate - Sololearn.jpg",
+    "3-Resources/Certifications/AI/SEO with AI Certificate - Sololearn.jpeg",
+    "3-Resources/Cards (Spaced Repetition)/Python/SR-Python Variables.md",
+    "3-Resources/Cards (Spaced Repetition)/Python/SR-Python Basic Input Output.md",
+    "3-Resources/SNIP-My Github Repo iframe embed.md",
+    "2-Skills/Languages/JavaScript/Operators/JS arithmetic operators.md",
+    "2-Skills/Languages/Python/Variables/Python Variables.md",
+    "2-Skills/Languages/Universal Code Functions/Variables.md",
+    "2-Skills/Languages/Universal Code Functions/Arithmetic Operators.md",
+    "1-Projects/Courses/Coddy/Python/1. Coddy-Python Basic Input Output.md",
+    "4-Resources/SNIP-My Github Repo iframe embed.md",
+    "3-Skills/Languages/Universal Code Functions/Arithmetic Operators.md",
+    "3-Skills/Languages/Arithmetic Operators.md",
+    "3-Skills/Arithmetic Operators.md",
+    "3-Skills/Languages/Universal Code Functions/Variables.md",
+    "3-Skills/Languages/JavaScript/Operators/JS arithmetic operators.md",
     "4-Resources/Snippets/SNIP-My Github Repo iframe embed.md",
-    "Devlog/Python-Basic Input Output.md",
-    "4-Resources/Cards (Spaced Repetition)/Python/SR-Python Variables.md",
-    "Devlog/Learning and practicing code/2025/08/2025-08-29.md",
-    "3-Skills/Languages/Python/Python Variables.md",
-    "0-META/Attachments/woman working at the desk coding.avif",
-    "0-META/Attachments/blue binary code image.jpg",
-    "0-META/Attachments/stream-binary-code-design_53876-100689.avif",
-    "0-META/Attachments/Programmer overhead desk image.png",
-    "4-Resources/Certifications/Web Development/Web Development Certificate - Sololearn.jpg",
-    "4-Resources/Certifications/Tech/Tech For Everyone Certificate - Sololearn.png",
-    "4-Resources/Certifications/HTML/Intro to HTML Certificate Sololearner.png",
-    "4-Resources/Certifications/CSS/Intro to CSS Certification - Sololearner.png",
-    "4-Resources/Certifications/AI/Write with AI Certification - Sololearner.png",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]
 }

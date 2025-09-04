@@ -7,16 +7,13 @@
         "2025-08-31": 0,
         "2025-09-01": 361,
         "2025-09-02": 0,
-        "2025-09-03": 524
+        "2025-09-03": 1256,
+        "2025-09-04": 0
       },
       "todaysWordCount": {
-        "Devlog/Learning and practicing code/2025/2025-08-30.md": {
-          "initial": 161,
-          "current": 161
-        },
-        "Devlog/Learning and practicing code/2025/2025-09-03.md": {
-          "initial": 155,
-          "current": 679
+        "3-Skills/Languages/Python/Variables/Python Variables.md": {
+          "initial": 303,
+          "current": 303
         }
       }
     },
