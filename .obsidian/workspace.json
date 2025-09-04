@@ -4,41 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "73dc2de4a9c0be23",
+        "id": "ac362f18bc81f9eb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa1363b65bf81935",
+            "id": "c4f2890cf3c97caa",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Projects/Courses/Coddy/Python/1. Coddy-Python Basic Input Output.md",
+                "file": "Devlog/Learning and practicing code/2025/2025-09-03.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "1. Coddy-Python Basic Input Output"
+              "title": "2025-09-03"
             }
           },
           {
-            "id": "822b560be25ae8f0",
+            "id": "fcdc8664dfc09565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devlog/2025-09-02.md",
+                "file": "3-Skills/Languages/Common Code Statements/Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "Variables"
+            }
+          },
+          {
+            "id": "14658d9871fae7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devlog/Booleans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Booleans"
+            }
+          },
+          {
+            "id": "113bb0a915f33c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devlog/Python Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Values"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "t",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,11 +141,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 727.5
+    "width": 373.5
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -129,7 +155,7 @@
       {
         "id": "abe17c14e2d4c43b",
         "type": "tabs",
-        "dimension": 68.76190476190476,
+        "dimension": 31.359851988899166,
         "children": [
           {
             "id": "d0375fbf30a85f6c",
@@ -137,8 +163,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           },
           {
@@ -147,23 +173,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "193caabafefa4f42",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Devlog/2025-09-02.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2025-09-02"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -198,48 +209,36 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 2025-08-29"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "54fd8c577e74205b",
+        "type": "tabs",
+        "dimension": 18.501387604070306,
+        "children": [
           {
-            "id": "655c4be70d5a7b21",
+            "id": "193caabafefa4f42",
             "type": "leaf",
             "state": {
-              "type": "journal-calendar",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "a513ce57a0be5ca4",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "ca50634fe98e22f0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
+                "file": "Devlog/Learning and practicing code/2025/2025-09-03.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-list",
+              "title": "Outline of 2025-09-03"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f65bae6d3f6cf533",
         "type": "tabs",
-        "dimension": 31.238095238095237,
+        "dimension": 50.138760407030524,
         "children": [
           {
             "id": "1843539d3b8aeb5c",
@@ -255,75 +254,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian42-brat:BRAT": false,
       "notebook-navigator:Notebook Navigator": false,
       "ace-code-editor:Open CSS snippet manager": false,
       "yourpulse:Open YourPulse Profile": false,
-      "homepage:Open homepage": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "822b560be25ae8f0",
+  "active": "c4f2890cf3c97caa",
   "lastOpenFiles": [
+    "Devlog/Learning and practicing code/Devlog and Notes.base",
+    "Devlog/Learning and practicing code/2025/2025-08-30.md",
+    "Devlog/Learning and practicing code/2025/2025-09-01.md",
+    "Devlog/Learning and practicing code/2025/2025-09-03.md",
+    "Devlog/Future Project Ideas/Quiz web game.md",
+    "Devlog/Future Project Ideas/Contacts app for remembering who to pray for and minister to.md",
+    "0-META/Attachments/Pasted image 20250903010218.png",
+    "Devlog/Learning and practicing code/2025/2025-09-02.md",
     "Devlog/Python Arrays.md",
-    "3-Skills/Languages/Python/Python Variables.md",
-    "3-Skills/Languages/Common Code Statements/Variables.md",
-    "Devlog/2025-09-02.md",
-    "0-META/Templates/Devlog Template.md",
-    "Devlog/2025-08-31.md",
+    "1-Practice/CSS",
+    "1-Practice/Video Tuts",
+    "1-Practice/SQL",
+    "1-Practice/Python",
+    "1-Practice/JS/currencyConverter.js",
+    "1-Practice/JS",
+    "1-Practice/HTML/CSS/Practicing CSS positioning and background image placement.html",
     "1-Practice/HTML/CSS/I love CSS Challenge.html",
-    "0-META/Templates/Course Practice Note Template.md",
-    "0-META/Templates/Skills Template.md",
-    "Devlog/Coddy-Python Arrays.md",
-    "Devlog/Untitled.base",
-    "Devlog/2025-09-01.md",
-    "Devlog/Canvas - Devlog Processing.canvas",
-    "Devlog/Booleans.md",
+    "1-Practice/HTML/CSS/First time trying animation css selector.html",
+    "2-Projects/Courses/Coddy/Python/1. Coddy-Python Basic Input Output.md",
     "Devlog/Python Values.md",
-    "4-Resources/Cards (Spaced Repetition)/Python/SR-Python Basic Input Output.md",
+    "Devlog/Booleans.md",
+    "3-Skills/Languages/Common Code Statements/Variables.md",
+    "4-Library/Snippets/Python/for_loops.md",
+    "Devlog/Future Project Ideas/Fitness Tracker App Game with building blocks as points.md",
     "0-META/Templates/Project idea template.md",
     "5-Archives/Chat GPT prompts/PROMPT - For generating spaced repetition cards in Neuracache.md",
-    "5-Archives/Chat GPT prompts",
-    "Devlog/Future Project Ideas/Fitness Tracker App Game with building blocks as points.md",
-    "4-Library/Snippets/Python",
-    "4-Library/Snippets",
-    "4-Library",
+    "4-Resources/Cards (Spaced Repetition)/Python/SR-Python Basic Input Output.md",
     "Devlog/Coddy-Python-Project Bill Split Calculator.md",
     "Devlog/Untitled database.md",
-    "Devlog/2025-08-30.md",
-    "2-Projects/Courses/Coddy/Python/1. Coddy-Python Basic Input Output.md",
+    "Devlog/Learning and practicing code/2025/2025-08-31.md",
+    "Devlog/SR-Python Basic Input Output.md",
     "4-Resources/Snippets/SNIP-My Github Repo iframe embed.md",
-    "Devlog/Learning and practicing code/2025/08/2025-08-29.md",
-    "Devlog/GitHub Contribution iframe embed for Obsidian.md",
     "Devlog/Python-Basic Input Output.md",
-    "Devlog/Home.md",
-    "Devlog/The benefits of me using different coding platforms.md",
-    "Devlog/Learning and practicing code/Devlog and Notes.base",
-    "Devlog/Learning and practicing code/2025/09",
-    "Devlog/Learning and practicing code/2025/08",
-    "Devlog/Learning and practicing code/2025",
-    "4-Resources/Certifications/AI/Social Media Marketing with AI Certificate - Sololearn.jpg",
-    "4-Resources/Certifications/AI/Project Planning with AI Certificate - Sololearn.jpg",
+    "4-Resources/Cards (Spaced Repetition)/Python/SR-Python Variables.md",
+    "Devlog/Learning and practicing code/2025/08/2025-08-29.md",
+    "3-Skills/Languages/Python/Python Variables.md",
+    "0-META/Attachments/woman working at the desk coding.avif",
+    "0-META/Attachments/blue binary code image.jpg",
+    "0-META/Attachments/stream-binary-code-design_53876-100689.avif",
+    "0-META/Attachments/Programmer overhead desk image.png",
     "4-Resources/Certifications/Web Development/Web Development Certificate - Sololearn.jpg",
     "4-Resources/Certifications/Tech/Tech For Everyone Certificate - Sololearn.png",
     "4-Resources/Certifications/HTML/Intro to HTML Certificate Sololearner.png",
+    "4-Resources/Certifications/CSS/Intro to CSS Certification - Sololearner.png",
     "4-Resources/Certifications/AI/Write with AI Certification - Sololearner.png",
-    "4-Resources/Certifications/AI/Visual Your Data Certificate - Sololearner.png",
-    "4-Resources/Certifications/AI/Vibe Coding Certificate - Sololearner.jpg",
-    "4-Resources/Certifications/AI/Think Creatively With AI Certificate - Sololearner.jpg",
-    "4-Resources/Certifications/AI/SEO with AI Certificate - Sololearn.jpeg",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]
 }

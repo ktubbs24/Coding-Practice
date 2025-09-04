@@ -1,53 +1,68 @@
 filters:
   and:
-    - file.folder == "Devlog"
-    - file.name != "Devlog and Notes.base"
+    - file.path.contains("Devlog/Learning and practicing code/2025")
 properties:
   file.name:
     displayName: Name
 views:
   - type: table
-    name: Table
+    name: Overview
     order:
       - cards-made
-      - date
+      - devlogReviewed
       - status
       - file.name
-      - type
-      - platform
       - topic
-      - level
-      - tags
     sort:
-      - property: file.mtime
-        direction: DESC
-    columnSize:
-      note.cards-made: 41
-      note.date: 198
-      file.name: 287
-      note.type: 162
-    rowHeight: medium
-  - type: cards
-    name: Cards
-    order:
-      - date
-      - cards-made
-      - file.name
-      - status
-      - type
-      - platform
-      - topic
-      - level
-      - tags
-    sort:
-      - property: file.name
+      - property: topic
         direction: ASC
+      - property: level
+        direction: DESC
       - property: file.mtime
         direction: DESC
     columnSize:
-      note.date: 115
-      note.cards-made: 41
-      note.type: 162
+      note.cards-made: 117
+      file.name: 290
     rowHeight: medium
-    image: note.banner
-    cardSize: 190
+  - type: table
+    name: Needs Review
+    filters:
+      and:
+        - devlogReviewed != true
+    order:
+      - status
+      - topic
+      - file.name
+      - devlogReviewed
+    sort:
+      - property: topic
+        direction: ASC
+      - property: level
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.cards-made: 117
+      file.name: 290
+    rowHeight: medium
+  - type: table
+    name: Needs Cards Made
+    filters:
+      and:
+        - note["cards-made"] != true
+    order:
+      - status
+      - topic
+      - file.name
+      - cards-made
+    sort:
+      - property: topic
+        direction: ASC
+      - property: level
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.cards-made: 117
+      file.name: 290
+    rowHeight: medium

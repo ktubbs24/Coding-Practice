@@ -1,5 +1,5 @@
 {
-  "dualPane": true,
+  "dualPane": false,
   "autoRevealActiveFile": true,
   "showTooltips": true,
   "fileVisibility": "supported",
@@ -52,7 +52,6 @@
     "featureResized",
     "feature"
   ],
-  "useEmbeddedImageFallback": true,
   "confirmBeforeDelete": true,
   "customVaultName": "",
   "pinnedNotes": {
@@ -71,6 +70,10 @@
   "tagAppearances": {},
   "recentIcons": {},
   "recentColors": [],
-  "lastShownVersion": "1.4.3",
-  "settingsVersion": 1
+  "lastShownVersion": "1.4.5",
+  "settingsVersion": 1,
+  "navItemHeight": 28,
+  "navIndent": 16,
+  "useEmbeddedImageFallback": true,
+  "searchActive": true
 }

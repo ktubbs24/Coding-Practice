@@ -19,6 +19,7 @@ aliases:
 date idea came to me: [[2025-09-01]]
 tags: #project/idea 
 
+![[Pasted image 20250903010218.png]]
 > *This idea came to me while I was trying to understand how to calculate my net balance in how many calories could go to my weekly calorie deficit based off of my fitness tracking app. Then, while I was talking to Groke, it was helping me to understand it a lot more since I said, "Explain to me like I'm a baby." So it gave me an example like in a video game where the jar is the daily budget and the cookies are how many calories I could eat a day if I eat like 500 calories, I'm subtracting 500 cookies from my daily budget or cookie jar. But I did ask it to change the theme because since this theme is about losing weight or taking care of your body, I don't want a theme that can be something similar to gluttony. So the theme was changed, and this is the result of the notes of that conversation.*
 
 Alright, let’s try a different theme! Since you’re not into magic or space, how about a Construction or City-Building theme with Building Blocks or Bricks? It’s practical, non-food, and ties into the idea of building something solid (like your health goals) with each day’s effort. Your daily budget could be a “block quota” (e.g., 1,804 blocks), eating uses blocks to “maintain your city,” and exercise adds blocks to “expand it.”
