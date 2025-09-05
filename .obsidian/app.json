@@ -4,7 +4,7 @@
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "attachmentFolderPath": "0-META/Attachments",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "mobileToolbarCommands": [
     "editor:paste",
     "editor:toggle-code",
@@ -28,5 +28,7 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:configure-toolbar"
-  ]
+  ],
+  "promptDelete": false,
+  "newFileFolderPath": "Reflect"
 }

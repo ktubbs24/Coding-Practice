@@ -1,5 +1,5 @@
 {
-  "dualPane": false,
+  "dualPane": true,
   "autoRevealActiveFile": true,
   "showTooltips": true,
   "fileVisibility": "supported",
@@ -70,7 +70,7 @@
   "tagAppearances": {},
   "recentIcons": {},
   "recentColors": [],
-  "lastShownVersion": "1.4.5",
+  "lastShownVersion": "1.4.7",
   "settingsVersion": 1,
   "navItemHeight": 28,
   "navIndent": 16,

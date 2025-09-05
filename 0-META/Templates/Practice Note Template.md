@@ -20,7 +20,7 @@ banner_icon: 💻
 <iframe src="https://jandee.vercel.app/ktubbs24" width="100%" height="300" frameborder="0"></iframe>
 
 
-# Course Project Practice Note Template
+# PRAC-{{title}}
 ---
 tags: #topic/ #platform/ 
 date: [[{{date}}]]

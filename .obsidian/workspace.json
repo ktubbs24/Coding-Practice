@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "94ae604a6b2129e1",
+        "id": "1b8cc7441b762f29",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b2c0c6a1b277df",
+            "id": "537b65ae9d69e206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "SR-Python While Loops"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of SR-Python While Loops"
             }
           }
         ]
@@ -231,29 +231,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e9b2c0c6a1b277df",
+  "active": "537b65ae9d69e206",
   "lastOpenFiles": [
-    "Devlog/Learning and practicing code/2025/2025-09-03.md",
-    "3-Skills/Languages/Python/Variables/Python Variables.md",
-    "4-Archives/SNIP-My Github Repo iframe embed.md",
-    "2-Skills/Languages/Python/_Cards - Python/SR-Python Basic Input Output.md",
-    "2-Skills/Languages/Python/_Cards - Python/SR-Python Variables.md",
-    "2-Skills/Languages/Python/_Cards - Python",
-    "3-Resources/Cards (Spaced Repetition)/_Cards - Python/SR-Python Variables.md",
-    "3-Resources/Cards (Spaced Repetition)/_Cards - Python/SR-Python Basic Input Output.md",
-    "3-Resources/Cards (Spaced Repetition)/_Cards - Python",
-    "2-Skills/Languages/JavaScript/_Cards - JavaScript",
-    "2-Skills/Languages/JavaScript/_Cards - HTML copy",
-    "2-Skills/Languages/HTML/_Cards - HTML copy",
-    "2-Skills/Languages/HTML/_Cards - HTML",
-    "2-Skills/Languages/HTML/_Cards - CSS copy",
-    "2-Skills/Languages/CSS/_Cards - CSS copy",
-    "2-Skills/Languages/CSS/_Cards - CSS",
-    "2-Skills/Languages/CSS/CSS",
-    "Home.md",
-    "Devlog/Every language has 3 main notes for each topic.md",
-    "README.md",
-    "4-Archives/Chat GPT prompts/PROMPT - For generating spaced repetition cards in Neuracache.md",
+    "0-META/Templates/Base Template.md",
+    "0-META/Templates/Devlog Template.md",
+    "Reflect/PRAC-Python While Loops.md",
+    "Reflect/SKIL-Python While Loops.md",
+    "Timeline/2025/09/2025-09-04.md",
+    "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
+    "Reflect/SR-Python While Loops.md",
+    "Timeline/2025-09-04.md",
+    "0-META/Templates/Timeline Template.md",
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Best plugins for coders in Obsidian.md",
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Daily training with coding courses and interactive learning.md",
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding",
+    "1-Projects/_Devlog",
+    "Reflect/Reflect.md",
+    "Reflect/Every language has 4 main notes for each topic.md",
+    "Reflect/Python Arrays.md",
+    "Reflect/Booleans.md",
+    "Reflect/Python Values.md",
+    "Reflect/Coddy-Python-Project Bill Split Calculator.md",
+    "Reflect/Python-Syntax.md",
+    "Reflect/Python-Basic Input Output.md",
+    "Reflect/Python-Caste.md",
+    "Reflect/GitHub Contribution iframe embed for Obsidian.md",
+    "Reflect/The benefits of me using different coding platforms.md",
+    "Reflect/Home.md",
+    "Reflect/README.md",
+    "Reflect",
+    "Timeline/Timeline.base",
+    "1-Projects/Setting Up Obsidian Vault For Coding",
+    "Timeline/2025/09",
+    "Timeline/2025/08",
+    "Timeline/2025",
+    "4-Archives/Code Snippets",
+    "Timeline/Learning and practicing code/2025/09",
     "3-Resources/Certifications/HTML/Intro to HTML Certificate Sololearner.png",
     "3-Resources/Certifications/Web Development/Web Development Certificate - Sololearn.jpg",
     "3-Resources/Certifications/Tech/Tech For Everyone Certificate - Sololearn.png",
@@ -264,21 +279,6 @@
     "3-Resources/Certifications/AI/Think Creatively With AI Certificate - Sololearner.jpg",
     "3-Resources/Certifications/AI/Social Media Marketing with AI Certificate - Sololearn.jpg",
     "3-Resources/Certifications/AI/SEO with AI Certificate - Sololearn.jpeg",
-    "3-Resources/Cards (Spaced Repetition)/Python/SR-Python Variables.md",
-    "3-Resources/Cards (Spaced Repetition)/Python/SR-Python Basic Input Output.md",
-    "3-Resources/SNIP-My Github Repo iframe embed.md",
-    "2-Skills/Languages/JavaScript/Operators/JS arithmetic operators.md",
-    "2-Skills/Languages/Python/Variables/Python Variables.md",
-    "2-Skills/Languages/Universal Code Functions/Variables.md",
-    "2-Skills/Languages/Universal Code Functions/Arithmetic Operators.md",
-    "1-Projects/Courses/Coddy/Python/1. Coddy-Python Basic Input Output.md",
-    "4-Resources/SNIP-My Github Repo iframe embed.md",
-    "3-Skills/Languages/Universal Code Functions/Arithmetic Operators.md",
-    "3-Skills/Languages/Arithmetic Operators.md",
-    "3-Skills/Arithmetic Operators.md",
-    "3-Skills/Languages/Universal Code Functions/Variables.md",
-    "3-Skills/Languages/JavaScript/Operators/JS arithmetic operators.md",
-    "4-Resources/Snippets/SNIP-My Github Repo iframe embed.md",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]
 }

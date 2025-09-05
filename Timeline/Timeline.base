@@ -1,15 +1,18 @@
 filters:
   and:
-    - file.path.contains("Devlog/Learning and practicing code/2025")
+    - file.folder == "Timeline"
+    - and:
+        - file.name.containsAny("2025")
 properties:
   file.name:
     displayName: Name
 views:
   - type: table
     name: Overview
+    filters:
+      and:
+        - file.name.containsAny("2025")
     order:
-      - cards-made
-      - devlogReviewed
       - status
       - file.name
       - topic

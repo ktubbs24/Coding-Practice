@@ -1,8 +1,13 @@
 {
   "cssTheme": "Notation 2",
-  "theme": "obsidian",
-  "showRibbon": true,
+  "theme": "system",
+  "showRibbon": false,
   "showViewHeader": true,
   "nativeMenus": true,
-  "accentColor": "#ff3a30"
+  "accentColor": "#ff3a30",
+  "interfaceFontFamily": "Heiti TC",
+  "textFontFamily": "Heiti TC",
+  "monospaceFontFamily": "Heiti TC",
+  "baseFontSize": 16,
+  "translucency": false
 }

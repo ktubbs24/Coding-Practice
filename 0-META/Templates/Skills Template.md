@@ -13,7 +13,7 @@ cards-made:
 aliases:
 ---
 
-# {{title}}
+# SKIL-{{title}}
 ---
 date: [[{{date}}]]
 time: {{time}}
