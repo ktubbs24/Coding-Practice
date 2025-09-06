@@ -3,70 +3,26 @@
     "Kwenelas-iMac.local": {
       "dayCounts": {
         "2025-08-29": 852,
-        "2025-08-30": 409,
-        "2025-08-31": 0,
-        "2025-09-01": 361,
-        "2025-09-02": 0,
-        "2025-09-03": 1256,
-        "2025-09-04": 0
+        "2025-09-05": 5
       },
       "todaysWordCount": {
-        "3-Skills/Languages/Python/Variables/Python Variables.md": {
-          "initial": 303,
-          "current": 303
-        },
-        "0-META/Templates/Course Practice Note Template.md": {
-          "initial": 138,
-          "current": 138
-        },
-        "0-META/Templates/Devlog Template.md": {
-          "initial": 152,
-          "current": 152
-        },
-        "0-META/Templates/Practice Note Template.md": {
-          "initial": 139,
-          "current": 137
-        },
-        "0-META/Templates/Skills Template.md": {
-          "initial": 78,
-          "current": 78
+        "Timeline/2025-09-05.md": {
+          "initial": 2110,
+          "current": 2115
         }
       }
     },
     "Kwenelas-MacBook-Pro.local": {
       "dayCounts": {
-        "2025-08-30": 51
+        "2025-08-30": 57,
+        "2025-08-31": 1676,
+        "2025-09-01": 2335,
+        "2025-09-02": 860,
+        "2025-09-03": 4,
+        "2025-09-04": 2560,
+        "2025-09-05": 0
       },
-      "todaysWordCount": {
-        "Devlog/Coddy-Python_Basic Input_Output.md": {
-          "initial": 504,
-          "current": 510
-        },
-        "0-META/Templates/Devlog Template.md": {
-          "initial": 164,
-          "current": 184
-        },
-        "0-META/Templates/Course Practice Note Template.md": {
-          "initial": 121,
-          "current": 126
-        },
-        "0-META/Templates/Base Template.md": {
-          "initial": 307,
-          "current": 311
-        },
-        "Devlog/Home.md": {
-          "initial": 104,
-          "current": 117
-        },
-        "Devlog/Home <>.md": {
-          "initial": 114,
-          "current": 117
-        },
-        "Devlog/Learning and practicing code/2025-08-29.md": {
-          "initial": 249,
-          "current": 249
-        }
-      }
+      "todaysWordCount": {}
     }
   },
   "userId": "a3ff752a-3d9e-4ecf-b1b8-e970e6df3c46",

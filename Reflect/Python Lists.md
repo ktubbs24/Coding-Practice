@@ -12,17 +12,17 @@ tags:
 cards-made:
 aliases:
 ---
-# Python Arrays
+# Python Lists
 
 
 
-# Python Arrays
+# Python Lists
 ---
 date: [[2025-09-02]]
 time: 18:23
 tags: #topic/
 
-## What are Python Arrays?
+## What are Python Lists?
 
 
 
@@ -34,7 +34,7 @@ tags: #topic/
 ### Keywords: 
 1. 
 ---
-## When would Python Arrays be used in programming or an app?
+## When would Python Lists be used in programming or an app?
 
 
 
@@ -70,8 +70,8 @@ print(var1)
 
 ---
 ## Related Links 
-### Link to Spaced Repetition Questions/Practice For Python Arrays:
-- [[SR- Python Arrays]]
+### Link to Spaced Repetition Questions/Practice For Python Lists:
+- [[SR- Python Lists]]
 
 ### Links to Course Notes Related to Python Arrays:
 - Coddy: [[Coddy-]]
@@ -80,7 +80,7 @@ print(var1)
 - CodeAcademy: [[CodeAcademy-]]
 - Sololearn: [[Sololearn-]]
 
-### Links to Extra Practice and Problems For Python Arrays:
+### Links to Extra Practice and Problems For Python Lists:
 - 
 
 

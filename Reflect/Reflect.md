@@ -14,7 +14,7 @@
 - [x] [[2025-09-04]]
 
 # Emergence
-- [[Python Arrays]]
+- [[Python Lists]]
 - [[Python Values]]
 - [[Python-Caste]]
 - [[Python-Syntax]]

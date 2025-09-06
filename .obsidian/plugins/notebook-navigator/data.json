@@ -7,9 +7,12 @@
   "excludedFiles": [],
   "autoSelectFirstFileOnFocusChange": true,
   "autoExpandFoldersTags": true,
-  "showNoteCount": true,
+  "collapseBehavior": "all",
+  "showHiddenBehavior": "all",
   "showIcons": true,
-  "collapseButtonBehavior": "all",
+  "showNoteCount": true,
+  "navItemHeight": 28,
+  "navIndent": 16,
   "showRootFolder": true,
   "inheritFolderColors": false,
   "enableFolderNotes": false,
@@ -52,7 +55,10 @@
     "featureResized",
     "feature"
   ],
+  "useEmbeddedImageFallback": true,
   "confirmBeforeDelete": true,
+  "searchActive": true,
+  "showHiddenItems": false,
   "customVaultName": "",
   "pinnedNotes": {
     "0-META/Templates/Base Template.md": {
@@ -60,7 +66,16 @@
       "tag": false
     }
   },
-  "folderIcons": {},
+  "folderIcons": {
+    "Reflect": "lucide-brain",
+    "Timeline": "lucide-calendar-arrow-up",
+    "4-Archives": "lucide-folder-input",
+    "3-Resources": "lucide-book-marked",
+    "2-Skills": "lucide-aperture",
+    "1-Projects": "lucide-folder-kanban",
+    "0-META": "lucide-clipboard-list",
+    "/": "lucide-code-2"
+  },
   "folderColors": {},
   "folderSortOverrides": {},
   "folderAppearances": {},
@@ -68,12 +83,20 @@
   "tagColors": {},
   "tagSortOverrides": {},
   "tagAppearances": {},
-  "recentIcons": {},
+  "recentIcons": {
+    "lucide": [
+      "lucide-code-2",
+      "lucide-clipboard-list",
+      "lucide-folder-kanban",
+      "lucide-aperture",
+      "lucide-book-marked",
+      "lucide-folder-input",
+      "lucide-calendar-arrow-up",
+      "lucide-brain"
+    ]
+  },
   "recentColors": [],
-  "lastShownVersion": "1.4.7",
+  "lastShownVersion": "1.4.8",
   "settingsVersion": 1,
-  "navItemHeight": 28,
-  "navIndent": 16,
-  "useEmbeddedImageFallback": true,
-  "searchActive": true
+  "collapseButtonBehavior": "all"
 }
