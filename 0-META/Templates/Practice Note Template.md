@@ -25,20 +25,6 @@ banner_icon: 💻
 tags: #topic/ #platform/ 
 date: [[{{date}}]]
 time: {{time}}
-
-## 📝 Overview
-
-
-
----
-## 🔑 Key Concepts
-
-- 
-
-
-
-
----
 ## ⚛️ Code
 
 ```language

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6a446f72a376aa7f",
+        "id": "603fdd875e314f6b",
         "type": "tabs",
         "children": [
           {
@@ -20,9 +20,43 @@
               "icon": "lucide-file",
               "title": "2025-09-05"
             }
+          },
+          {
+            "id": "7583ae1422ee8bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F)"
+            }
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "b4bd102291386a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8afb7b804bc629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflect/SR-Python User Input and Control Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SR-Python User Input and Control Flow"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reflect/Reflect.md",
+                "file": "Timeline/2025-09-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reflect"
+              "title": "Outline of 2025-09-05"
             }
           },
           {
@@ -219,8 +253,7 @@
               "title": "Link Tree"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "f65bae6d3f6cf533",
@@ -265,6 +298,10 @@
   },
   "active": "aa16760c036af2f1",
   "lastOpenFiles": [
+    "Reflect/SR-Python User Input and Control Flow.md",
+    "Timeline/2025-09-05.md",
+    "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+    "0-META/Templates/Practice Note Template.md",
     "Timeline/Timeline.base",
     "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
     "Reflect/Every language has 4 main notes for each topic.md",
@@ -292,9 +329,6 @@
     "4-Archives/Chat GPT notes/Mini-Essay Code Review.md",
     "0-META/Templates/Snippet Template.md",
     "4-Archives/Code Snippets",
-    "Timeline/2025-08-30.md",
-    "Timeline/2025-09-04.md",
-    "Devlog/2025-09-02.md",
     "2-Skills/1.Languages/JavaScript/let function/Practice Exercises/currencyConverter.js",
     "2-Skills/1.Languages/JavaScript/let function/Practice Exercises",
     "2-Skills/1.Languages/JavaScript/let function/Chatgpt Explanations",
