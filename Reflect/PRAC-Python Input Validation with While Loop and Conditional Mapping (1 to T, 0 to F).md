@@ -111,50 +111,67 @@ if user == 1:
 	print("T")
 else: 
 	print("F")
+
+
+# another way that this code could have been written: 
+
+user = int(input("Enter 1 or 0: "))
+while user not in (0, 1):
+    print("Invalid entry. Enter either 1 or 0!")
+    user = int(input("Enter 1 or 0: "))
+if user == 1:
+    print("T")
+else:
+    print("F")   
+
 ```
+
 
 #### Line-by-Line Analysis (the longhand version)
 
-**Line 1: `code_line_here`**  
+Write a program that gets an input from the user, a number, `1` or `0`.
+The program will output `"T"` if the input is 1 and `"F"` otherwise.
+
+**Line 1: `user = int(input("Enter the number 1 or 0:  "))`**  
    - Explanation:  
    - Details: 
    - Potential pitfalls: 
 
-**Line 2: `code_line_here`**  
+**Line 2: `while user != 1 and  user != 0:  `**  
    - Explanation: 
    - Details: 
    - Potential pitfalls: 
 
 
-**Line 3: `code_line_here`**  
+**Line 3: `print("Invalid entry. Enter either 1 or 0!")`**  
    - Explanation: 
    - Details: 
    - Potential pitfalls: 
 
 
-**Line 4: `code_line_here`**  
+**Line 4: `	user = int(input("Enter the number 1 or 0:  "))	`**  
    - Explanation: 
    - Details: 
    - Potential pitfalls: 
 
-**Line 5: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 6: `code_line_here`**  
+**Line 5: `if user == 1: `**  
    - Explanation: 
    - Details: 
    - Potential pitfalls: 
 
 
-**Line 7: `code_line_here`**  
+**Line 6: `print("T")`**  
    - Explanation: 
    - Details: 
    - Potential pitfalls: 
 
-**Line 8: `code_line_here`**  
+
+**Line 7: `else: `**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+**Line 8: `	print("F")`**  
    - Explanation: 
    - Details: 
    - Potential pitfalls: 

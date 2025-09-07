@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "603fdd875e314f6b",
+        "id": "b4bd102291386a89",
         "type": "tabs",
         "children": [
           {
-            "id": "aa16760c036af2f1",
+            "id": "1f75991b7941abb8",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline/2025-09-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-05"
-            }
-          },
-          {
-            "id": "7583ae1422ee8bee",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,20 +18,15 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F)"
             }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "b4bd102291386a89",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "9c8afb7b804bc629",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,11 +34,28 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "SR-Python User Input and Control Flow"
             }
+          },
+          {
+            "id": "4f9f65d155c89ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/2025-09-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-06"
+            }
           }
-        ]
+        ],
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -134,13 +133,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 611.5,
-    "collapsed": true
+    "width": 611.5
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -157,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/2025-09-05.md",
+                "file": "Timeline/2025-09-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-05"
+              "title": "Outline of 2025-09-06"
             }
           },
           {
@@ -296,16 +293,39 @@
       "link-tree:Link Tree": false
     }
   },
-  "active": "aa16760c036af2f1",
+  "active": "c3168326cf05fc6d",
   "lastOpenFiles": [
-    "Reflect/SR-Python User Input and Control Flow.md",
-    "Timeline/2025-09-05.md",
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+    "Timeline/2025-09-06.md",
+    "3-Resources/Achievements/My Score For Python Understanding Quiz.md",
+    "0-META/Attachments/Python quiz results - 96 -2.png",
+    "0-META/Attachments/Python quiz results - 96 - 1.png",
+    "Reflect/Reflect.md",
+    "3-Resources/Achievements",
+    "1-Projects/Documentation Sites/Islam-IsLIES/essentials/test/my test here.md",
+    "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/webhook.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/get.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/delete.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/create.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/essentials/test",
+    "1-Projects/Documentation Sites/Islam-IsLIES/snippets/snippet-intro.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/logo/light.svg",
+    "1-Projects/Documentation Sites/Islam-IsLIES/logo/dark.svg",
+    "1-Projects/Documentation Sites/Islam-IsLIES/images/hero-light.png",
+    "1-Projects/Documentation Sites/Islam-IsLIES/images/hero-dark.png",
+    "1-Projects/Documentation Sites/Islam-IsLIES/images/checks-passed.png",
+    "1-Projects/Documentation Sites/Islam-IsLIES/essentials/settings.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/essentials/reusable-snippets.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/essentials/navigation.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/islam islies logo.webp",
+    "1-Projects/Documentation Sites/Islam-IsLIES/favicon.svg",
+    "1-Projects/Documentation Sites/Islam-IsLIES/README.md",
+    "0-META/Attachments/blue binary code image.jpg",
+    "Timeline/2025/09/2025-09-05.md",
+    "Reflect/SR-Python User Input and Control Flow.md",
     "0-META/Templates/Practice Note Template.md",
-    "Timeline/Timeline.base",
     "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
     "Reflect/Every language has 4 main notes for each topic.md",
-    "Reflect/Reflect.md",
     "Timeline/2025-09-03.md",
     "Timeline/2025-08-29.md",
     "Timeline/2025/09/2025-09-04.md",
@@ -313,37 +333,13 @@
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Daily training with coding courses and interactive learning.md",
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
-    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding",
     "0-META/Templates/Timeline Template.md",
     "Reflect/SKIL-Python While Loops.md",
-    "1-Projects/_Devlog",
     "Reflect/PRAC-Python While Loops.md",
     "Reflect/The benefits of me using different coding platforms.md",
     "Reflect/Coddy-Python-Project Bill Split Calculator.md",
     "Reflect/Booleans.md",
     "Reflect/README.md",
-    "4-Archives/Code Snippets/SNIP-My Github Repo iframe embed.md",
-    "Reflect",
-    "0-META/Templates/Devlog Template.md",
-    "4-Archives/Code Snippets/SNIP-Mini-Essay Code Review Snippet.md",
-    "4-Archives/Chat GPT notes/Mini-Essay Code Review.md",
-    "0-META/Templates/Snippet Template.md",
-    "4-Archives/Code Snippets",
-    "2-Skills/1.Languages/JavaScript/let function/Practice Exercises/currencyConverter.js",
-    "2-Skills/1.Languages/JavaScript/let function/Practice Exercises",
-    "2-Skills/1.Languages/JavaScript/let function/Chatgpt Explanations",
-    "2-Skills/1.Languages/JavaScript/let function",
-    "2-Skills/1.Languages/Python/3.Basic Input -  Output/Practice Exercises",
-    "3-Resources/Certifications/Tech/Tech For Everyone Certificate - Sololearn.png",
-    "3-Resources/Certifications/Web Development/Web Development Certificate - Sololearn.jpg",
-    "3-Resources/Certifications/AI/Project Planning with AI Certificate - Sololearn.jpg",
-    "3-Resources/Certifications/AI/Social Media Marketing with AI Certificate - Sololearn.jpg",
-    "3-Resources/Certifications/AI/Write with AI Certification - Sololearner.png",
-    "3-Resources/Certifications/HTML/Intro to HTML Certificate Sololearner.png",
-    "3-Resources/Certifications/AI/Visual Your Data Certificate - Sololearner.png",
-    "3-Resources/Certifications/AI/Vibe Coding Certificate - Sololearner.jpg",
-    "3-Resources/Certifications/AI/Think Creatively With AI Certificate - Sololearner.jpg",
-    "3-Resources/Certifications/AI/SEO with AI Certificate - Sololearn.jpeg",
     "Devlog/Canvas - Devlog Processing.canvas",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]

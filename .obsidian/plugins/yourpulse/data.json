@@ -4,16 +4,16 @@
       "dayCounts": {
         "2025-08-29": 852,
         "2025-09-05": 0,
-        "2025-09-06": 2791
+        "2025-09-06": 2986
       },
       "todaysWordCount": {
         "Timeline/2025-09-05.md": {
           "initial": 992,
-          "current": 263
+          "current": 266
         },
         "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md": {
           "initial": 17,
-          "current": 763
+          "current": 868
         },
         "0-META/Templates/Practice Note Template.md": {
           "initial": 134,
@@ -26,6 +26,18 @@
         "Reflect/SR-SR-Python User Input and Control Flow.md": {
           "initial": 386,
           "current": 386
+        },
+        "3-Resources/Certifications/Achievements/My Score For Python Understanding.md": {
+          "initial": 7,
+          "current": 97
+        },
+        "3-Resources/Certifications/Achievements/My Score For Python Understanding Quiz.md": {
+          "initial": 139,
+          "current": 115
+        },
+        "Timeline/2025-09-06.md": {
+          "initial": 2110,
+          "current": 2030
         }
       }
     },
