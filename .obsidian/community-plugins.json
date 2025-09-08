@@ -11,13 +11,12 @@
   "dataview",
   "yourpulse",
   "homepage",
-  "journals",
   "obsidian-checklist-plugin",
-  "calendar",
   "obsidian-zoom",
   "obsidian-outliner",
   "obsidian-banners",
   "obsidian-emoji-toolbar",
   "link-tree",
-  "folder-notes"
+  "folder-notes",
+  "single-file-daily-notes"
 ]

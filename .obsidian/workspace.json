@@ -4,8 +4,30 @@
     "type": "split",
     "children": [
       {
+        "id": "f4cc1bb2e0c78a81",
+        "type": "tabs",
+        "dimension": 89.58333333333334,
+        "children": [
+          {
+            "id": "39a58c9f44ab07cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/Learning Code Devlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Code Devlog"
+            }
+          }
+        ]
+      },
+      {
         "id": "b4bd102291386a89",
         "type": "tabs",
+        "dimension": 10.416666666666668,
         "children": [
           {
             "id": "1f75991b7941abb8",
@@ -38,23 +60,9 @@
               "icon": "lucide-file",
               "title": "SR-Python User Input and Control Flow"
             }
-          },
-          {
-            "id": "4f9f65d155c89ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline/2025-09-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-06"
-            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -137,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 611.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -161,26 +170,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of 2025-09-06"
-            }
-          },
-          {
-            "id": "d0375fbf30a85f6c",
-            "type": "leaf",
-            "state": {
-              "type": "journal-calendar",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "f43da4242679ab4b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -249,8 +238,19 @@
               "icon": "list-tree",
               "title": "Link Tree"
             }
+          },
+          {
+            "id": "cf1431b93a37c7af",
+            "type": "leaf",
+            "state": {
+              "type": "sfdn-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "f65bae6d3f6cf533",
@@ -280,7 +280,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
@@ -290,13 +289,18 @@
       "homepage:Open homepage": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "link-tree:Link Tree": false
+      "link-tree:Link Tree": false,
+      "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "c3168326cf05fc6d",
+  "active": "39a58c9f44ab07cc",
   "lastOpenFiles": [
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+    "Timeline/Learning Code Devlog.md",
     "Timeline/2025-09-06.md",
+    "Reflect/Home.md",
+    "Reflect/SR-Python User Input and Control Flow.md",
+    "0-META/Templates/Timeline Template.md",
     "3-Resources/Achievements/My Score For Python Understanding Quiz.md",
     "0-META/Attachments/Python quiz results - 96 -2.png",
     "0-META/Attachments/Python quiz results - 96 - 1.png",
@@ -322,7 +326,6 @@
     "1-Projects/Documentation Sites/Islam-IsLIES/README.md",
     "0-META/Attachments/blue binary code image.jpg",
     "Timeline/2025/09/2025-09-05.md",
-    "Reflect/SR-Python User Input and Control Flow.md",
     "0-META/Templates/Practice Note Template.md",
     "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
     "Reflect/Every language has 4 main notes for each topic.md",
@@ -333,13 +336,11 @@
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Daily training with coding courses and interactive learning.md",
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
-    "0-META/Templates/Timeline Template.md",
     "Reflect/SKIL-Python While Loops.md",
     "Reflect/PRAC-Python While Loops.md",
     "Reflect/The benefits of me using different coding platforms.md",
     "Reflect/Coddy-Python-Project Bill Split Calculator.md",
     "Reflect/Booleans.md",
-    "Reflect/README.md",
     "Devlog/Canvas - Devlog Processing.canvas",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]
