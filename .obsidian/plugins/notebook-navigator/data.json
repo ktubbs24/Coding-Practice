@@ -8,7 +8,7 @@
   "autoSelectFirstFileOnFocusChange": true,
   "autoExpandFoldersTags": true,
   "collapseBehavior": "all",
-  "smartCollapse": true,
+  "showHiddenBehavior": "all",
   "showIcons": true,
   "showNoteCount": true,
   "navItemHeight": 28,
@@ -96,8 +96,7 @@
     ]
   },
   "recentColors": [],
-  "lastShownVersion": "1.4.10",
+  "lastShownVersion": "1.4.8",
   "settingsVersion": 1,
-  "showHiddenBehavior": "all",
   "collapseButtonBehavior": "all"
 }

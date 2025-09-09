@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/2025-09-06.md",
+                "file": "Timeline/Learning Code Devlog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-06"
+              "title": "Outline of Learning Code Devlog"
             }
           },
           {
@@ -249,8 +249,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "f65bae6d3f6cf533",
@@ -271,8 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,7 +291,7 @@
       "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "39a58c9f44ab07cc",
+  "active": "193caabafefa4f42",
   "lastOpenFiles": [
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/Learning Code Devlog.md",
