@@ -270,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,7 +292,7 @@
       "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "193caabafefa4f42",
+  "active": "39a58c9f44ab07cc",
   "lastOpenFiles": [
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/Learning Code Devlog.md",

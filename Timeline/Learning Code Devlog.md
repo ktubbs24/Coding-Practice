@@ -3,7 +3,7 @@
 ![[SNIP-My Github Repo iframe embed#Recent Contributions]]
 
 
-## 08-09-2025, Monday
+## 09-09-2025, Tuesday
 ### 📝 Overview
 
 - 
@@ -13,11 +13,114 @@
 
 ---
 
-### Videos on {{title}}
+### Videos on if an if-else
 
+#### Video 1 
+<iframe
+src="https://www.youtube.com/watch?v=5-5Mf_L0UKw&list=LL&index=22&t=10s&pp=gAQBiAQB" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+```python 
+
+```
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+
+
+
+
+---
+#### Video 2
 
 <iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+src="https://www.youtube.com/watch?v=Ec9WQGw4lW0&list=LL&index=23&pp=gAQBiAQB" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+```python 
+
+```
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+
+
+
+
+
+
+
+
+
+
+----
+#### Video 3
+<iframe
+src="https://www.youtube.com/watch?v=FvMPfrgGeKs&pp=ygUYcHl0aG9uIGlmIGVsc2UgYnJvIGNvZGUg" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+```python 
+
+```
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+---
+
+
+#### Video 4
+<iframe
+src="https://i.ytimg.com/vi/TYyKQBC4bwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPJvQ2icaZYkobEOJ-5hb_5Sgh1A" 
 height="113" 
 width="200" 
 allowfullscreen="" 
@@ -26,23 +129,33 @@ style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 </iframe>
 
 
-<iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
-height="113" 
-width="200" 
-allowfullscreen="" 
-allow="fullscreen" 
-style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
-</iframe>
+```python 
 
-<iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
-height="113" 
-width="200" 
-allowfullscreen="" 
-allow="fullscreen" 
-style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
-</iframe>
+```
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+
+```python 
+
+```
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### 🚀 Practice Activities & Code
@@ -51,39 +164,23 @@ style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 - Practice: [[PRAC- 
 - Skills Learned: [[SKIL-
 - Spaced Repetition Cards: [[SR-
+
+> [!NOTE]+ Link to chatgpt/grok explaining and walking me through the steps where I am lacking:
+>  [[CHAT-]]
+>  [[CHAT-]]
+>  [[CHAT-]]
+
 ---
 
 #### 🧪 Code Instruction 
-Code a program to assign, `10` and `2` to `a` and `b` respectively. Then, multiply `a` with `b` and assign the result to `a`, finally print the value in `a`
+
+
 ##### First Attempt 
-```python
-a = 10
-b = 2
-a = a * b 
-print(a)
-#output = 20
-
-# but since we are working on assignment operators Coddy did not like this so I changed it to the a statement that would output the same number of 20 but that is: 
-
-a = 10 
-b = 2 
-a *= b 
-print(a)
-#output = 20
+```language
 
 ```
 ###### personal notes on my code: 
 
-I asked grok if I could also write this problem this way: 
-
-```python 
-# can I write this also like this?: 
-a = 10
-b = 2
-print(a = a * b ) 
-```
-
-and it said that yes I could and it would still output the same value of 20 but that the first option that I did at first works better syntactically which makes sense because the first one does look a lot better. 
 
 ##### Second Attempt 
 ```language
@@ -256,6 +353,13 @@ Line X: `code_line_here`
 
 
 
+---
+### 🚀 Project Progress
+- Projects worked on: [[2-Projects/Portfolio/PersonalWebsite.md]]
+- Updates: What I accomplished or plan to do next.
+
+
+---
 ### ✅ To-Do for Tomorrow
 #todo
 
@@ -264,16 +368,734 @@ Line X: `code_line_here`
 - [ ] Make any flashcards from learnings from this log
 - [ ] Make sure course practice note is linked from this log 
 - [ ] Make sure skills notes that were made today are linked to this log
+## 🔴 08-09-2025, Monday
+### 📝 Overview
+
+- Practiced on some arithmetic outputs equations and comparison operators in Coddy
+- Practiced the dreaded if and if-else statements again in Python watching some videos and doing the practice questions from the videos. 
+
+
+
+
+---
+
+### 🚀 Practice Activities & Code
+
+- Platform: Coddy, Sololearn
+- Practice: [[PRAC- 
+- Skills Learned: [[SKIL-
+- Spaced Repetition Cards: [[SR-
+---
+
+#### 🧪 Code Instruction 
+Code a program to assign, `10` and `2` to `a` and `b` respectively. Then, multiply `a` with `b` and assign the result to `a`, finally print the value in `a`
+##### First Attempt 
+```python
+a = 10
+b = 2
+a = a * b 
+print(a)
+#output = 20
+
+# but since we are working on assignment operators Coddy did not like this so I changed it to the a statement that would output the same number of 20 but that is: 
+
+a = 10 
+b = 2 
+a *= b 
+print(a)
+#output = 20
+
+```
+###### personal notes on my code: 
+
+I asked grok if I could also write this problem this way: 
+
+```python 
+# can I write this also like this?: 
+a = 10
+b = 2
+print(a = a * b ) 
+```
+
+and it said that yes I could and it would still output the same value of 20 but that the first option that I did at first works better syntactically which makes sense because the first one does look a lot better. 
+
+---
+
+#### 🧪 Code Instruction 
+
+Write a program that assigns `10` to variable named `a`, and `2` to a variable named `b` , in the end, print the value of `a > b`
+
+##### First Attempt 
+```python
+a = 10 
+b = 2 
+print(a > b) #output should be True
+
+```
+
+
+---
+#### 🧪 Code Instruction 
+
+Using the variable name age for user input and new_age for the calculation, what is the correct Python code to ask a user for their age, and then calculate and print what their age will be next year?
+##### First Attempt 
+```python
+age = int(input("What is your age?: )) 
+#missed a end double quote 
+new_age = age += 1 #cant combine age += like this 
+print(f"You will be: {new_age} next year.")
+
+```
+
+##### Second Attempt 
+```python
+age = int(input(“What is your age?: “))
+new_age = age + 1 
+print(f"You will be: {new_age} next year.")
+
+```
+
+###### Explanation for why my first code didn’t work from grok:
+Perfect — let’s break it down carefully 👇
+
+⸻
+
+🔹 age += 1
+
+This is an in-place update (also called augmented assignment).
+
+age = 20
+age += 1
+print(age)   # 21
+
+	•	It means: take the old value of age, add 1, and store it back into age.
+	•	After this, the variable age itself has changed.
+	•	You don’t get a new variable — you just update the old one.
+
+⸻
+
+🔹 new_age = age + 1
+
+This is a calculation that makes a new variable.
+
+age = 20
+new_age = age + 1
+print(age)      # 20
+print(new_age)  # 21
+
+	•	Here, age stays the same.
+	•	new_age is a separate variable that stores the result.
+
+⸻
+
+🔹 Why your code broke with new_age = age += 1
+
+Python doesn’t allow combining them because they mean different things:
+	•	age += 1 is a statement (an action).
+	•	new_age = age + 1 is an expression (produces a value).
+
+You can’t assign the result of a statement — that’s why it errors out.
+
+⸻
+
+✅ So in practice:
+	•	Use += when you just want to update a variable.
+	•	Use = age + 1 when you want to keep the original value and have a new one.
+	
+---
+### 🧠 Learnings
+
+#### 1 Learned how a while loop with and else statement can be written even though conditions go to that else statement when the initial condition isn’t met 
+
+Found out how this will output the same thing. I was 
+just playing around with some code to see and this was the response from grok which yes it is:
+
+My question: 
+```python 
+Is this going to do the same thing:
+
+num = float(input())
+
+while num >= 2.5:
+    num /= 6
+else:
+    print(num) 
+
+And this 
+
+number = float(input())
+while number >= 2.5:
+    number /= 6
+print(number)
+```
+
+Yes, the two code snippets will produce the same output for any given input. Here's why:
+
+1. **Input Handling**:
+   - Both snippets start by taking a user input and converting it to a float, stored in `num` (first snippet) or `number` (second snippet). The variable names differ, but this has no impact on functionality.
+
+2. **While Loop**:
+   - Both snippets use a `while` loop with the same condition: `num >= 2.5` (first snippet) or `number >= 2.5` (second snippet). As long as the value is greater than or equal to 2.5, the loop divides the value by 6 (`num /= 6` or `number /= 6`).
+
+3. **Output**:
+   - In the first snippet, the `print(num)` is inside an `else` block tied to the `while` loop. In Python, the `else` block of a `while` loop executes when the loop condition becomes false (i.e., when `num < 2.5`), or if the loop is never entered (if the initial `num < 2.5`).
+   - In the second snippet, the `print(number)` is outside the `while` loop and executes after the loop terminates (when `number < 2.5`), or immediately if the loop is never entered (if the initial `number < 2.5`).
+
+4. **Behavior**:
+   - Both snippets divide the input by 6 repeatedly until it is less than 2.5, then print the final value. The `else` block in the first snippet does not change the logic because it triggers under the same conditions as the `print` statement in the second snippet.
+
+##### Example
+- **Input**: `36.0`
+  - First iteration: `36.0 / 6 = 6.0` (still ≥ 2.5, continue)
+  - Second iteration: `6.0 / 6 = 1.0` (now < 2.5, stop)
+  - Output: `1.0` (both snippets)
+- **Input**: `2.0`
+  - Loop never runs (`2.0 < 2.5`)
+  - Output: `2.0` (both snippets)
+
+##### Key Difference
+The only difference is structural: the first snippet uses an `else` block, which is optional in this case since the `print` statement would execute after the loop anyway. This makes the second snippet slightly simpler but functionally identical.
+
+##### Conclusion
+Both snippets divide the input by 6 until it is less than 2.5 and then print the result. They will always produce the same output for the same input.
+
+
+
+
+---
+
+
+
+
+
+#### 2 Learned about an older alternative way to writing out f-strings although I don’t have to focus on learning the method now since it’s outdated 
+
+```python 
+#I am learning python and isn’t this the same thing 
+
+# this is my normal way of writing f-strings 
+price = float(input())
+print(f"The price is: {price}")
+
+# a way that I just found out online while doing practice questions
+
+price = float(input())
+print(“The price is:” , price)
+
+
+```
+
+ChatGPT reply: 
+Yes — that’s more than okay 👍
+
+The first one (f-strings) is the modern, recommended way in Python (introduced in Python 3.6).
+
+The second one (print("The price is:", price)) is older, and you’ll see it in beginner tutorials because it’s simple, but most Python developers today prefer f-strings because:
+	•	they’re easier to read,
+	•	they’re more powerful (you can do math, formatting, etc. inside the { }),
+	•	and they’re now the standard way to format strings.
+
+So if you stick with f-strings, you’re learning the best practice already 🚀
+
+Want me to show you a few quick tricks you can do with f-strings that make them better than the older ways?
+
+
+#### 3 Learning I can’t use assignment operators on the same line as variable declarations 
+
+	•	Use += when you just want to update a variable.
+	•	Use = age + 1 when you want to keep the original value and have a new on
+
+
+
+💥 Challenges Faced Today
+
+
+
+
+
+---
+
+#### 4 Recognized different ways to print variable values  
+```python
+a = 92
+b = 88
+c = 74
+
+print(a, b, c)
+
+#will print out the same output of 92 88 74 if written this way:
+
+a = 92
+b = 88
+c = 74
+
+print(a)
+print(b)
+print(c)
+
+#but I’m glad I figured out the shorthand way above first 
+
+```
+
+
+---
+
+#### In python lists are called lists not arrays 
+
+⚡ In Python, the built-in type is called a list, not an “array.”
+
+Arrays more in languages like JavaScript, Java, or C.
+
+
+##### Differences between arrays and lists in Python 
+
+🔹 Python List ([])
+	•	Built-in, very flexible.
+	•	Can hold different types of values in the same list.
+```python
+my_list = [1, "hello", 3.14, True]
+print(my_list)  
+# [1, 'hello', 3.14, True]
+
+```
+
+	•	You can grow/shrink it dynamically (append, remove, etc.).
+	•	Under the hood, it’s closer to a dynamic array or linked structure, not a fixed-size array like in C.
+
+⸻
+
+🔹 Python Array (array module)
+	•	Comes from the array module (not as commonly used).
+	•	Stores only one type of data (all ints, or all floats, etc.).
+	•	Example:
+```python
+import array
+
+my_array = array.array("i", [1, 2, 3]) 
+ # "i" = typecode for integers
+print(my_array)  
+# array('i', [1, 2, 3])
+
+```
+
+	•	More memory efficient than a list when you have lots of numbers.
+	•	Used when you care about performance + type consistency.
+
+⸻
+
+🔹 Which should you use?
+	•	Lists: 99% of the time in Python. Easy, flexible, standard.
+	•	Arrays (array module): Rare, mostly for memory optimization.
+	•	NumPy arrays: Very common in data science & math-heavy work. Much faster for calculations.
+
+⸻
+
+👉 So when your exercise says “array,” it almost certainly means list ([ ]) in Python.
+
+
+
+
+---
+
+### 🎴 Practice Cards
+
+What are comparison operators in Python, and what do they do? : Comparison operators in Python compare two values and return a Boolean result (`True` or `False`). Examples include `<` (less than), > (greater than), == (equal to), and != (not equal to). #card #card/operators/comparison/python #card/operators/comparison/javascript #card/operators/comparison/java #card/operators/comparison/c++ #card/operators/comparison/c
+
+---
+
+What does the `<` operator do in Python? Provide an example. : The `<` operator checks if the left value is less than the right value, returning `True` if true, otherwise `False`. Example: `5 < 7` returns `True`. #card #card/operators/comparison/python #card/operators/comparison/javascript #card/operators/comparison/java #card/operators/comparison/c++ #card/operators/comparison/c
+
+---
+
+What does the `>` operator do in Python? Provide an example. : The `>` operator checks if the left value is greater than the right value, returning `True` if true, otherwise `False`. Example: `10 > 4` returns `True`. #card #card/operators/comparison/python #card/operators/comparison/javascript #card/operators/comparison/java #card/operators/comparison/c++ #card/operators/comparison/c
+
+---
+
+What does the `==` operator do in Python? Provide an example. : The == operator checks if two values are equal, returning `True` if they are, otherwise `False`. Example: `6 == 6` returns `True`. #card #card/operators/comparison/python #card/operators/comparison/javascript #card/operators/comparison/java #card/operators/comparison/c++ #card/operators/comparison/c
+
+---
+
+What does the != operator do in Python? Provide an example. : The != operator checks if two values are not equal, returning `True` if they are different, otherwise `False`. Example: `8 != 5` returns `True`. #card #card/operators/comparison/python #card/operators/comparison/javascript #card/operators/comparison/java #card/operators/comparison/c++ #card/operators/comparison/c
+
+---
+
+What does the `>=` operator do in Python? Provide an example. : The `>=` operator checks if the left value is greater than or equal to the right value, returning `True` if true, otherwise `False`. Example: `10 >= 10` returns `True`. #card #card/operators/comparison/python #card/operators/comparison/javascript #card/operators/comparison/java #card/operators/comparison/c++ #card/operators/comparison/c
+
+---
+
+What does the `<=` operator do in Python? Provide an example. : The `<=` operator checks if the left value is less than or equal to the right value, returning `True` if true, otherwise `False`. Example: `5 <= 7` returns `True`. #card #card/operators/comparison/python #card/operators/comparison/javascript #card/operators/comparison/java #card/operators/comparison/c++ #card/operators/comparison/c
+
+---
+
+#card #card/operators/comparison/python  
+Write a Python statement to check if variable `a` with value 15 is not equal to 20, and print the result.
+
+---
+
+```python
+a = 15
+print(a != 20)  # Output: True
+```
+
+---
+
+#card #card/operators/comparison/python  
+Write a Python statement to check if variable `x` with value 8 is greater than or equal to 8, and print the result.
+
+---
+
+```python
+x = 8
+print(x >= 8)  # Output: True
+```
+
+---
+
+#card #card/operators/comparison/python  
+Write a Python statement to check if variable `y` with value 3 is less than 5, and print the result.
+
+---
+
+```python
+y = 3
+print(y < 5)  # Output: True
+```
+
+---
+
+#card #card/operators/comparison/python  
+Write a Python statement to check if variable `num` with value 42 is equal to 42, and print the result.
+
+---
+
+```python
+num = 42
+print(num == 42)  # Output: True
+```
+
+---
+
+#card #card/operators/comparison/python  
+Write a Python statement to check if variable `score` with value 75 is greater than 90, and print the result.
+
+---
+
+```python
+score = 75
+print(score > 90)  # Output: False
+```
+
+---
+
+#card #card/operators/comparison/python  
+Write a Python statement to check if variable `age` with value 18 is less than or equal to 21, and print the result.
+
+---
+
+```python
+age = 18
+print(age <= 21)  # Output: True
+```
+
+---
+
+#card #card/operators/comparison/python  
+Write a Python statement to check if variable `count` with value 100 is not equal to 0, and print the result.
+
+---
+
+```python
+count = 100
+print(count != 0)  # Output: True
+```
+
+
+---
+
+The difference between f"The price is: {price}" and "The price is: , price" : The first substitutes the variable value, the second is plain text. #card #card/strings/python  
+***  
+What does print("The price is:", price) do compared to an f-string? : It prints the variable after the string with a space but doesn’t allow inline formatting. #card #card/strings/python  
+***  
+Why are f-strings preferred in Python? : They are easier to read, powerful, and standard since Python 3.6. #card #card/strings/python  
+***  
+Why does new_age = age += 1 cause an error? : Because += is a statement that updates a variable in place, not an expression that returns a value. #card #card/operators/python  
+***  
+What does age += 1 do? : It updates the value of age in place by adding 1. #card #card/operators/python  
+***  
+How does new_age = age + 1 differ from age += 1? : It creates a new variable new_age with the incremented value while leaving age unchanged. #card #card/operators/python  
+***  
+In Python, what do we usually call an “array”? : A list. #card #card/lists/python  
+***  
+Main difference between a list and an array from the array module? : Lists can hold mixed data types, arrays must store only one type. #card #card/arrays/python  
+***  
+Which is more flexible: list or array? : List. #card #card/lists/python #card #card/arrays/python  
+***  
+When use a Python array instead of a list? : When you need memory efficiency and type consistency. #card #card/arrays/python  
+***  
+What Python library provides fast math arrays? : NumPy. #card #card/arrays/python #card #card/numpy/python  
+***  
+What does printing an empty list show? : [] #card #card/lists/python  
+***  
+Can a list hold both integers and strings? : Yes, lists can hold mixed data types. #card #card/lists/python  
+***  
+What is the output of this code? age=20; age+=1; print(age) : 21 #card #card/operators/python  
+***  
+What is the output of this code? age=20; new_age=age+1; print(age,new_age) : 20 21 #card #card/operators/python  
+***  
+What type does input() return by default in Python? : String. #card #card/input_output/python  
+***  
+Why do we wrap int() around input() when asking for numbers? : To convert the string input into an integer so math can be done. #card #card/input_output/python  
+***  
+What does numbers = [] create? : An empty list assigned to numbers. #card #card/lists/python  
+***  
+What is pets = ["dog","cat","hamster"] ? : A list with three string elements. #card #card/lists/python  
+***  
+What is shopping_list = ["bread","milk","eggs"] ? : A list of grocery items. #card #card/lists/python  
+***  
+What does my_array = array.array("i",) create? : An integer array  using typecode "i". #card #card/arrays/python  
+***  
+What does len(["a","b","c"]) return? : 3 #card #card/lists/python  
+***  
+What does  +  return? :  #card #card/lists/python  
+***  
+What does *3 return? :  #card #card/lists/python  
+***  
+In ["dog","cat","ham"], is "dog" in the list? : True #card #card/lists/python  
+***  
+What does ["dog","cat","ham"] return? : "cat" #card #card/lists/python  
+***  
+What does ["dog","cat","ham"][-1] return? : "ham" #card #card/lists/python  
+***  
+What does mylist.append(99) do? : Adds 99 to the end of the list. #card #card/lists/python  
+***  
+What does mylist.pop() do? : Removes and returns the last element of the list. #card #card/lists/python  
+***  
+What does remove(x) do on a list? : Removes the first occurrence of x. #card #card/lists/python  
+***  
+sorted() :  #card #card/lists/python  
+***  
+sum() : 6 #card #card/lists/python  
+***  
+min() : 1 #card #card/lists/python  
+***  
+max() : 5 #card #card/lists/python  
+***  
+Are lists mutable? : Yes, lists can be changed after creation. #card #card/lists/python  
+***  
+What is [[]] in Python? : A list containing an empty list. #card #card/lists/python  
+***  
+[,] :  #card #card/lists/python  
+***  
+[,] : 3 #card #card/lists/python  
+***  
+tuple() : (1,2) #card #card/lists/python #card #card/tuples/python  
+***  
+list("abc") : ["a","b","c"] #card #card/lists/python  
+***  
+Is array more memory efficient than list? : Yes, arrays are more efficient for numeric data. #card #card/arrays/python  
+***  
+What does array("i") mean? : Integer type array with type code 'i'. #card #card/arrays/python  
+***  
+Can arrays hold mixed types? : No, arrays must hold one data type. #card #card/arrays/python  
+***  
+Are lists ordered? : Yes, list elements keep insertion order. #card #card/lists/python  
+***  
+Are arrays ordered? : Yes, arrays are ordered like lists. #card #card/arrays/python  
+***  
+Can lists grow dynamically? : Yes, Python lists resize automatically. #card #card/lists/python  
+***  
+Can arrays grow dynamically? : No, standard arrays have fixed type and require resizing differently. #card #card/arrays/python  
+***  
+What is the default type of input() result? : String. #card #card/input_output/python  
+***  
+Why use f-strings? : For readable, efficient string formatting. #card #card/strings/python  
+
+***
+
+#card #card/strings/python  
+Using an f-string, write code to print a variable price with the message: “The price is: X”.  
+
+---
+```python
+price = 10.5
+print(f"The price is: {price}")
+```
+
+***
+
+#card #card/input_output/python  
+Write code to ask the user for their age, then store it as an integer in age.  
+
+---
+```python
+age = int(input("Enter your age: "))
+```
+
+***
+
+#card #card/input_output/python  
+Ask the user for their age and print what their age will be next year using new_age.  
+
+---
+
+```python
+age = int(input("Enter your age: "))
+new_age = age + 1
+print(f"You will be: {new_age} next year.")
+```
+
+***
+
+#card #card/lists/python  
+Write code to create an empty list called numbers and print it.  
+
+---
+```python
+numbers = []
+print(numbers)
+```
+
+***
+
+#card #card/arrays/python  
+Using the array module, create an array of integers .  
+
+---
+```python
+import array
+my_array = array.array("i", [1, 2, 3])
+print(my_array)
+```
+
+***
+
+#card #card/lists/python  
+Make a list with "dog", "cat", and "hamster" and print it.  
+
+---
+
+```python
+pets = ["dog", "cat", "hamster"]
+print(pets)
+```
+
+***
+
+#card #card/lists/python  
+Make a shopping list with "bread", "milk", and "eggs", then print it.  
+
+---
+```python
+shopping_list = ["bread", "milk", "eggs"]
+print(shopping_list)
+```
+
+***
+What is the syntax for a basic for loop iterating over a list named nums? : for num in nums: (with indented block) #card #card/loops/python  
+***  
+What keyword exits a for or while loop early? : break #card #card/loops/python  
+***  
+What keyword skips to the next iteration in a loop? : continue #card #card/loops/python  
+***  
+How do you write an infinite loop using while? : while True: #card #card/loops/python  
+***  
+What built-in function returns the range of numbers? : range() #card #card/loops/python  
+***  
+Write a one-line for loop to print numbers 0 to 4. : for i in range(5): print(i) #card #card/loops/python  
+***  
+What is an if statement used for? : To run code conditionally based on a Boolean expression. #card #card/conditionals/python  
+***  
+How do you write an if-else statement? : if condition: (block) else: (block) #card #card/conditionals/python  
+***  
+What keyword is used for checking multiple conditions after if? : elif #card #card/conditionals/python  
+***  
+What boolean operators combine conditions? : and, or, not #card #card/conditionals/python  
+***  
+What does “==” check in Python? : Equality of two values #card #card/operators/python  
+***  
+What does “!=” check? : Inequality of two values #card #card/operators/python  
+***  
+How do you define a function named greet with no parameters? : def greet(): (block) #card #card/functions/python  
+***  
+How do you return a value from a function? : Use the return keyword followed by the value. #card #card/functions/python  
+***  
+How to call a function greet with argument "Alice"? : greet("Alice") #card #card/functions/python  
+***  
+What does def add(a, b): return a+b define? : A function adding two arguments and returning the sum. #card #card/functions/python  
+***  
+What keyword makes a function parameter optional with a default value? : Assign a default, e.g. def func(x=5). #card #card/functions/python  
+***  
+What do *args allow in a function? : Accept any number of positional arguments as a tuple. #card #card/functions/python  
+***  
+What do **kwargs allow? : Accept any number of keyword arguments as a dict. #card #card/functions/python  
+***  
+How to document a function’s purpose? : Using a docstring (triple quotes inside the function). #card #card/functions/python  
+***  
+What is a lambda in Python? : An anonymous function defined with the lambda keyword. #card #card/functions/python  
+***  
+Write a simple lambda adding two numbers a, b. : lambda a,b: a+b #card #card/functions/python  
+***  
+What is a list comprehension? : A concise way to create lists with a for loop and optionally an if clause. #card #card/lists/python  
+***  
+Write a list comprehension for squares of numbers 0 to 4. : [x*x for x in range(5)] #card #card/lists/python  
+***  
+What is the difference between while and for loops? : while loops run while a condition is true; for loops iterate over a sequence. #card #card/loops/python  
+***  
+How does “if x in list” work? : Checks if x exists inside the list. #card #card/conditionals/python  
+***  
+What does 'pass' do inside a block? : It acts as a placeholder and does nothing. #card #card/conditionals/python #card #card/loops/python  
+***  
+How do you handle exceptions in Python? : Using try-except blocks. #card #card/errors/python  
+***  
+What is the syntax for catching all exceptions? : except: (block) #card #card/errors/python  
+***  
+What keyword raises an exception manually? : raise #card #card/errors/python  
+***  
+What built-in function checks the type of an object? : type() #card #card/basics/python  
+***  
+What does the function print() do? : Outputs to the console. #card #card/io/python  
+***  
+How do you convert a string “123” to an integer? : int("123") #card #card/type_conversion/python  
+***  
+How do you convert a string “3.14” to float? : float("3.14") #card #card/type_conversion/python  
+***  
+What is the difference between == and is? : == checks equality of values; is checks if two vars reference the same object. #card #card/operators/python  
+***  
+What is a tuple? : An immutable ordered collection. #card #card/tuples/python  
+***  
+How do you define a tuple with one element? : (value,) with the trailing comma. #card #card/tuples/python  
+***  
+Are tuples hashable? : Yes, if their elements are hashable. #card #card/tuples/python  
+***  
+What is unpacking? : Assigning elements of a list or tuple to variables in a single statement. #card #card/basics/python  
+***  
+Example of unpacking a tuple (1, 2). : a, b = (1, 2) #card #card/basics/python  
+***  
+How do you check if a key exists in a dict? : Using ‘key in dict’ expression. #card #card/dicts/python  
+***  
+How do you add a key-value pair to a dictionary? : dict[key] = value #card #card/dicts/python  
+***  
+What method gets all keys from a dict? : dict.keys() #card #card/dicts/python  
+***  
+What method gets all values from a dict? : dict.values() #card #card/dicts/python  
+***  
+What is a set? : An unordered collection of unique elements. #card #card/sets/python  
+***  
+How to create an empty set? : set() (not {}) #card #card/sets/python  
+***  
+What is the difference between list and tuple? : Lists are mutable; tuples are immutable. #card #card/lists/python #card #card/tuples/python  
+***  
+
+Sources
+
+
+---
 ## 🔴 07-09-2025, Sunday
 ### 📝 Overview
 
 - Reviewed a practice quiz on understanding Machine Learning and the difference between discriminative and generative AI. 
 
 ---
-
-### Videos on 
-
-
 
 ### Video on Exponentiations in Python
 <iframe
