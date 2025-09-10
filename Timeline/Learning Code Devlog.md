@@ -6,7 +6,7 @@
 ## 09-09-2025, Tuesday
 ### 📝 Overview
 
-- 
+- watched some if else videos to understand conditional expressions which was cool and I think I’m going to practice those to get better with if-else statements in Python and Javascript
 
 
 
@@ -174,10 +174,17 @@ style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 
 #### 🧪 Code Instruction 
 
-
+You are given `a`, `b`, `c` variables, write a program to print if `a` is the greatest among three numbers?
 ##### First Attempt 
-```language
+```python 
+a = 18
+b = 11
+c = 20.2
+d = a > b #True 
+e = c > b #True
+f = a > c #False 
 
+print(d and f) #False
 ```
 ###### personal notes on my code: 
 
@@ -332,8 +339,9 @@ Line X: `code_line_here`
 
 
 ### 🧠 Learnings
+The **int()**, **str()** and **float()** instructions are examples of **explicit** conversion, which means they are performed by an instruction given by a programmer (like you).
 
-
+On the other hand, run the code to see some examples of **implicit** (automatic) data type conversions
 
 
 
