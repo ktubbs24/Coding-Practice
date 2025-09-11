@@ -3,24 +3,220 @@
 ![[SNIP-My Github Repo iframe embed#Recent Contributions]]
 
 
-## 🔴 10-09-2025, Wednesday
+## 12-09-2025, Friday
 ### 📝 Overview
 
--  watched a few videos on if statements and I really think I am getting it more and more
-- got really good at solving multiple problems focused on if statements and while lops and I really think that watching the videos were extremely helpful and great practice. 
+- Watched a couple of videos to understand the for loop statement and before the videos the coddy lessons looked confusing but after the first video I really got it and it was so easy. 
+	- discovered a new channel to subscribe to besides bro code which is a good visual breakdown of python: python simplified. 
+- 
 
 
 
 
 ---
 
+### Videos on for loops
 
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+---
 ### 🚀 Practice Activities & Code
 
 - Platform: Coddy, Sololearn
 - Practice: [[PRAC- 
+- Skills Learned: [[SKIL-
+- Spaced Repetition Cards: [[SR-
+
 ---
+
+#### 🧪 Code Instruction 
+
+Write a program to print `"Hello World!"` 10 times using for loop **using range() function**.
+##### First Attempt 
+```python 
+
+# my first input 
+for x in range(1, 11):
+print("Hello World!")
+
+  
+# practicing other ways to write the same answer to this problem 
+for x in range(10): # I think this is the best shorthand way 
+print("Hello World!")
+
+# output = Hello World! ten times with the phrase on a new line
+```
+###### personal notes on my code: 
+
+---
+#### 🧪 Break at "o" in for loop while printing "Hello World!"
+
+Write a program that loops through the string `**Hello World!**` and `break` the loop when the letter is `**o**`
+
+```python 
+
+for i in "Hello World!": 
+	if i == "o": 
+		break
+	else: 
+		print(i)
+```
+
+
+---
+#### 🧪 Continue at "g" in for loop while printing "Python Programming"
+
+Write a program to loop through the string **"Python Programming"** and skip the round if the letter is **"g"**.
+
+```python
+
+for i in "Python Programming": 
+	if i == "g": 
+		continue
+	else: 
+		print(i)
+
+```
+
+#### 🧪 Code Instruction 
+
+Write a program that prints `"Hello Coddy: "` and the `i` value from 3 to 27 (both numbers inclusive), using a **for loop**.
+
+This means you'll print 25 lines in total, starting from 3 and ending at 27.
+
+The output will look like this:
+
+```python
+Hello Coddy: 3
+Hello Coddy: 4
+...
+Hello Coddy: 27
+```
+
+
+```python
+for i in range(3, 28): 
+	print(f"Hello Coddy: { }" )
+```
+
+---
+
+#### 🧪 Code Instruction 
+
+Write a program that counts the number of even numbers between 10 and 50 (inclusive).
+
+Use a **for loop** and an **if statement** to check if each number is even.
+
+Store the count in a variable called `count_even`.
+
+Remember, you can check if a number is even by using the modulo operator: `number % 2 == 0`
+
+```python 
+
+for count_even in range(10, 51): 
+	if count_even % 2 == 0: 
+		print(count_even)
+
+```
+
+---
+
+#### 🧪 Code Instruction 
+
+You are given a code which prints the numbers from 1 to 20 (including).
+
+Your task is to add `if` and `continue` statements so that **only the even numbers** will be printed (2, 4, 6, ...).
+
+##### First attempt
+```python 
+for i in range(1, 21):
+	if i % 2 == 0:
+		continue
+	print(i)
+
+```
+
+##### Second attempt 
+```python 
+# I ended up thinking that I can not use i % 2 == 0 because that checks to see if a number is even and the ouput kept outputting only all odd numbers so I used !== instead for i % 2 == 0 but after submitting the code the hint said that I could have also used i % 2 == 1 which is still the opposite of what I put below: 
+
+for i in range(1, 21):
+	if i % 2 != 0:
+		continue
+	print(i)
+	
+# I almost used this: 
+for i in range(1, 21, 2): 
+# that would count every two numbers to present the even only number output but the instructions asked for to use if and continue statements so could not do that. 
+```
+
+---
+
+
 ### 🧠 Learnings
+
+**For loop** is another way to perform looping or repetition of code in Python.
+
+We don't use conditions in **for loop**, but we use, **looping variable** with a **set of elements** to loop with.
+
+Using breaks in for loops 
+In order to manipulate the looping rounds, we can use the **break and/or continue**
+**break** is usually used to stop the loop permanently. This means that the use of this will terminate the loop.
+
+Contrary to `break`, **continue,** however, is used to skip the current round only.
+
+To check if `num` (int variable) is **odd** use `num % 2 == 1`, if this comparison is `True`, `num` is odd 
+and 
+To check if a number is even use use `num % 2 == 0`, if this comparison is `True`, `num` is even.
+
+---
+### 💥 Challenges Faced Today
+
+
+
+
+
+---
+### 🎴 Practice Cards
+
+
+
+---
+### ✅ To-Do for Tomorrow
+#todo
+
+- [ ] Finish finalizing the notes into their own skill note from this daily vlog
+	- [ ] Turn any notes taken into spaced repetition cards
+- [ ] Make any flashcards from learnings from this log
+- [ ] Make sure course practice note is linked from this log 
+- [ ] Make sure skills notes that were made today are linked to this log
 #### This code will display a float.
 
 ```python
@@ -71,6 +267,25 @@ which `str` is the string type that casts anything to a string to be able to per
 - [ ] Make any flashcards from learnings from this log
 - [ ] Make sure course practice note is linked from this log 
 - [ ] Make sure skills notes that were made today are linked to this log
+
+## 🔴 10-09-2025, Wednesday
+### 📝 Overview
+
+-  watched a few videos on if statements and I really think I am getting it more and more
+- got really good at solving multiple problems focused on if statements and while lops and I really think that watching the videos were extremely helpful and great practice. 
+
+
+
+
+---
+
+
+### 🚀 Practice Activities & Code
+
+- Platform: Coddy, Sololearn
+- Practice: [[PRAC- 
+---
+### 🧠 Learnings
 ## 🔴 09-09-2025, Tuesday
 ### 📝 Overview
 

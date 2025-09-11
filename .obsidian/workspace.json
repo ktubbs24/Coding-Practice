@@ -6,7 +6,7 @@
       {
         "id": "f4cc1bb2e0c78a81",
         "type": "tabs",
-        "dimension": 89.58333333333331,
+        "dimension": 89.58333333333333,
         "children": [
           {
             "id": "39a58c9f44ab07cc",
@@ -27,7 +27,7 @@
       {
         "id": "b4bd102291386a89",
         "type": "tabs",
-        "dimension": 10.416666666666664,
+        "dimension": 10.416666666666666,
         "children": [
           {
             "id": "1f75991b7941abb8",
@@ -150,13 +150,24 @@
               "icon": "notebook",
               "title": "Notebook Navigator"
             }
+          },
+          {
+            "id": "a091f39c094d51a2",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 611.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -167,6 +178,16 @@
         "type": "tabs",
         "dimension": 65.9047619047619,
         "children": [
+          {
+            "id": "cf1431b93a37c7af",
+            "type": "leaf",
+            "state": {
+              "type": "sfdn-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          },
           {
             "id": "193caabafefa4f42",
             "type": "leaf",
@@ -248,18 +269,9 @@
               "icon": "list-tree",
               "title": "Link Tree"
             }
-          },
-          {
-            "id": "cf1431b93a37c7af",
-            "type": "leaf",
-            "state": {
-              "type": "sfdn-calendar",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Calendar"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f65bae6d3f6cf533",
@@ -301,7 +313,7 @@
       "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "193caabafefa4f42",
+  "active": "39a58c9f44ab07cc",
   "lastOpenFiles": [
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/Learning Code Devlog.md",
