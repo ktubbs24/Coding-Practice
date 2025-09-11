@@ -259,8 +259,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "f65bae6d3f6cf533",
@@ -302,7 +301,7 @@
       "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "cf1431b93a37c7af",
+  "active": "193caabafefa4f42",
   "lastOpenFiles": [
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/Learning Code Devlog.md",

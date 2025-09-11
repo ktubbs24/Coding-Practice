@@ -3,234 +3,55 @@
 ![[SNIP-My Github Repo iframe embed#Recent Contributions]]
 
 
-## 10-09-2025, Wednesday
+## 🔴 10-09-2025, Wednesday
 ### 📝 Overview
 
--  watched a few videos on if statements and I really think I am getting it more and more 
+-  watched a few videos on if statements and I really think I am getting it more and more
+- got really good at solving multiple problems focused on if statements and while lops and I really think that watching the videos were extremely helpful and great practice. 
 
 
 
 
 ---
 
-### Videos on {{title}}
 
-
-<iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
-height="113" 
-width="200" 
-allowfullscreen="" 
-allow="fullscreen" 
-style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
-</iframe>
-
-
-<iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
-height="113" 
-width="200" 
-allowfullscreen="" 
-allow="fullscreen" 
-style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
-</iframe>
-
-<iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
-height="113" 
-width="200" 
-allowfullscreen="" 
-allow="fullscreen" 
-style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
-</iframe>
-
----
 ### 🚀 Practice Activities & Code
 
 - Platform: Coddy, Sololearn
 - Practice: [[PRAC- 
-- Skills Learned: [[SKIL-
-- Spaced Repetition Cards: [[SR-
-
-> [!NOTE]+ Link to chatgpt/grok explaining and walking me through the steps where I am lacking:
->  [[CHAT-]]
->  [[CHAT-]]
->  [[CHAT-]]
-
 ---
-
-#### 🧪 Code Instruction 
-
-
-##### First Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-##### Second Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-##### Third Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-##### Fourth Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-##### Final Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-
-#### 🧪Code Review in detail:
----
-##### Program Overview
-
-
-
-
-
----
-###### Program Code Snippet
-```python
-
-```
-
-###### Line-by-Line Analysis
-
-```
-Line X: `code_line_here`  
-   - Explanation: Describe what this line accomplishes.  
-   - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
-   - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
-```
-
-**Line 1: `code_line_here`**  
-   - Explanation: Describe what this line accomplishes.  
-   - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
-   - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
-
-**Line 2: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 3: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 4: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-**Line 5: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 6: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 7: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-**Line 8: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 9: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 10: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
----
-###### Execution Flow
-*Trace the code's runtime behavior step-by-step, assuming sample inputs if needed. Use bullet points for clarity, showing how values change over time (e.g., in loops).*
-
-- Step 1: Initialization (e.g., var1 is set to 7.0).  
-- Step 2: Enter loop (condition: 7.0 >= 3.5 → True).  
-  - Sub-step: var1 becomes 3.5.  
-- Step 3: Loop again (condition: 3.5 >= 3.5 → True).  
-  - Sub-step: var1 becomes 1.75.  
-- Step 4: Condition fails (1.75 < 3.5), exit loop.  
-- Final: Output printed.
-
----
-###### Expected Behavior and Output
-*Describe what the code should do under normal conditions. Include the expected output and why it occurs. If applicable, contrast with unexpected results from testing.*
-
-- Reasoning: Based on the loop dividing until below 3.5.
-- Expected output: e.g., 1.75. 
-- Unexpected output: 
-
----
-###### Potential Issues or Variations
-*Discuss why the code might behave differently in various environments (e.g., IDEs handling input differently). List bugs, edge cases, or assumptions.*
-
-- Issue 1: Input mishandling (e.g., non-numeric input causes ValueError).  
-- Issue 2: Environment differences (e.g., Coddy vs. standard Python).  
-- Edge cases: What if input is less than 3.5? (Loop skips, outputs original value.)
-
----
-###### Debugging Tips and Fixes
-*Provide practical advice for testing and improving the code. Include modified versions or additional prints for verification.*
-
-1. Add print statements: e.g., `print("Initial var1:", var1)` to track values.  
-2. Hardcode values: Temporarily replace input with `var1 = float(7)` to isolate issues.  
-3. Test in multiple environments: Run in local Python vs. online IDE.  
-4. Fixed version:  
-   ```python
-   # Paste an improved code snippet here
-   ```
-
-
 ### 🧠 Learnings
+#### This code will display a float.
 
+```python
+print(12/6)
+```
 
-
-
-
+Which is an example of implicit data type conversion. 
+I guessed this from multiple choice because to imply something means to assume or suggest or hint at something and I was thinking that the console would assume that a division problem would showcase a fraction which could convert to a float or decimal number when python works with fraction operations. 
 
 ---
-### 💥 Challenges Faced Today
+#### You can not do concatenations a string and a integer: 
 
+What will this code output?
 
+```python
+print(14 + "km")
+```
 
+An error it would need to be set up like this:
 
+```python 
+print("14" + "km")
+```
+
+or like this: 
+
+```python
+print(str(14 + "km"))
+```
+
+which `str` is the string type that casts anything to a string to be able to perform concatenations with any other strings. 
 
 ---
 ### 🎴 Practice Cards
@@ -241,12 +62,7 @@ Line X: `code_line_here`
 
 
 ---
-### 🚀 Project Progress
-- Projects worked on: [[2-Projects/Portfolio/PersonalWebsite.md]]
-- Updates: What I accomplished or plan to do next.
 
-
----
 ### ✅ To-Do for Tomorrow
 #todo
 
@@ -255,7 +71,7 @@ Line X: `code_line_here`
 - [ ] Make any flashcards from learnings from this log
 - [ ] Make sure course practice note is linked from this log 
 - [ ] Make sure skills notes that were made today are linked to this log
-## 09-09-2025, Tuesday
+## 🔴 09-09-2025, Tuesday
 ### 📝 Overview
 
 - watched some if else videos to understand conditional expressions which was cool and I think I’m going to practice those to get better with if-else statements in Python and Javascript
@@ -277,28 +93,6 @@ allow="fullscreen"
 style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 </iframe>
 
-```python 
-
-```
-
-```python 
-
-```
-
-
-```python 
-
-```
-
-
-```python 
-
-```
-
-
-
-
-
 ---
 #### Video 2
 
@@ -310,32 +104,6 @@ allowfullscreen=""
 allow="fullscreen" 
 style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 </iframe>
-
-```python 
-
-```
-
-```python 
-
-```
-
-
-```python 
-
-```
-
-
-```python 
-
-```
-
-
-
-
-
-
-
-
 
 
 
@@ -349,26 +117,6 @@ allowfullscreen=""
 allow="fullscreen" 
 style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 </iframe>
-```python 
-
-```
-
-```python 
-
-```
-
-
-```python 
-
-```
-
-
-```python 
-
-```
-
----
-
 
 #### Video 4
 <iframe
@@ -380,35 +128,6 @@ allow="fullscreen"
 style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 </iframe>
 
-
-```python 
-
-```
-
-```python 
-
-```
-
-
-```python 
-
-```
-
-
-```python 
-
-```
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### 🚀 Practice Activities & Code
 
@@ -416,12 +135,6 @@ style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 - Practice: [[PRAC- 
 - Skills Learned: [[SKIL-
 - Spaced Repetition Cards: [[SR-
-
-> [!NOTE]+ Link to chatgpt/grok explaining and walking me through the steps where I am lacking:
->  [[CHAT-]]
->  [[CHAT-]]
->  [[CHAT-]]
-
 ---
 
 #### 🧪 Code Instruction 
@@ -440,155 +153,7 @@ print(d and f) #False
 ```
 ###### personal notes on my code: 
 
-
-##### Second Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-##### Third Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-##### Fourth Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-##### Final Attempt 
-```language
-
-```
-###### personal notes on my code: 
-
-
-
-#### 🧪Code Review in detail:
 ---
-##### Program Overview
-
-
-
-
-
----
-###### Program Code Snippet
-```python
-
-```
-
-###### Line-by-Line Analysis
-
-```
-Line X: `code_line_here`  
-   - Explanation: Describe what this line accomplishes.  
-   - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
-   - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
-```
-
-**Line 1: `code_line_here`**  
-   - Explanation: Describe what this line accomplishes.  
-   - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
-   - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
-
-**Line 2: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 3: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 4: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-**Line 5: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 6: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 7: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-**Line 8: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 9: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
-
-**Line 10: `code_line_here`**  
-   - Explanation: 
-   - Details: 
-   - Potential pitfalls: 
-
----
-###### Execution Flow
-*Trace the code's runtime behavior step-by-step, assuming sample inputs if needed. Use bullet points for clarity, showing how values change over time (e.g., in loops).*
-
-- Step 1: Initialization (e.g., var1 is set to 7.0).  
-- Step 2: Enter loop (condition: 7.0 >= 3.5 → True).  
-  - Sub-step: var1 becomes 3.5.  
-- Step 3: Loop again (condition: 3.5 >= 3.5 → True).  
-  - Sub-step: var1 becomes 1.75.  
-- Step 4: Condition fails (1.75 < 3.5), exit loop.  
-- Final: Output printed.
-
----
-###### Expected Behavior and Output
-*Describe what the code should do under normal conditions. Include the expected output and why it occurs. If applicable, contrast with unexpected results from testing.*
-
-- Reasoning: Based on the loop dividing until below 3.5.
-- Expected output: e.g., 1.75. 
-- Unexpected output: 
-
----
-###### Potential Issues or Variations
-*Discuss why the code might behave differently in various environments (e.g., IDEs handling input differently). List bugs, edge cases, or assumptions.*
-
-- Issue 1: Input mishandling (e.g., non-numeric input causes ValueError).  
-- Issue 2: Environment differences (e.g., Coddy vs. standard Python).  
-- Edge cases: What if input is less than 3.5? (Loop skips, outputs original value.)
-
----
-###### Debugging Tips and Fixes
-*Provide practical advice for testing and improving the code. Include modified versions or additional prints for verification.*
-
-1. Add print statements: e.g., `print("Initial var1:", var1)` to track values.  
-2. Hardcode values: Temporarily replace input with `var1 = float(7)` to isolate issues.  
-3. Test in multiple environments: Run in local Python vs. online IDE.  
-4. Fixed version:  
-   ```python
-   # Paste an improved code snippet here
-   ```
-
 
 ### 🧠 Learnings
 The **int()**, **str()** and **float()** instructions are examples of **explicit** conversion, which means they are performed by an instruction given by a programmer (like you).
@@ -596,27 +161,9 @@ The **int()**, **str()** and **float()** instructions are examples of **ex
 On the other hand, run the code to see some examples of **implicit** (automatic) data type conversions
 
 
-
-
----
-### 💥 Challenges Faced Today
-
-
-
-
-
 ---
 ### 🎴 Practice Cards
 
-
-
-
-
-
----
-### 🚀 Project Progress
-- Projects worked on: [[2-Projects/Portfolio/PersonalWebsite.md]]
-- Updates: What I accomplished or plan to do next.
 
 
 ---
