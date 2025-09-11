@@ -6,7 +6,7 @@
       {
         "id": "f4cc1bb2e0c78a81",
         "type": "tabs",
-        "dimension": 89.58333333333334,
+        "dimension": 89.58333333333331,
         "children": [
           {
             "id": "39a58c9f44ab07cc",
@@ -27,7 +27,7 @@
       {
         "id": "b4bd102291386a89",
         "type": "tabs",
-        "dimension": 10.416666666666668,
+        "dimension": 10.416666666666664,
         "children": [
           {
             "id": "1f75991b7941abb8",
@@ -82,8 +82,8 @@
             "state": {
               "type": "notebook-navigator-react-view",
               "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator-react-view"
             }
           },
           {
@@ -140,8 +140,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "7a8b374a08519a34",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -248,7 +259,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "f65bae6d3f6cf533",
@@ -290,7 +302,7 @@
       "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "39a58c9f44ab07cc",
+  "active": "cf1431b93a37c7af",
   "lastOpenFiles": [
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/Learning Code Devlog.md",
