@@ -3,13 +3,11 @@
 ![[SNIP-My Github Repo iframe embed#Recent Contributions]]
 
 
-## 12-09-2025, Friday
+## 11-09-2025, Thursday
 ### 📝 Overview
 
 - Watched a couple of videos to understand the for loop statement and before the videos the coddy lessons looked confusing but after the first video I really got it and it was so easy. 
-	- discovered a new channel to subscribe to besides bro code which is a good visual breakdown of python: python simplified. 
-- 
-
+- discovered a new channel to subscribe to besides bro code which is a good visual breakdown of python: python simplified. 
 
 
 
@@ -19,7 +17,7 @@
 
 
 <iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+src="https://www.youtube.com/watch?v=KWgYha0clzw&list=LL&index=18&t=72s&pp=gAQBiAQB" 
 height="113" 
 width="200" 
 allowfullscreen="" 
@@ -29,7 +27,7 @@ style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 
 
 <iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+src="https://www.youtube.com/watch?v=dHANJ4l6fwA&list=LL&index=17&pp=gAQBiAQB" 
 height="113" 
 width="200" 
 allowfullscreen="" 
@@ -37,14 +35,6 @@ allow="fullscreen"
 style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 </iframe>
 
-<iframe
-src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
-height="113" 
-width="200" 
-allowfullscreen="" 
-allow="fullscreen" 
-style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
-</iframe>
 
 ---
 ### 🚀 Practice Activities & Code
@@ -178,13 +168,64 @@ for i in range(1, 21, 2):
 ```
 
 ---
+#### 🧪 Code Instruction 
+
+You are given a code which prints the numbers from 1 to 100 (including).
+
+Your task is to add `if` and `continue` statements so that **all numbers except multiples of 3** will be printed. In other words, skip printing any number that is divisible by 3.
+
+For example, the output should include 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, and so on, but should skip 3, 6, 9, 12, 15, 18, etc.
+
+##### First attemptI am so proud of myself for getting this on the first try!!! 
+```python 
+for i in range(1, 101):
+	if i % 3 == 0: 
+		continue
+	print(i)
+
+```
+
+---
+#### 🧪 Code Instruction 
+
+Write a program that determines eligibility for a movie based on age and parental guidance.
+
+Your program should:
+
+1. Create a variable `age` and assign it a value from input (**given**).
+2. Create a variable `with_parent` and assign it a True/False value from input (**given**).
+3. Create a variable named `message` with the value of `"None"` (**given**).
+4. Use nested if-else to determine what string to put in `message`: 
+    - If age is 18 or older, set `"You can watch any movie"`.
+    - If age is under 18: 
+        - If with_parent is True, set `"You can watch PG-13 movies"`.
+        - If with_parent is False, set `"You can only watch G-rated movies"`.
+```python 
+age = int(input()) # Get age as an integer
+with_parent = input() == "true" # Get parental guidance as a boolean (True/False)
+message = "None" # Declare a variable named message with "None"
+# Write your nested if-else code here
+if age >= 18: 
+	message = "You can watch any movie" 
+		if age < 18 and with_parent: 
+			message: "You can watch PG-13 movies"
+		 if age < 18 and with_parent == "false":
+			 message: "You can only watch G-rated movies" 
+print(message) # Don't change below this line
+
+```
 
 
+
+
+---
 ### 🧠 Learnings
 
 **For loop** is another way to perform looping or repetition of code in Python.
 
 We don't use conditions in **for loop**, but we use, **looping variable** with a **set of elements** to loop with.
+
+---
 
 Using breaks in for loops 
 In order to manipulate the looping rounds, we can use the **break and/or continue**
@@ -192,31 +233,31 @@ In order to manipulate the looping rounds, we can use the **break and/or contin
 
 Contrary to `break`, **continue,** however, is used to skip the current round only.
 
+---
+- learned about using `continue` and `break` in a for loop which is not too complicated either 
+- learned from bro code that in a for loop if you want to reverse the iteration you can just write: 
+
+```python 
+for x in reverse(1,11): # instead of saying range(1, 11) which will reverse the output in the console as: 
+# 10 
+# 9 
+# 8 
+# 7 
+# 6 
+# 5 
+# 4 
+# 3 
+# 2 
+# 1 
+```
+
+---
+
 To check if `num` (int variable) is **odd** use `num % 2 == 1`, if this comparison is `True`, `num` is odd 
 and 
 To check if a number is even use use `num % 2 == 0`, if this comparison is `True`, `num` is even.
 
 ---
-### 💥 Challenges Faced Today
-
-
-
-
-
----
-### 🎴 Practice Cards
-
-
-
----
-### ✅ To-Do for Tomorrow
-#todo
-
-- [ ] Finish finalizing the notes into their own skill note from this daily vlog
-	- [ ] Turn any notes taken into spaced repetition cards
-- [ ] Make any flashcards from learnings from this log
-- [ ] Make sure course practice note is linked from this log 
-- [ ] Make sure skills notes that were made today are linked to this log
 #### This code will display a float.
 
 ```python
@@ -250,6 +291,35 @@ print(str(14 + "km"))
 which `str` is the string type that casts anything to a string to be able to perform concatenations with any other strings. 
 
 ---
+Nested `if-elif-else` statements allow for hierarchical decision-making
+
+---
+Nesting can be infinite, allowing for complex decision trees:
+
+```python
+if condition1:    
+	if condition2:        
+		if condition3:            
+			# More nested conditions...
+```
+
+---
+
+
+
+
+
+
+
+### 💥 Challenges Faced Today
+
+Could not remember how to check if a output would be even or odd until having to look at the hint o know to use the modulos operator so need to add that to spaced repetition and practice that some more with future exercises. 
+
+
+
+---
+
+
 ### 🎴 Practice Cards
 
 
@@ -258,15 +328,6 @@ which `str` is the string type that casts anything to a string to be able to per
 
 
 ---
-
-### ✅ To-Do for Tomorrow
-#todo
-
-- [ ] Finish finalizing the notes into their own skill note from this daily vlog
-	- [ ] Turn any notes taken into spaced repetition cards
-- [ ] Make any flashcards from learnings from this log
-- [ ] Make sure course practice note is linked from this log 
-- [ ] Make sure skills notes that were made today are linked to this log
 
 ## 🔴 10-09-2025, Wednesday
 ### 📝 Overview
