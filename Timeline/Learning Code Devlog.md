@@ -3,7 +3,388 @@
 ![[SNIP-My Github Repo iframe embed#Recent Contributions]]
 
 
-## 11-09-2025, Thursday
+
+## 12-09-2025, Friday
+### 📝 Overview
+
+- 
+
+
+
+
+---
+
+### Videos on {{title}}
+
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+---
+### 🚀 Practice Activities & Code
+
+- Platform: Coddy, Sololearn
+- Practice: [[PRAC- 
+- Skills Learned: [[SKIL-
+- Spaced Repetition Cards: [[SR-
+
+> [!NOTE]+ Link to chatgpt/grok explaining and walking me through the steps where I am lacking:
+>  [[CHAT-]]
+>  [[CHAT-]]
+>  [[CHAT-]]
+
+---
+
+#### 🧪 Code Instruction 
+
+Write a function `print_10()` that will print from 0-10 using `for` loop.
+
+**Note**: Don't call the function because the test cases will call it by themselves.
+##### First Attempt 
+```python 
+def print_10():
+	for print_10 in range(0, 11):
+		print(print_10)
+```
+
+---
+#### 🧪 Code Instruction 
+
+Write a program to ask a user his name and print `"Hello, "` with his name and `"!"` in the end. E.g, `"Hello, John!"`
+```python 
+name = input("What is your name?: ")
+print(f"Hello, {name}!")
+
+# I rushed when I did this and the console printed the question in the input string; the correct code is below: 
+
+
+name = input()
+print(f"Hello, {name}!")
+```
+---
+#### 🧪 Code Instruction 
+
+Convert the input to integer and multiply it by 2. Finally print the result.
+
+```python 
+a = int(input())
+print(a * 2)
+```
+
+---
+#### 🧪 Code Instruction 
+
+Write a program that **asks the user to input his age** and prints `"Adult"` if he is an adult or `"Minor"` if he is not.
+
+_Note: 18+ age are adults._
+
+```python 
+age = int(input( ))
+if age >= 18: 
+	print("Adult")
+else: 
+	print("Minor")
+```
+
+---
+#### 🧪 Code Instruction 
+
+Write a program that:
+
+1. Takes two numbers as input
+2. Creates a list of numbers from the first input to the second input (not including)
+3. Finds and prints the first even number greater than 5
+4. Then, in a separate loop, find and print the first number divisible by 7
+
+Output the result in the following format:
+
+```python
+First even number greater than 5: [...]
+First number divisible by 7: [...]
+```
+
+##### First Attempt
+```python 
+num1 = int(input( ))
+num2 = int(input( ))
+
+num3 = range(num1, num2)
+
+for num3 > 5: # range() returns a range object, which is iterable, but you can't directly compare it to a number like > 5 in a for loop condition
+	if num3 % 2 == 0: 
+		break
+			print(f"First even number greater than 5: {num3}") #print being nested in the break statement could not end up printing. 
+	 if num3 / 7 == 0: # need to change this to the modulo operator to see if numberi s divisible by 7.
+		break
+			print(f"First number divisible by 7: {num3}") #print being nested in the break statement could not end up printing. 
+
+```
+
+##### Second Attempt
+```python 
+num1 = int(input())
+num2 = int(input())
+
+num3 = range(num1, num2)
+
+for current_num in num3 > 5: # num3 > 5 just evaluates to a boolean (True or False), not a sequence of numbers. That'll cause a TypeError because you can't loop over a boolean.
+	if current_num % 2 == 0:
+		print(f"First even number greater than 5: {num3}") # you're outputting {num3}, which is the whole range object (something like range(0, 20)). For the output format, you want the specific number that matched
+	break # tuck the break inside the if block 
+
+for current_num in num3 >= 7:  
+	if current_num in num3 % 7 == 0: 
+		 print(f"First number divisible by 7: {num3}") 
+	 break
+```
+
+##### Third Attempt
+```python 
+num1 = int(input())
+num2 = int(input())
+
+num3 = range(num1, num2)
+
+for current_num in num3:  
+	if current_num % 2 == 0 and current_num > 5:
+		print(f"First even number greater than 5: {current_num}") 
+		break
+
+for current_num in num3:  
+	if current_num % 7 == 0: # and current_num >= 7: (got rid of this because the test cases in Coddy failed 2 out of 5 because some inputs were 0 and 7 and this part of the if statement prevented that from passing through to be printed.)
+		 print(f"First number divisible by 7: {current_num}") 
+		 break
+```
+
+Reply from grok on my code: 
+Yes! This version is working beautifully—I just tested it with inputs like 0 and 20, and it outputs exactly what's needed:
+
+```
+First even number greater than 5: 6
+First number divisible by 7: 7
+```
+
+You fixed the key issues from before: checking `current_num > 5` (not the range), using `{current_num}` in both prints, and nailing the indentation/conditions in the second loop. ==The extra `>= 7` filter in the second `if` doesn't hurt here (since 7 is the first match anyway), but if your range starts with negatives or zeros, it ensures you skip things like 0 (which is divisible by 7 but not >=7).==
+
+One tiny polish if you want: The spec's output shows `[...]` around the numbers (like `First even number greater than 5: [6]`), so wrap them in brackets in the f-strings, e.g., `{[current_num]}`. But even without, it's spot-on functionally.
+
+Great job iterating through this—you've got a solid program now. If you test with other inputs (like 8 and 15, expecting 10 and 14) and it behaves as hoped, you're done! Anything else sticking?
+
+---
+### 🧠 Learnings
+
+#### Functions 
+
+The use of functions in programming is known as **Functional Programming**.
+
+Function literally means a certain method that performs a particular action.
+
+Similarly, in programming, **functions are a set of code that are put together to perform a particular action**.
+
+Or, you can also understand functions as giving some name to the code.
+
+---
+The syntax of functions in Python is:
+
+```python
+def function_name():    #BLOCK_OF_CODE
+```
+
+---
+You can name the function as you want.
+
+---
+
+After you define a function with the above code, you also **have to call it**. To call a function, simply write the name of the function with parenthesis `()`. E.g.
+
+```python
+function_name()
+```
+
+---
+#### Input 
+
+In Python, you can take user's input using `input()` function. Inside it you can pass an argument of an instruction.
+
+For example,
+
+```python
+name = input("Enter your name: ")
+```
+This will print to the console `Enter your name:`  and the program will wait until the user types any string he wants. after pressing enter the program will store that string inside the `name` variable.
+
+---
+#### Output 
+There are two types of output in Python. They are:
+
+1. Functional Output
+2. Console Output
+
+**Functional Output**
+
+`return` is a functional output. This means the `return` is used to output some value to a function.
+
+**Console Output**
+
+`print()` is a console output. It is used in order to display some value to the console.
+
+---
+#### Cast 
+For example when combining two integerss together the output would be the sum of the numbers: `15 + 15 = 30`, but if these numbers are strings then the output is different: `"15" + "15" = "1515"`.
+
+Changing the type of the variable is called `**Cast**` i.e. Casting.
+
+To convert an `integer` to a `string` use the `**str()**` function: 
+
+```python
+a = str(5)
+```
+
+```python
+a = 5a = str(a)
+```
+
+To convert a `string` to `integer` use the `**int()**` function:
+
+```python
+a = int("5")
+```
+
+```python
+a = "5"a = int("5")
+```
+
+**Warning:** converting a non string number to integer will fail and will result an error:
+
+```python
+int("abc") --> ERROR
+```
+
+---
+
+
+---
+### 💥 Challenges Faced Today
+
+
+
+
+
+---
+### 🎴 Practice Cards
+
+
+
+
+
+
+
+---
+### ✅ To-Do for Tomorrow
+#todo
+
+- [ ] Finish finalizing the notes into their own skill note from this daily vlog
+	- [ ] Turn any notes taken into spaced repetition cards
+- [ ] Make any flashcards from learnings from this log
+- [ ] Make sure course practice note is linked from this log 
+- [ ] Make sure skills notes that were made today are linked to this log
+#### This code will display a float.
+
+```python
+print(12/6)
+```
+
+Which is an example of implicit data type conversion. 
+I guessed this from multiple choice because to imply something means to assume or suggest or hint at something and I was thinking that the console would assume that a division problem would showcase a fraction which could convert to a float or decimal number when python works with fraction operations. 
+
+---
+#### You can not do concatenations a string and a integer: 
+
+What will this code output?
+
+```python
+print(14 + "km")
+```
+
+An error it would need to be set up like this:
+
+```python 
+print("14" + "km")
+```
+
+or like this: 
+
+```python
+print(str(14 + "km"))
+```
+
+which `str` is the string type that casts anything to a string to be able to perform concatenations with any other strings. 
+
+---
+Nested `if-elif-else` statements allow for hierarchical decision-making
+
+---
+Nesting can be infinite, allowing for complex decision trees:
+
+```python
+if condition1:    
+	if condition2:        
+		if condition3:            
+			# More nested conditions...
+```
+
+---
+
+
+
+
+
+
+
+### 💥 Challenges Faced Today
+
+Could not remember how to check if a output would be even or odd until having to look at the hint o know to use the modulos operator so need to add that to spaced repetition and practice that some more with future exercises. 
+
+
+
+---
+
+
+### 🎴 Practice Cards
+
+
+
+
+
+
+---
+
+## 🔴 11-09-2025, Thursday
 ### 📝 Overview
 
 - Watched a couple of videos to understand the for loop statement and before the videos the coddy lessons looked confusing but after the first video I really got it and it was so easy. 
@@ -258,77 +639,6 @@ and
 To check if a number is even use use `num % 2 == 0`, if this comparison is `True`, `num` is even.
 
 ---
-#### This code will display a float.
-
-```python
-print(12/6)
-```
-
-Which is an example of implicit data type conversion. 
-I guessed this from multiple choice because to imply something means to assume or suggest or hint at something and I was thinking that the console would assume that a division problem would showcase a fraction which could convert to a float or decimal number when python works with fraction operations. 
-
----
-#### You can not do concatenations a string and a integer: 
-
-What will this code output?
-
-```python
-print(14 + "km")
-```
-
-An error it would need to be set up like this:
-
-```python 
-print("14" + "km")
-```
-
-or like this: 
-
-```python
-print(str(14 + "km"))
-```
-
-which `str` is the string type that casts anything to a string to be able to perform concatenations with any other strings. 
-
----
-Nested `if-elif-else` statements allow for hierarchical decision-making
-
----
-Nesting can be infinite, allowing for complex decision trees:
-
-```python
-if condition1:    
-	if condition2:        
-		if condition3:            
-			# More nested conditions...
-```
-
----
-
-
-
-
-
-
-
-### 💥 Challenges Faced Today
-
-Could not remember how to check if a output would be even or odd until having to look at the hint o know to use the modulos operator so need to add that to spaced repetition and practice that some more with future exercises. 
-
-
-
----
-
-
-### 🎴 Practice Cards
-
-
-
-
-
-
----
-
 ## 🔴 10-09-2025, Wednesday
 ### 📝 Overview
 

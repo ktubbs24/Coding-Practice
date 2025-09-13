@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Learning Code Devlog.md",
+                "file": "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Code Devlog"
+              "title": "MonkeyType like typing app"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/Learning Code Devlog.md",
+                "file": "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning Code Devlog"
+              "title": "Outline of MonkeyType like typing app"
             }
           },
           {
@@ -292,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,8 +316,9 @@
   },
   "active": "39a58c9f44ab07cc",
   "lastOpenFiles": [
-    "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/Learning Code Devlog.md",
+    "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
+    "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/2025-09-06.md",
     "Reflect/Home.md",
     "Reflect/SR-Python User Input and Control Flow.md",
@@ -360,7 +362,6 @@
     "Reflect/PRAC-Python While Loops.md",
     "Reflect/The benefits of me using different coding platforms.md",
     "Reflect/Coddy-Python-Project Bill Split Calculator.md",
-    "Reflect/Booleans.md",
     "Devlog/Canvas - Devlog Processing.canvas",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]
