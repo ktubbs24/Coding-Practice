@@ -10,42 +10,11 @@
         "2025-09-09": 66,
         "2025-09-10": 0,
         "2025-09-11": 475,
-        "2025-09-12": 1979
+        "2025-09-12": 3157,
+        "2025-09-13": 834,
+        "2025-09-14": 0
       },
-      "todaysWordCount": {
-        "Timeline/Learning Code Devlog.md": {
-          "initial": 7748,
-          "current": 9018
-        },
-        "1-Projects/Future Project Ideas/Untitled.md": {
-          "initial": 1,
-          "current": 1
-        },
-        "1-Projects/Future Project Ideas/MonkeyType.md": {
-          "initial": 2,
-          "current": 2
-        },
-        "1-Projects/Future Project Ideas/MonkeyType Like.md": {
-          "initial": 2,
-          "current": 2
-        },
-        "1-Projects/Future Project Ideas/MonkeyType like.md": {
-          "initial": 3,
-          "current": 3
-        },
-        "1-Projects/Future Project Ideas/MonkeyType like a.md": {
-          "initial": 3,
-          "current": 3
-        },
-        "1-Projects/Future Project Ideas/MonkeyType like typiong.md": {
-          "initial": 3,
-          "current": 4
-        },
-        "1-Projects/Future Project Ideas/MonkeyType like typing app.md": {
-          "initial": 4,
-          "current": 712
-        }
-      }
+      "todaysWordCount": {}
     },
     "Kwenelas-MacBook-Pro.local": {
       "dayCounts": {

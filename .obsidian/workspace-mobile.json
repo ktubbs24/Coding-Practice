@@ -130,8 +130,8 @@
         "state": {
           "type": "notebook-navigator-react-view",
           "state": {},
-          "icon": "notebook",
-          "title": "Notebook Navigator"
+          "icon": "lucide-ghost",
+          "title": "notebook-navigator-react-view"
         }
       },
       {
@@ -140,8 +140,8 @@
         "state": {
           "type": "notebook-navigator-react-view",
           "state": {},
-          "icon": "notebook",
-          "title": "Notebook Navigator"
+          "icon": "lucide-ghost",
+          "title": "notebook-navigator-react-view"
         }
       },
       {
@@ -274,8 +274,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e01500e46e95a3af",
+  "active": "65826b56c7c6ba21",
   "lastOpenFiles": [
+    "0-META/Attachments/Pasted image 20250913205629 2.png",
+    "0-META/Attachments/Pasted image 20250913205629 1.png",
+    "0-META/Attachments/Pasted image 20250913205629.png",
+    "0-META/Attachments/Pasted image 20250913205629.jpg",
+    "0-META/Attachments/Pasted image 20250913205535 1.jpg",
+    "0-META/Attachments/Pasted image 20250913205535.jpg",
+    "0-META/Attachments/Pasted image 20250913205535 2.png",
+    "0-META/Attachments/Pasted image 20250913205535 1.png",
+    "0-META/Attachments/Pasted image 20250913205535.png",
+    "0-META/Attachments/IMG_3475.png",
+    "0-META/Attachments/Pasted image 20250913193952.png",
     "Timeline/Learning Code Devlog.md",
     "Reflect/Home.md",
     "Timeline/Timeline.base",
@@ -308,20 +319,9 @@
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding",
     "4-Archives/Code Snippets/SNIP-Mini-Essay Code Review Snippet.md",
-    "4-Archives/Code Snippets/SNIP-My Github Repo iframe embed.md",
     "4-Archives/Code Snippets",
     "Reflect",
     "5-Archives/Chat GPT prompts",
-    "Devlog/Canvas - Devlog Processing.canvas",
-    "0-META/Attachments/glowing binary code from above image.jpg",
-    "0-META/Attachments/glowing matrix code base image.jpg",
-    "0-META/Attachments/blue binary code image.jpg",
-    "0-META/Attachments/coding with glasses looking at the computer image.jpg",
-    "0-META/Attachments/circuitboard image.webp",
-    "0-META/Attachments/red coding image.jpg",
-    "0-META/Attachments/I love coding image.jpg",
-    "0-META/Attachments/python glowing logo.jpg",
-    "0-META/Attachments/source code image.jpg",
-    "0-META/Attachments/code syntax image.webp"
+    "Devlog/Canvas - Devlog Processing.canvas"
   ]
 }

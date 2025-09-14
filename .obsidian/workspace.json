@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
+                "file": "Timeline/Learning Code Devlog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MonkeyType like typing app"
+              "title": "Learning Code Devlog"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
+                "file": "Timeline/Learning Code Devlog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MonkeyType like typing app"
+              "title": "Outline of Learning Code Devlog"
             }
           },
           {
@@ -292,8 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,16 +315,25 @@
   },
   "active": "39a58c9f44ab07cc",
   "lastOpenFiles": [
-    "Timeline/Learning Code Devlog.md",
+    "0-META/Attachments/Pasted image 20250913205535 1.jpg",
+    "0-META/Attachments/Pasted image 20250913205629.jpg",
+    "0-META/Attachments/Pasted image 20250913205535.jpg",
+    "0-META/Attachments/IMG_3475.png",
+    "0-META/Attachments/IMG_3462.jpeg",
+    "0-META/Attachments/Pasted image 20250913192521.png",
+    "0-META/Attachments/IMG_3463.jpeg",
+    "0-META/Attachments/Pasted image 20250913193817.png",
+    "0-META/Attachments/IMG_3464.jpeg",
+    "0-META/Attachments/IMG_3467.jpeg",
+    "0-META/Attachments/Pasted image 20250913193952.png",
     "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
+    "Timeline/Learning Code Devlog.md",
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/2025-09-06.md",
     "Reflect/Home.md",
     "Reflect/SR-Python User Input and Control Flow.md",
     "0-META/Templates/Timeline Template.md",
     "3-Resources/Achievements/My Score For Python Understanding Quiz.md",
-    "0-META/Attachments/Python quiz results - 96 -2.png",
-    "0-META/Attachments/Python quiz results - 96 - 1.png",
     "Reflect/Reflect.md",
     "3-Resources/Achievements",
     "1-Projects/Documentation Sites/Islam-IsLIES/essentials/test/my test here.md",
@@ -335,18 +343,10 @@
     "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/create.mdx",
     "1-Projects/Documentation Sites/Islam-IsLIES/essentials/test",
     "1-Projects/Documentation Sites/Islam-IsLIES/snippets/snippet-intro.mdx",
-    "1-Projects/Documentation Sites/Islam-IsLIES/logo/light.svg",
-    "1-Projects/Documentation Sites/Islam-IsLIES/logo/dark.svg",
-    "1-Projects/Documentation Sites/Islam-IsLIES/images/hero-light.png",
-    "1-Projects/Documentation Sites/Islam-IsLIES/images/hero-dark.png",
-    "1-Projects/Documentation Sites/Islam-IsLIES/images/checks-passed.png",
     "1-Projects/Documentation Sites/Islam-IsLIES/essentials/settings.mdx",
     "1-Projects/Documentation Sites/Islam-IsLIES/essentials/reusable-snippets.mdx",
     "1-Projects/Documentation Sites/Islam-IsLIES/essentials/navigation.mdx",
-    "1-Projects/Documentation Sites/Islam-IsLIES/islam islies logo.webp",
-    "1-Projects/Documentation Sites/Islam-IsLIES/favicon.svg",
     "1-Projects/Documentation Sites/Islam-IsLIES/README.md",
-    "0-META/Attachments/blue binary code image.jpg",
     "Timeline/2025/09/2025-09-05.md",
     "0-META/Templates/Practice Note Template.md",
     "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
@@ -361,7 +361,6 @@
     "Reflect/SKIL-Python While Loops.md",
     "Reflect/PRAC-Python While Loops.md",
     "Reflect/The benefits of me using different coding platforms.md",
-    "Reflect/Coddy-Python-Project Bill Split Calculator.md",
     "Devlog/Canvas - Devlog Processing.canvas",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]
