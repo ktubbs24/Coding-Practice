@@ -3,6 +3,359 @@
 ![[SNIP-My Github Repo iframe embed#Recent Contributions]]
 
 ---
+
+# Sunday 
+
+## Practice Cards 
+
+You want to create a feedback form where input fields change their border color to green when a user clicks into them to start typing. Which pseudo-class would be most appropriate for this interaction?
+
+1
+
+:hover
+
+2
+
+:active
+
+3
+
+:visited
+
+4
+
+==:focus==
+
+
+---
+A web developer wants to style a submit button so it appears pressed down (darker background) only while the user is actively clicking it. Which pseudo-class should they use?
+
+1
+
+:checked
+
+2
+
+:hover
+
+3
+
+:focus
+
+4
+==:active==
+
+---
+
+Comparison and logical operations are needed to control the flow of your programs.
+
+## Pseudocode 
+
+Another way to represent an algorithm is with **pseudocode**. Pseudocode is a simplified language that is a bit closer to a programming language.
+
+
+
+## Python 
+
+- An **algorithm** is a set of step-by-step instructions to complete a task, placed in a certain order.
+	- **flowcharts** help to visualize algorithms.
+- **sequencing** means that the computer runs your code in order, from top to bottom.
+- **Iteration** is about executing an instruction repeatedly. Iteration is commonly represented as a loop
+- In programming, **selection** refers to the process of choosing which path or block of code to execute based on certain conditions, and this is indeed implemented using **conditional logic**, often involving **Booleans**.
+
+### Key Points about selection:
+
+- **Selection** is a control structure that determines the flow of a program by deciding which code path to follow. Examples include if, else if, else, or switch statements in most programming languages.
+- **Conditional logic** drives selection by evaluating conditions that result in **Boolean values** (true or false). For example:
+    - An if statement checks a condition (e.g., x > 5). If the condition evaluates to true, one path is taken; if false, another path (or none) is followed.
+
+### Why Booleans?
+
+- Selection relies on evaluating expressions that yield true or false. These expressions can involve comparisons (==, !=, >, <, etc.), logical operators (&&, ||, !), or other constructs that produce a Boolean result.
+- For example, in a condition like if (x > 5 && y < 10), the entire expression evaluates to a single Boolean value based on the combination of sub-conditions.
+
+### Beyond Simple Booleans:
+
+While Booleans are the core of conditional logic, some languages allow non-Boolean values in conditions (e.g., Python treats 0, None, or empty strings as False in an if statement). However, the underlying logic still reduces to a binary decision: execute the path or not.
+
+In summary, selection in programming is indeed driven by conditional logic, and Booleans are the backbone of those decisions, determining which code path is followed based on whether a condition evaluates to true or false.
+
+---
+## Difference between Selection and Algorithmns in Programming 
+In programming, **algorithms** and **sequencing** are distinct concepts, though they are related to how programs are structured and executed. Here’s a clear explanation of what makes an algorithm different from sequencing:
+
+### **Algorithm**
+- **Definition**: An algorithm is a step-by-step procedure or set of rules designed to solve a specific problem or perform a task. It’s a high-level plan or strategy that outlines *how* to achieve a goal, often independent of any specific programming language.
+- **Key Characteristics**:
+  - **Problem-Solving Focus**: Algorithms are designed to address a particular problem (e.g., sorting a list, finding the shortest path, or searching for an item).
+  - **Abstract**: They are conceptual and can be implemented in any programming language.
+  - **Components**: Algorithms often combine multiple control structures, including sequencing, selection (conditionals), and iteration (loops), to achieve their purpose.
+  - **Examples**:
+    - **Bubble Sort**: A series of steps to sort a list by repeatedly swapping adjacent elements if they are in the wrong order.
+    - **Binary Search**: A method to find an element in a sorted list by repeatedly dividing the search interval in half.
+  - **Purpose**: Provides an efficient, reusable solution to a problem, often optimized for performance (e.g., time or space complexity).
+
+### **Sequencing**
+- **Definition**: Sequencing is a fundamental control structure in programming that refers to the linear, step-by-step execution of instructions in the order they are written. It’s the default flow of a program where one statement follows another.
+- **Key Characteristics**:
+  - **Order Matters**: Instructions are executed sequentially, one after another, unless altered by other control structures like selection (conditionals) or iteration (loops).
+  - **Basic Building Block**: Sequencing is a core part of how programs are executed in most programming languages.
+  - **Examples**:
+    ```python
+    x = 5        # Step 1
+    y = x + 3    # Step 2
+    print(y)     # Step 3
+    ```
+    In this example, the program executes the statements in order: assign 5 to `x`, add 3 to `x` and assign to `y`, then print `y`.
+  - **Purpose**: Ensures that instructions are carried out in a predictable, linear fashion unless interrupted by control structures like conditionals or loops.
+
+### **Key Differences**
+| **Aspect**             | **Algorithm**                                      | **Sequencing**                                    |
+|-------------------------|---------------------------------------------------|-------------------------------------------------|
+| **Definition**          | A set of steps to solve a specific problem.       | The linear execution of code statements in order. |
+| **Scope**              | Broad, problem-solving strategy.                  | Narrow, a single control structure.             |
+| **Role**               | Combines sequencing, selection, and iteration to achieve a goal. | The basic flow of executing instructions one after another. |
+| **Abstraction**        | Abstract, can be implemented in any language.     | Concrete, tied to code execution in a program.   |
+| **Example**            | A recipe for sorting a list (e.g., QuickSort).    | Executing `a = 1; b = 2; print(a + b);` in order. |
+| **Complexity**         | Can be complex, involving multiple steps and logic. | Simple, just the order of execution.            |
+
+### **How They Relate**
+- **Sequencing in Algorithms**: Algorithms often *use* sequencing as one of their components. For example, in a sorting algorithm, certain steps (like comparing two elements or swapping them) are executed in sequence, but the algorithm as a whole may also include conditionals (e.g., `if a > b`) and loops (e.g., `while not sorted`).
+- **Sequencing Alone Isn’t Enough**: While sequencing ensures instructions are executed in order, it’s only one part of an algorithm. Algorithms typically require additional logic (selection and iteration) to handle decision-making and repetition.
+
+### **Analogy**
+- **Algorithm**: Think of an algorithm as a complete recipe for baking a cake. It includes all the steps, decisions (e.g., “if the batter is too thick, add more milk”), and repetitions (e.g., “stir until smooth”).
+- **Sequencing**: Sequencing is like following the recipe’s steps in order (e.g., “measure flour, then add sugar, then mix”). It’s just the linear progression of tasks, without the full logic of the recipe.
+
+### **Example to Illustrate**
+Suppose you want to find the maximum number in a list:
+- **Algorithm (e.g., Linear Search for Maximum)**:
+  1. Start with the first number as the current maximum.
+  2. Compare it with the next number.
+  3. If the next number is larger, update the maximum.
+  4. Repeat until the end of the list.
+  5. Return the maximum.
+  This involves sequencing (steps in order), iteration (looping through the list), and selection (checking if a number is larger).
+
+- **Sequencing in Code** (Python implementation of the algorithm):
+  ```python
+  numbers = [4, 2, 7, 1, 9]
+  max_num = numbers[0]  # Step 1
+  for num in numbers:   # Step 2 (iteration)
+      if num > max_num: # Step 3 (selection)
+          max_num = num # Step 4
+  print(max_num)        # Step 5
+  ```
+  Here, sequencing ensures that the instructions (assign, loop, compare, update, print) are executed in order, but the algorithm as a whole includes more than just sequencing.
+
+### **Summary**
+An **algorithm** is a comprehensive plan to solve a problem, often incorporating sequencing, selection, and iteration. **Sequencing** is simply the linear execution of instructions in the order they appear, a fundamental part of how programs (and algorithms) are executed. While sequencing is a component of many algorithms, an algorithm is broader, encapsulating the full logic needed to achieve a specific goal.
+
+
+
+
+
+---
+## CSS 
+
+## Pseudo-Classes
+
+Interactive pseudo-classes let you change the look of elements when users do things like move their mouse over them, click them, or select them. They help make your website feel more responsive and fun to use.
+
+The syntax of pseudo-classes:
+
+```css
+selector:pseudo-class {  property: value;}
+```
+
+---
+### Child Selector
+**The child selector** ( `>` ) is used when we want to style elements that are direct children of another element. Unlike the descendant selector, it only selects direct children, not deeper ones.
+
+For example:
+
+```html
+<div class="parent">  <p>This is a direct child</p>  <section>    <p>This is a grandchild (not a direct child)</p>  </section></div>
+```
+
+Apply styling to direct children only:
+
+```css
+.parent > p {  color: red;}
+```
+
+After applying this CSS, only the first paragraph "This is a direct child" will be red. The second paragraph won't be affected because it's not a direct child of the div with class "parent".
+
+## Adjacent Sibling Selector
+
+
+The adjacent sibling selector (`+`) is used to style an element that comes right after a specific element. Both of them must have the same parent, and "adjacent" means "immediately next to each other."
+
+For example:
+
+```html
+<h2>Heading</h2><p>This paragraph is styled</p>
+```
+
+With this CSS:
+
+```css
+h2 + p {  
+	font-weight: bold;
+	}
+```
+
+The paragraph is styled because it directly follows an h2 element.
+
+---
+## General Sibling Selector
+
+
+The general sibling selector (`~`) selects all elements that are siblings of a specified element and come after it.
+
+For example:
+
+```html
+<div>  
+	<p>Paragraph 1</p>  
+	<h2>Heading</h2>  
+	<p>Paragraph 2</p>  
+	<p>Paragraph 3</p>
+</div>
+```
+
+With this CSS:
+
+```css
+h2 ~ p {  color: blue;}
+```
+
+After applying this CSS, the result will be:
+
+- Paragraph 1 remains unchanged (it's not a sibling that comes after h2)
+- Paragraph 2 becomes blue (it's a sibling that comes after h2)
+- Paragraph 3 becomes blue (it's a sibling that comes after h2)
+
+---
+
+## Practice Code 
+
+You have a `.team-container` that holds several team sections. Your task is to:
+
+1. Use the child selector to style direct child divs inside `.team-container` with a light blue background, padding of 10px, and margin of 5px.
+2. Use the child selector to style direct `<h3>` elements inside `.team` divs with a green color and font size of 20px.
+```html
+<html>
+<head>
+    <title>Child Selector</title>
+    <style>
+       .team-container > div { 
+        background-color: lightblue;
+        padding: 10px; 
+        margin: 5px;  
+       }
+
+       .team > h3 { 
+        color: green; 
+        font-size: 20px; 
+       }
+       
+    </style>
+</head>
+<body>
+    <div class="team-container">
+        <div class="team">
+            <h3>Basketball Team</h3>
+            <ul>
+                <li>LeBron James</li>
+                <li>Stephen Curry</li>
+                <li>Kevin Durant</li>
+            </ul>
+        </div>
+        <div class="team">
+            <h3>Football Team</h3>
+            <ul>
+                <li>Tom Brady</li>
+                <li>Patrick Mahomes</li>
+                <li>Davante Adams</li>
+            </ul>
+        </div>
+        <div class="team">
+            <h3>Soccer Team</h3>
+            <ul>
+                <li>Lionel Messi</li>
+                <li>Cristiano Ronaldo</li>
+                <li>Neymar Jr.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+```
+
+---
+
+## Adjacent Sibling Selector 
+
+Create a CSS selector that targets only the paragraphs (`<p>`) that directly follow an `<h2>` element describing a basketball game. Style these paragraphs with a **blue font color** and **18px font size**.
+
+```html
+<html>
+<head>
+    <title>Adjacent Sibling Selector</title>
+    <style>
+       h2 + p { 
+        color: blue; 
+        font-size: 18px; 
+       } 
+        
+    </style>
+</head>
+<body>
+    <h2>Basketball Game Overview</h2>
+    <p>The basketball game was an exciting match between the **Los Angeles Lakers** and the **Golden State Warriors**, featuring intense offense and solid defense from both teams.</p>
+    
+    <p>During the first half, the Lakers held a slight lead, with LeBron James making key plays, while Stephen Curry of the Warriors kept the game tight with impressive three-pointers.</p>
+    
+    <p>This paragraph is not directly after an h2, so it should not be affected.</p>
+    
+    <p>In the second half, the Warriors fought back, with Klay Thompson hitting critical shots, but the Lakers secured their win with solid defense and a game-winning dunk by Anthony Davis.</p>
+</body>
+</html>
+
+```
+
+---
+## General Sibling Selector 
+
+Create a CSS rule using the general sibling selector to make all `<p>` elements that come **after** the `<h1>` light up in **bright pink** (`#ff69b4`).
+
+```html 
+<html>
+<head>
+    <title>General Sibling Selector</title>
+    <style>
+        h1 ~ p { 
+            color: #ff69b4; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Party!</h1>
+    <p>Grab a drink.</p>
+    <p>Say hello to new friends.</p>
+    <div>Dance floor area</div>
+    <p>Take a selfie!</p>
+    <p>Enjoy the snacks.</p>
+</body>
+</html>
+```
+
+
+
+
+
+---
 # Weekly Coding Summary (Sep 7 - Sep 12, 2025)
 *generated by* #chatgpt/notes/weekly-practice-summary 
 
@@ -82,7 +435,6 @@ You showed resilience in debugging (e.g., iterating the range problem from error
 - watched a few more videos about declaring functions in python and I am really confident about them so far
 - started doing some short burst exercises of computer programming in the app: brilliant 
 - practiced some math foundational skills just to stay up in my logic and math problem solving and practiced this in duolingo.
-- 
 
 
 
@@ -123,7 +475,7 @@ style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
 ---
 ### 🚀 Practice Activities & Code
 
-- Platform: Coddy, Sololearn
+- Platform: Coddy, Sololearn, Brilliant, Duolingo
 - Practice: [[PRAC- 
 - Skills Learned: [[SKIL-
 - Spaced Repetition Cards: [[SR-
@@ -354,6 +706,10 @@ Key differences:
 - Syntax: typeof is an operator, not a function, so parentheses are optional (e.g., typeof movie or typeof(movie) both work).
 - Output: Returns strings like "string", "number", "boolean", "object", "function", "undefined", or "symbol".
 - Limitations: typeof null returns "object" (a historical quirk), and it doesn’t distinguish between object subtypes like arrays or custom objects. For more specific checks, you might use instanceof (e.g., movie instanceof String) or Array.isArray() for arrays.
+
+---
+
+
 
 ---
 ### 💥 Challenges Faced Today
@@ -1440,6 +1796,258 @@ You can’t assign the result of a statement — that’s why it errors out.
 ---
 ### 🧠 Learnings
 
+
+### 📝 Overview
+
+- 
+
+
+
+
+---
+
+### Videos on {{title}}
+
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+<iframe
+src="https://www.youtube.com/embed/9YFT5HqL5m8?feature=oembed" 
+height="113" 
+width="200" 
+allowfullscreen="" 
+allow="fullscreen" 
+style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;">
+</iframe>
+
+---
+### 🚀 Practice Activities & Code
+
+- Platform: Coddy, Sololearn
+- Practice: [[PRAC- 
+- Skills Learned: [[SKIL-
+- Spaced Repetition Cards: [[SR-
+
+> [!NOTE]+ Link to chatgpt/grok explaining and walking me through the steps where I am lacking:
+>  [[CHAT-]]
+>  [[CHAT-]]
+>  [[CHAT-]]
+
+---
+
+#### 🧪 Code Instruction 
+
+
+##### First Attempt 
+```language
+
+```
+###### personal notes on my code: 
+
+
+##### Second Attempt 
+```language
+
+```
+###### personal notes on my code: 
+
+
+##### Third Attempt 
+```language
+
+```
+###### personal notes on my code: 
+
+
+##### Fourth Attempt 
+```language
+
+```
+###### personal notes on my code: 
+
+
+##### Final Attempt 
+```language
+
+```
+###### personal notes on my code: 
+
+
+
+#### 🧪Code Review in detail:
+---
+##### Program Overview
+
+
+
+
+
+---
+###### Program Code Snippet
+```python
+
+```
+
+###### Line-by-Line Analysis
+
+```
+Line X: `code_line_here`  
+   - Explanation: Describe what this line accomplishes.  
+   - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
+   - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
+```
+
+**Line 1: `code_line_here`**  
+   - Explanation: Describe what this line accomplishes.  
+   - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
+   - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
+
+**Line 2: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 3: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 4: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+**Line 5: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 6: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 7: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+**Line 8: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 9: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 10: `code_line_here`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+---
+###### Execution Flow
+*Trace the code's runtime behavior step-by-step, assuming sample inputs if needed. Use bullet points for clarity, showing how values change over time (e.g., in loops).*
+
+- Step 1: Initialization (e.g., var1 is set to 7.0).  
+- Step 2: Enter loop (condition: 7.0 >= 3.5 → True).  
+  - Sub-step: var1 becomes 3.5.  
+- Step 3: Loop again (condition: 3.5 >= 3.5 → True).  
+  - Sub-step: var1 becomes 1.75.  
+- Step 4: Condition fails (1.75 < 3.5), exit loop.  
+- Final: Output printed.
+
+---
+###### Expected Behavior and Output
+*Describe what the code should do under normal conditions. Include the expected output and why it occurs. If applicable, contrast with unexpected results from testing.*
+
+- Reasoning: Based on the loop dividing until below 3.5.
+- Expected output: e.g., 1.75. 
+- Unexpected output: 
+
+---
+###### Potential Issues or Variations
+*Discuss why the code might behave differently in various environments (e.g., IDEs handling input differently). List bugs, edge cases, or assumptions.*
+
+- Issue 1: Input mishandling (e.g., non-numeric input causes ValueError).  
+- Issue 2: Environment differences (e.g., Coddy vs. standard Python).  
+- Edge cases: What if input is less than 3.5? (Loop skips, outputs original value.)
+
+---
+###### Debugging Tips and Fixes
+*Provide practical advice for testing and improving the code. Include modified versions or additional prints for verification.*
+
+1. Add print statements: e.g., `print("Initial var1:", var1)` to track values.  
+2. Hardcode values: Temporarily replace input with `var1 = float(7)` to isolate issues.  
+3. Test in multiple environments: Run in local Python vs. online IDE.  
+4. Fixed version:  
+   ```python
+   # Paste an improved code snippet here
+   ```
+
+
+### 🧠 Learnings
+
+
+
+
+
+
+---
+### 💥 Challenges Faced Today
+
+
+
+
+
+---
+### 🎴 Practice Cards
+
+
+
+
+
+
+---
+### 🚀 Project Progress
+- Projects worked on: [[2-Projects/Portfolio/PersonalWebsite.md]]
+- Updates: What I accomplished or plan to do next.
+
+
+---
+### ✅ To-Do for Tomorrow
+#todo
+
+- [ ] Finish finalizing the notes into their own skill note from this daily vlog
+	- [ ] Turn any notes taken into spaced repetition cards
+- [ ] Make any flashcards from learnings from this log
+- [ ] Make sure course practice note is linked from this log 
+- [ ] Make sure skills notes that were made today are linked to this log
 #### 1 Learned how a while loop with and else statement can be written even though conditions go to that else statement when the initial condition isn’t met 
 
 Found out how this will output the same thing. I was 

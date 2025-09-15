@@ -12,9 +12,14 @@
         "2025-09-11": 475,
         "2025-09-12": 3157,
         "2025-09-13": 834,
-        "2025-09-14": 0
+        "2025-09-14": 1975
       },
-      "todaysWordCount": {}
+      "todaysWordCount": {
+        "Timeline/Learning Code Devlog.md": {
+          "initial": 11984,
+          "current": 13959
+        }
+      }
     },
     "Kwenelas-MacBook-Pro.local": {
       "dayCounts": {

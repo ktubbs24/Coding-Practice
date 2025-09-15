@@ -30,6 +30,8 @@
   "defaultFolderSort": "modified-desc",
   "groupByDate": true,
   "optimizeNoteHeight": true,
+  "showNotesFromSubfolders": true,
+  "showParentFolderNames": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": true,
   "quickActionPinNote": true,
@@ -44,7 +46,6 @@
   "fileNameRows": 1,
   "showFileDate": true,
   "showFileTags": true,
-  "showParentFolderNames": true,
   "showFilePreview": true,
   "skipHeadingsInPreview": true,
   "previewProperties": [],
@@ -58,7 +59,6 @@
   "confirmBeforeDelete": true,
   "searchActive": true,
   "showHiddenItems": false,
-  "includeDescendantNotes": true,
   "customVaultName": "",
   "pinnedNotes": {
     "0-META/Templates/Base Template.md": {
@@ -98,7 +98,7 @@
   "recentColors": [],
   "lastShownVersion": "1.4.15",
   "settingsVersion": 1,
-  "showNotesFromSubfolders": true,
+  "includeDescendantNotes": true,
   "showHiddenBehavior": "all",
   "collapseButtonBehavior": "all"
 }
