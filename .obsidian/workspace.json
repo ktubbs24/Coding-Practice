@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Learning Code Devlog"
             }
+          },
+          {
+            "id": "b62cf34a7652360d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b4bd102291386a89",
@@ -162,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 611.5,
-    "collapsed": true
+    "width": 611.5
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -194,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/Learning Code Devlog.md",
+                "file": "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning Code Devlog"
+              "title": "Outline of PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F)"
             }
           },
           {
@@ -313,8 +327,10 @@
       "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "39a58c9f44ab07cc",
+  "active": "b62cf34a7652360d",
   "lastOpenFiles": [
+    "1-Projects/Future Project Ideas/Idea and inspiration for a time tracker.md",
+    "Timeline/Learning Code Devlog.md",
     "test.html",
     "test.htlm",
     "0-META/Attachments/Pasted image 20250913205535 1.jpg",
@@ -328,7 +344,6 @@
     "0-META/Attachments/IMG_3464.jpeg",
     "0-META/Attachments/IMG_3467.jpeg",
     "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
-    "Timeline/Learning Code Devlog.md",
     "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/2025-09-06.md",
     "Reflect/Home.md",
@@ -345,7 +360,6 @@
     "1-Projects/Documentation Sites/Islam-IsLIES/essentials/test",
     "1-Projects/Documentation Sites/Islam-IsLIES/snippets/snippet-intro.mdx",
     "1-Projects/Documentation Sites/Islam-IsLIES/essentials/settings.mdx",
-    "1-Projects/Documentation Sites/Islam-IsLIES/essentials/reusable-snippets.mdx",
     "1-Projects/Documentation Sites/Islam-IsLIES/README.md",
     "Timeline/2025/09/2025-09-05.md",
     "0-META/Templates/Practice Note Template.md",
