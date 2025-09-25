@@ -28,16 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+                "file": "Timeline/Learning Code Devlog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F)"
+              "title": "Learning Code Devlog"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b4bd102291386a89",
@@ -177,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d6b66481e4e2e424",
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+                "file": "Timeline/Learning Code Devlog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F)"
+              "title": "Outline of Learning Code Devlog"
             }
           },
           {
@@ -306,7 +306,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,8 +328,10 @@
       "single-file-daily-notes:Open daily notes": false
     }
   },
-  "active": "b62cf34a7652360d",
+  "active": "39a58c9f44ab07cc",
   "lastOpenFiles": [
+    "Timeline/Timeline.base",
+    "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "1-Projects/Future Project Ideas/Idea and inspiration for a time tracker.md",
     "Timeline/Learning Code Devlog.md",
     "test.html",
@@ -344,7 +347,6 @@
     "0-META/Attachments/IMG_3464.jpeg",
     "0-META/Attachments/IMG_3467.jpeg",
     "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
-    "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
     "Timeline/2025-09-06.md",
     "Reflect/Home.md",
     "Reflect/SR-Python User Input and Control Flow.md",
@@ -374,7 +376,6 @@
     "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
     "Reflect/SKIL-Python While Loops.md",
     "Reflect/PRAC-Python While Loops.md",
-    "Reflect/The benefits of me using different coding platforms.md",
     "Devlog/Canvas - Devlog Processing.canvas",
     "1-Practice/Programming Practice/Untitled.canvas"
   ]

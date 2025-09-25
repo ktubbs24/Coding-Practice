@@ -4,6 +4,125 @@
 
 ---
 
+
+
+
+
+
+
+
+
+## 24-09-2025, Wednesday
+### 📝 Overview
+
+- Practiced some quick Java in declaring variables in Coddy 
+
+
+
+---
+### 🚀 Practice Activities & Code
+
+- Platform: Coddy, Sololearn
+- Practice: [[PRAC- 
+- Skills Learned: [[SKIL-
+- Spaced Repetition Cards: [[SR-
+
+---
+
+#### 🧪 Code Instruction 
+
+You're making a simple profile system. Create several String variables to store different pieces of information:
+
+1. Make the following String variables:
+    - `firstName` with value "Alex"
+    - `city` with value "New York"
+    - `hobby` with value "Playing guitar"
+    - `greeting` with value "Hello, nice to meet you!"
+    - `favoriteQuote` with value "Life is like a box of chocolates"
+    - `mood` with value "Happy"
+2. Pay attention to:
+    - Exact spacing
+    - Proper use of quotation marks
+    - Case sensitivity
+    - Special characters and emojis
+
+The program will automatically print all values in a profile format.
+
+##### First Attempt 
+```java
+public class Main {
+
+public static void main(String[] args) {
+
+String firstName = "Alex";
+String city = "New York";
+String hobby = "Playing guitar"; 
+String greeting = "Hello, nice to meet you!";
+String favoriteQuote = "Life is like a box of chocolates"; 
+String mood = "Happy";
+
+System.out.println("Name: " + firstName);
+System.out.println("City: " + city);
+System.out.println("Hobby: " + hobby);
+System.out.println("Greeting: " + greeting);
+System.out.println("Favorite Quote: " + favoriteQuote);
+System.out.println("Current Mood: " + mood);
+
+	}
+
+}
+```
+###### personal notes on my code: 
+
+this is pretty easy and adding the semicolon after each statement reminds me of how I need to do that with writing javascript although I prefer the simplicity of python when declaring variables with not having to name the variable type as I do in java. 
+
+---
+### 🧠 Learnings
+
+
+
+
+
+
+---
+### 💥 Challenges Faced Today
+
+
+
+
+
+---
+### 🎴 Practice Cards
+
+
+
+
+
+
+---
+### 🚀 Project Progress
+- Projects worked on: [[2-Projects/Portfolio/PersonalWebsite.md]]
+- Updates: What I accomplished or plan to do next.
+
+
+---
+### ✅ To-Do for Tomorrow
+#todo
+
+- [ ] Finish finalizing the notes into their own skill note from this daily vlog
+	- [ ] Turn any notes taken into spaced repetition cards
+- [ ] Make any flashcards from learnings from this log
+- [ ] Make sure course practice note is linked from this log 
+- [ ] Make sure skills notes that were made today are linked to this log
+### **Summary**
+An **algorithm** is a comprehensive plan to solve a problem, often incorporating sequencing, selection, and iteration. **Sequencing** is simply the linear execution of instructions in the order they appear, a fundamental part of how programs (and algorithms) are executed. While sequencing is a component of many algorithms, an algorithm is broader, encapsulating the full logic needed to achieve a specific goal.
+
+
+
+
+
+---
+
 # Sunday 
 
 ## Practice Cards 
@@ -148,14 +267,6 @@ Suppose you want to find the maximum number in a list:
   ```
   Here, sequencing ensures that the instructions (assign, loop, compare, update, print) are executed in order, but the algorithm as a whole includes more than just sequencing.
 
-### **Summary**
-An **algorithm** is a comprehensive plan to solve a problem, often incorporating sequencing, selection, and iteration. **Sequencing** is simply the linear execution of instructions in the order they appear, a fundamental part of how programs (and algorithms) are executed. While sequencing is a component of many algorithms, an algorithm is broader, encapsulating the full logic needed to achieve a specific goal.
-
-
-
-
-
----
 ## CSS 
 
 ## Pseudo-Classes

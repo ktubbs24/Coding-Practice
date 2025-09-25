@@ -21,15 +21,9 @@
         "2025-09-20": 0,
         "2025-09-21": 0,
         "2025-09-22": 85,
-        "2025-09-23": 0,
-        "2025-09-24": 0
+        "2025-09-23": 0
       },
-      "todaysWordCount": {
-        "Timeline/Learning Code Devlog.md": {
-          "initial": 14619,
-          "current": 14284
-        }
-      }
+      "todaysWordCount": {}
     },
     "Kwenelas-MacBook-Pro.local": {
       "dayCounts": {
