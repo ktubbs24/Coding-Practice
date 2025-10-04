@@ -4,16 +4,19 @@ status:
 type:
   - course-practice
 language:
+  - Python
 topic:
+  - if-else
 platform:
+  - Coddy
 level:
   - beginner
 cards-made:
 tags:
+  - topic/if-else/nested/python
 aliases:
-date:
-last_practiced:
-  "{ date }":
+date: 2025-10-03T21:17:00
+last_practiced: 2025-10-03T21:17:00
 banner: "![[source code image.jpg]]"
 banner_icon: 💻
 ---
@@ -23,12 +26,14 @@ banner_icon: 💻
 
 # PRAC-Nested IF-Else - Coddy
 ---
-tags: #topic/ #platform/ 
+tags: #topic/if-else/nested/python #platform/coddy/if-else/nested  
 date: [[2025-10-03]]
 time: 18:07
 ## ⚛️ Code
 
 ```python 
+# example of if-else nested if statements 
+
 age = 18
 title = "None"
 allowed_to_drink = False
@@ -47,9 +52,7 @@ In this example, the second if-else only executes when the first condition is `
 ---
 ## 💻  Practice Examples 
 
-## Instruction 
-
-Write a program that determines eligibility for a movie based on age and parental guidance.
+## Write a program that determines eligibility for a movie based on age and parental guidance.
 
 Your program should:
 
@@ -77,7 +80,7 @@ if age < 18:
 print(message)
 ````
 
-### Personal Comments 
+### Personal Comments after initial attempt: 
 
 I tried to rewrite this so that it was not a bunch of if statements logically written but is a program that follows the instructions using if-else. 
 
@@ -145,14 +148,14 @@ So `with_parent` would be `False` in all those cases, and your code would **stil
 
 ---
 
-### Why it “still worked” in your test:
+#### Why it “still worked” in your test:
 
 Most likely, when you tested it in the IDE, you typed **exactly** `true` (all lowercase) for the input.
 That’s why it matched `"true"` exactly, giving you `True` or `False` properly, and your `if` checks worked.
 
 ---
 
-### ⚡ Summary:
+##### ⚡ Summary:
 
 * Your code *works* as long as the input matches `"true"` exactly.
 * It doesn’t “automatically” convert arbitrary strings like `"True"` to boolean — it’s the equality comparison that’s doing the work.
@@ -209,7 +212,7 @@ So: the problem with your snippet isn’t syntax — it’s **logic flow**.
 No syntax error will appear, but only the “You can watch any movie” branch will ever run if `age >= 18`, because the `if age < 18` inside will never be true.
 
 
-So let me try again : 
+### So let me try again : 
 
 ```python 
 
@@ -241,17 +244,68 @@ print(message)
 ```
 
 ^bb649b
+### Explanation of final code: ✅
+###### Line-by-Line Analysis
+
+**Line 1: `if age >= 18:`**  
+   - Explanation: Mammm
+   - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
+   - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
+
+**Line 2: `message = "You can watch any movie"`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
 
 
+**Line 3: `else: `**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 4: `if with_parent == True:`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+**Line 5: `message = "You can watch PG-13 movies"`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 6: `else: `**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+
+**Line 7: `message = "You can only watch G-rated movies"`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+
+**Line 8: `print(message)`**  
+   - Explanation: 
+   - Details: 
+   - Potential pitfalls: 
+---
+### Links to other notes off of it practice problem: 
 - So I ended up asking if I could place `if` statements in an else block and I can: 
 	- [[CHAT-Can I place IF statements in else block in python]]
 -  And I also asked what is the main purpose for using this form of if-else nesting over if-elif or just multiple if-else statements in a program? 
 	- [[CHAT-What is the point of using if statements nested in else blocks in Python]]
+
+---
 ## Instruction
 
 ```language
 
 ````
+
+
+
 
 ## Instruction
 

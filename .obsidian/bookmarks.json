@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1759554422256,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1759554392185,
+          "path": "2-Skills/1.Languages/Python/If - Else/Practice Exercises/PRAC-Nested IF-Else - Coddy.md",
+          "title": "Practice If-else"
+        },
+        {
+          "type": "file",
+          "ctime": 1759554431453,
+          "path": "2-Skills/1.Languages/Python/While Loops/Practice Exercises/PRAC-While loops in Python - Brilliant.md",
+          "title": "Practice While Loops"
+        }
+      ],
+      "title": "Practicing code"
+    }
+  ]
+}

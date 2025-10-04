@@ -1,6 +1,4 @@
 [
-  "obsidian42-brat",
-  "notebook-navigator",
   "obsidian-filename-heading-sync",
   "execute-code",
   "ace-code-editor",
@@ -19,5 +17,7 @@
   "link-tree",
   "folder-notes",
   "single-file-daily-notes",
-  "ytranscript"
+  "ytranscript",
+  "obsidian42-brat",
+  "notebook-navigator"
 ]

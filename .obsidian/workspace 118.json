@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "6da48a5754cfee8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ba9db9a57589b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794cd6df3bd37345",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Skills/1.Languages/Python/If - Else/Practice Exercises/PRAC-Nested IF-Else - Coddy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "PRAC-Nested IF-Else - Coddy"
+            }
+          },
+          {
+            "id": "5279d4d06980f8df",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Skills/1.Languages/Python/While Loops/Practice Exercises/PRAC-While loops in Python - Brilliant.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "PRAC-While loops in Python - Brilliant"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b9c2e1ca2336a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "b42174e10edbd56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd5be663e20ddd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d3abb0333931b11f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#topic/input",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7eac1d3ea645ac6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "81834be6499d0017",
+    "type": "split",
+    "children": [
+      {
+        "id": "c13d44937bcd97c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b57389b2886e1cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2-Skills/1.Languages/Python/While Loops/Practice Exercises/PRAC-While loops in Python - Brilliant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PRAC-While loops in Python - Brilliant"
+            }
+          },
+          {
+            "id": "2d6861f677d3e297",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-Skills/1.Languages/Python/While Loops/Practice Exercises/PRAC-While loops in Python - Brilliant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PRAC-While loops in Python - Brilliant"
+            }
+          },
+          {
+            "id": "54538054a811016f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "debb954f9ae9b87b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "929971978d978075",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-Skills/1.Languages/Python/While Loops/Practice Exercises/PRAC-While loops in Python - Brilliant.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PRAC-While loops in Python - Brilliant"
+            }
+          },
+          {
+            "id": "53b710d353219896",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "ace-code-editor:Open CSS snippet manager": false,
+      "yourpulse:Open YourPulse Profile": false,
+      "homepage:Open homepage": false,
+      "link-tree:Link Tree": false,
+      "single-file-daily-notes:Open daily notes": false,
+      "obsidian42-brat:BRAT": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "5279d4d06980f8df",
+  "lastOpenFiles": [
+    "0-META/Templates/Line By Line Analysis.md",
+    "2-Skills/1.Languages/Python/While Loops/Practice Exercises/PRAC-While loops in Python - Brilliant.md",
+    "0-META/Templates/Timeline Template.md",
+    "0-META/Code Database.base",
+    "Reflect/Reflect.md",
+    "0-META/Templates/Practice Note Template.md",
+    "0-META/Templates/Project Idea Template.md",
+    "0-META/Templates/Skills Template.md",
+    "0-META/Templates/Snippet Template.md",
+    "2-Skills/1.Languages/Python/If - Else/Practice Exercises/PRAC-Nested IF-Else - Coddy.md",
+    "0-META/Attachments/Pasted image 20251003212210.png",
+    "Timeline/Learning Code Devlog.md"
+  ]
+}

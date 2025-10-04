@@ -7,7 +7,7 @@
     "focus": "multitext",
     "status": "multitext",
     "language": "multitext",
-    "last_practiced": "date",
+    "last_practiced": "datetime",
     "platform": "multitext",
     "last-practiced": "datetime",
     "related": "text",
