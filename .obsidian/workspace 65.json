@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "23efac69c108fb77",
+    "type": "split",
+    "children": [
+      {
+        "id": "84575db4b5078deb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50afcbc98bb4766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-META/Templates/ChatGPT Reference Notes Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT Reference Notes Template"
+            }
+          },
+          {
+            "id": "a12c7b6cb8927ea6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17f3c1d2ab7e6441",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffbcebd30b93bc71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2db684ad3047372",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb4bc2e213a9dd03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc69ec8cd368f997",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a66026abbc249ed3",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 629.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d8f1e52cad51a638",
+    "type": "split",
+    "children": [
+      {
+        "id": "f897a69b48c71c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17253a11908c4209",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-META/Templates/ChatGPT Reference Notes Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ChatGPT Reference Notes Template"
+            }
+          },
+          {
+            "id": "24db6354badbf46e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-META/Templates/ChatGPT Reference Notes Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ChatGPT Reference Notes Template"
+            }
+          },
+          {
+            "id": "bb703a4eef698d7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9bda7b76ece1b7db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "47c0c39f28cf1aa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-META/Templates/ChatGPT Reference Notes Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ChatGPT Reference Notes Template"
+            }
+          },
+          {
+            "id": "73717727b95b3f18",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "ace-code-editor:Open CSS snippet manager": false,
+      "yourpulse:Open YourPulse Profile": false,
+      "homepage:Open homepage": false,
+      "link-tree:Link Tree": false,
+      "single-file-daily-notes:Open daily notes": false
+    }
+  },
+  "active": "c50afcbc98bb4766",
+  "lastOpenFiles": [
+    "2-Skills/1.Languages/Python/If - Else/Chatgpt Explanations/CHAT-Can I place IF statements in else block in python.md",
+    "0-META/Templates/ChatGPT Reference Notes Template.md",
+    "2-Skills/1.Languages/Python/If - Else/Practice Exercises/PRAC-Nested IF-Else - Coddy.md",
+    "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+    "2-Skills/1.Languages/Python/If - Else/Chatgpt Explanations/CHAT-What is the point of using if statements nested in else blocks in Python.md",
+    "Timeline/Learning Code Devlog.md"
+  ]
+}

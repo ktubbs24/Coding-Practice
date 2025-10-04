@@ -1,5 +1,5 @@
 ---
-date:
+date: 2025-09-27T23:17:00
 status:
   - archived
 type:

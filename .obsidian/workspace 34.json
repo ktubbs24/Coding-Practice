@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "8101343a977639d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4cc1bb2e0c78a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b62cf34a7652360d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Best plugins for coders in Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Best plugins for coders in Obsidian"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42e51545b9108bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f5b3a3af8208f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1da589a262dd2f55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6c3a15ae0e4b5b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c68397c3e319bae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#card",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e35dd8700d2fef15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7a8b374a08519a34",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "d6b66481e4e2e424",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe17c14e2d4c43b",
+        "type": "tabs",
+        "dimension": 65.9047619047619,
+        "children": [
+          {
+            "id": "cf1431b93a37c7af",
+            "type": "leaf",
+            "state": {
+              "type": "sfdn-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "193caabafefa4f42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Best plugins for coders in Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Best plugins for coders in Obsidian"
+            }
+          },
+          {
+            "id": "8c4844ee72b206c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reflect/Reflect.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Reflect"
+            }
+          },
+          {
+            "id": "b4609f118942cb32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reflect/Reflect.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reflect"
+            }
+          },
+          {
+            "id": "a513ce57a0be5ca4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "ca50634fe98e22f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bd49cf64c802b84e",
+            "type": "leaf",
+            "state": {
+              "type": "link-tree",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Link Tree"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f65bae6d3f6cf533",
+        "type": "tabs",
+        "dimension": 34.095238095238095,
+        "children": [
+          {
+            "id": "1843539d3b8aeb5c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "ace-code-editor:Open CSS snippet manager": false,
+      "yourpulse:Open YourPulse Profile": false,
+      "homepage:Open homepage": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "link-tree:Link Tree": false,
+      "single-file-daily-notes:Open daily notes": false
+    }
+  },
+  "active": "b62cf34a7652360d",
+  "lastOpenFiles": [
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Obsidian Vault Structure (Practice-First PARA).md",
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Example Dataview Queries For this Vault.md",
+    "1-Projects/_Devlog/Setting Up Obsidian Vault For Coding/Daily training with coding courses and interactive learning.md",
+    "2-Skills/1.Languages/Python/SKIL-Type Conversion/SKIL-Type Conversion.md",
+    "2-Skills/1.Languages/Python/1.Variables/Python Variables.md",
+    "2-Skills/1.Languages/Python/SKIL-Type Conversion/Practice Exercises",
+    "2-Skills/1.Languages/Python/SKIL-Type Conversion",
+    "Reflect/Booleans.md",
+    "2-Skills/1.Languages/Python/_Practice",
+    "Reflect/Coddy-Python-Project Bill Split Calculator.md",
+    "Timeline/Learning Code Devlog.md",
+    "1-Projects/Future Project Ideas/Designing a non secular game to learn code.md",
+    "1-Projects/Future Project Ideas/MonkeyType like typing app.md",
+    "Timeline/Timeline.base",
+    "Reflect/PRAC-Python Input Validation with While Loop and Conditional Mapping (1 to T, 0 to F).md",
+    "1-Projects/Future Project Ideas/Idea and inspiration for a time tracker.md",
+    "test.html",
+    "test.htlm",
+    "0-META/Attachments/Pasted image 20250913205535 1.jpg",
+    "0-META/Attachments/Pasted image 20250913205629.jpg",
+    "0-META/Attachments/Pasted image 20250913205535.jpg",
+    "0-META/Attachments/IMG_3475.png",
+    "0-META/Attachments/IMG_3462.jpeg",
+    "0-META/Attachments/Pasted image 20250913192521.png",
+    "0-META/Attachments/IMG_3463.jpeg",
+    "0-META/Attachments/Pasted image 20250913193817.png",
+    "0-META/Attachments/IMG_3464.jpeg",
+    "0-META/Attachments/IMG_3467.jpeg",
+    "Timeline/2025-09-06.md",
+    "Reflect/Home.md",
+    "Reflect/SR-Python User Input and Control Flow.md",
+    "0-META/Templates/Timeline Template.md",
+    "3-Resources/Achievements/My Score For Python Understanding Quiz.md",
+    "Reflect/Reflect.md",
+    "3-Resources/Achievements",
+    "1-Projects/Documentation Sites/Islam-IsLIES/essentials/test/my test here.md",
+    "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/webhook.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/get.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/api-reference/endpoint/delete.mdx",
+    "1-Projects/Documentation Sites/Islam-IsLIES/README.md",
+    "Timeline/2025/09/2025-09-05.md",
+    "0-META/Templates/Practice Note Template.md",
+    "2-Skills/1.Languages/Python/_Cards - Python/SR-Python While Loops.md",
+    "Reflect/Every language has 4 main notes for each topic.md",
+    "Timeline/2025-09-03.md",
+    "Timeline/2025-08-29.md",
+    "Devlog/Canvas - Devlog Processing.canvas",
+    "1-Practice/Programming Practice/Untitled.canvas"
+  ]
+}
