@@ -43,14 +43,15 @@ time: 21:15
 ## Complete the program. Collect all the gems. 
 ![[Pasted image 20251003212210.png]]
 
-```language
-
+```python 
+while gems remain 
+	move forward 
+	if at gem 
+		collect gem 
+	if no tile ahead
+		turn around 
 ````
-
-### Personal Comments 
-
-
-### Line-by-Line Analysis  #analysis-line-by-line/python/
+### Line-by-Line Analysis  #analysis-line-by-line/python/while-loops
 
 ```
 Line X: `code_line_here`  
@@ -58,10 +59,14 @@ Line X: `code_line_here`
    - Details: Note variables, functions, or operations involved (e.g., converts input to float).  
    - Potential pitfalls: Mention common errors (e.g., TypeError if input is invalid).
 ```
-
 #### Code under analysis: 
 ```python 
-
+while gems remain 
+	move forward 
+	if at gem 
+		collect gem 
+	if no tile ahead
+		turn around 
 
 ```
 

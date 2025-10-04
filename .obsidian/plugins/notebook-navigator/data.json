@@ -1,30 +1,21 @@
 {
+  "dualPane": true,
   "autoRevealActiveFile": true,
-  "autoRevealIgnoreRightSidebar": true,
   "showTooltips": true,
-  "homepage": null,
-  "startView": "navigation",
   "fileVisibility": "supported",
   "excludedFolders": [],
   "excludedFiles": [],
-  "navigationBanner": null,
-  "showShortcuts": true,
-  "showRecentNotes": true,
-  "recentNotesCount": 5,
   "autoSelectFirstFileOnFocusChange": true,
   "autoExpandFoldersTags": true,
   "collapseBehavior": "all",
-  "smartCollapse": true,
+  "showHiddenBehavior": "all",
   "showIcons": true,
   "showNoteCount": true,
-  "navIndent": 16,
   "navItemHeight": 28,
-  "navItemHeightScaleText": true,
-  "externalIconProviders": {},
+  "navIndent": 16,
   "showRootFolder": true,
   "inheritFolderColors": false,
   "enableFolderNotes": false,
-  "folderNoteType": "markdown",
   "folderNoteName": "",
   "folderNoteProperties": [],
   "hideFolderNoteInList": true,
@@ -37,10 +28,10 @@
   "favoriteTags": [],
   "hiddenTags": [],
   "defaultFolderSort": "modified-desc",
-  "listPaneTitle": "header",
-  "multiSelectModifier": "cmdCtrl",
   "groupByDate": true,
   "optimizeNoteHeight": true,
+  "showNotesFromSubfolders": true,
+  "showParentFolderNames": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": true,
   "quickActionPinNote": true,
@@ -55,11 +46,8 @@
   "fileNameRows": 1,
   "showFileDate": true,
   "showFileTags": true,
-  "showFileTagsInSlimMode": false,
-  "showParentFolderNames": true,
   "showFilePreview": true,
   "skipHeadingsInPreview": true,
-  "skipCodeBlocksInPreview": true,
   "previewProperties": [],
   "previewRows": 2,
   "showFeatureImage": true,
@@ -70,162 +58,7 @@
   "useEmbeddedImageFallback": true,
   "confirmBeforeDelete": true,
   "searchActive": true,
-  "searchProvider": "internal",
   "showHiddenItems": false,
-  "keyboardShortcuts": {
-    "pane:move-up": [
-      {
-        "key": "ArrowUp",
-        "modifiers": []
-      }
-    ],
-    "pane:move-down": [
-      {
-        "key": "ArrowDown",
-        "modifiers": []
-      }
-    ],
-    "pane:page-up": [
-      {
-        "key": "PageUp",
-        "modifiers": []
-      }
-    ],
-    "pane:page-down": [
-      {
-        "key": "PageDown",
-        "modifiers": []
-      }
-    ],
-    "pane:home": [
-      {
-        "key": "Home",
-        "modifiers": []
-      }
-    ],
-    "pane:end": [
-      {
-        "key": "End",
-        "modifiers": []
-      }
-    ],
-    "navigation:collapse-or-parent": [
-      {
-        "key": "ArrowLeft",
-        "modifiers": []
-      }
-    ],
-    "navigation:expand-or-focus-list": [
-      {
-        "key": "ArrowRight",
-        "modifiers": []
-      }
-    ],
-    "navigation:focus-list": [
-      {
-        "key": "Tab",
-        "modifiers": []
-      }
-    ],
-    "pane:delete-selected": [
-      {
-        "key": "Delete",
-        "modifiers": []
-      },
-      {
-        "key": "Backspace",
-        "modifiers": []
-      }
-    ],
-    "list:focus-navigation": [
-      {
-        "key": "ArrowLeft",
-        "modifiers": []
-      },
-      {
-        "key": "Tab",
-        "modifiers": [
-          "Shift"
-        ]
-      }
-    ],
-    "list:focus-editor": [
-      {
-        "key": "ArrowRight",
-        "modifiers": []
-      },
-      {
-        "key": "Tab",
-        "modifiers": []
-      }
-    ],
-    "list:select-all": [
-      {
-        "key": "A",
-        "modifiers": [
-          "Mod"
-        ]
-      }
-    ],
-    "list:extend-selection-up": [
-      {
-        "key": "ArrowUp",
-        "modifiers": [
-          "Shift"
-        ]
-      }
-    ],
-    "list:extend-selection-down": [
-      {
-        "key": "ArrowDown",
-        "modifiers": [
-          "Shift"
-        ]
-      }
-    ],
-    "list:range-to-start": [
-      {
-        "key": "Home",
-        "modifiers": [
-          "Shift"
-        ]
-      }
-    ],
-    "list:range-to-end": [
-      {
-        "key": "End",
-        "modifiers": [
-          "Shift"
-        ]
-      }
-    ],
-    "search:focus-list": [
-      {
-        "key": "Tab",
-        "modifiers": []
-      },
-      {
-        "key": "Enter",
-        "modifiers": []
-      }
-    ],
-    "search:focus-navigation": [
-      {
-        "key": "Tab",
-        "modifiers": [
-          "Shift"
-        ]
-      }
-    ],
-    "search:close": [
-      {
-        "key": "Escape",
-        "modifiers": []
-      }
-    ]
-  },
-  "shortcuts": [],
-  "includeDescendantNotes": true,
   "customVaultName": "",
   "pinnedNotes": {
     "0-META/Templates/Base Template.md": {
@@ -233,8 +66,6 @@
       "tag": false
     }
   },
-  "fileIcons": {},
-  "fileColors": {},
   "folderIcons": {
     "Reflect": "lucide-brain",
     "Timeline": "lucide-calendar-arrow-up",
@@ -245,24 +76,29 @@
     "0-META": "lucide-clipboard-list",
     "/": "lucide-code-2"
   },
-  "folderColors": {
-    "2-Skills/1.Languages/Python/1.Variables": "#10b981",
-    "2-Skills/1.Languages/Python/SKIL-Type Conversion": "#10b981"
-  },
-  "folderBackgroundColors": {},
+  "folderColors": {},
   "folderSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},
   "tagColors": {},
-  "tagBackgroundColors": {},
   "tagSortOverrides": {},
   "tagAppearances": {},
+  "recentIcons": {
+    "lucide": [
+      "lucide-code-2",
+      "lucide-clipboard-list",
+      "lucide-folder-kanban",
+      "lucide-aperture",
+      "lucide-book-marked",
+      "lucide-folder-input",
+      "lucide-calendar-arrow-up",
+      "lucide-brain"
+    ]
+  },
   "recentColors": [],
-  "lastShownVersion": "1.5.1",
+  "lastShownVersion": "1.4.15",
   "settingsVersion": 1,
-  "rootFolderOrder": [],
-  "dualPane": true,
-  "showNotesFromSubfolders": true,
-  "showHiddenBehavior": "all",
+  "smartCollapse": true,
+  "includeDescendantNotes": true,
   "collapseButtonBehavior": "all"
 }
